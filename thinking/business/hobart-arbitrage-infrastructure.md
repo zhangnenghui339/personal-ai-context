@@ -205,6 +205,8 @@ An idealist would say that they’re growing because they offer a better legal s
 **中**  
 理想主义者会说，他们增长是因为提供了更好的「法律系统」，使原本不可能的交易成为可能。犬儒会说，他们增长是为了让更多客户依赖自己，好拿客户去游说政府。但两边都会同意：正确顺序是先增长，把点 i 上的点和划 t 上的横留到以后。
 
+深度与通俗见 `thinking/business/obvious-arb-and-new-property.md`。
+
 ## 和他相邻、但不要误安在他头上的话
 
 - 「带基础设施的套利」是本库对上述论点的压缩，不是 Hobart 原标题。
