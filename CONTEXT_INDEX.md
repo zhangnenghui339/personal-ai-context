@@ -10,6 +10,7 @@ AI 应先根据问题识别领域，再加载下列最小上下文；不要默�
 | 提示词 | `prompts/<domain>/` |
 | 商业、哲学、心理思考 | `thinking/<domain>/` |
 | 创业机会、分发、套利结构化 | `thinking/business/opportunity-discovery-model.md` |
+| Byrne Hobart 套利与基础设施原句 | `thinking/business/hobart-arbitrage-infrastructure.md` |
 | 读书相关 | `books/reading-list.md`、`books/notes/` |
 | 历史决策 | 对应项目的 `decisions.md` 或 `thinking/decision-journal/` |
 

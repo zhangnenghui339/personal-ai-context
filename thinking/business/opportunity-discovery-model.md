@@ -362,7 +362,7 @@ Amazon 说明结构化不是一次完成，而是**用这一层套利留下的�
 
 - **UE / Unit Economics**：以「一个客户 / 一笔订单 / 一台订阅设备」为单元算账。收入是否盖过获客、履约、退款、风险。好 UE = 每多做一个单元，现金和利润通常是正的，而且这个正数在规模变大时不会立刻翻负。
 - **分发入口 vs 分发权**：入口是你能碰到人；权是你能决定别人碰到谁。创业早期要的是前者，终局争的是后者。
-- **Byrne Hobart**：Newsletter *The Diff* 作者，兼写 *Capital Gains*。背景跨广告/SEO（含 Yahoo）、对冲基金研究（SAC/Point72）、数据公司。不是一线操盘的明星创始人，是把公司和金融市场当成同一套「价差如何闭合」来写的分析者。本文引用的硬表述来自 2025 年 *Arbs Close, Infrastructure Remains*。
+- **Byrne Hobart**：Newsletter *The Diff* 作者，兼写 *Capital Gains*。背景跨广告/SEO（含 Yahoo）、对冲基金研究（SAC/Point72）、数据公司。不是一线操盘的明星创始人，是把公司和金融市场当成同一套「价差如何闭合」来写的分析者。原句对照见 `thinking/business/hobart-arbitrage-infrastructure.md`。核心篇：2025 *Arbs Close, Infrastructure Remains*。「带基础设施的套利」是本库转述，不是他的原标题。
 
 ---
 
