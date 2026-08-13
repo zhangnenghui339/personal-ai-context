@@ -161,6 +161,8 @@ Owning distribution matters, but understanding where distribution is going is a 
 **中**  
 拥有分发很重要，但先理解分发在往哪走，才知道什么值得拥有。
 
+深度解释见 `thinking/business/where-distribution-is-going.md`。压缩：拥有收费站有价值，前提是车以后还走这条路。分发是需求和供给最后相遇的稀缺配置权；一层变便宜，权就往上爬。买错桥（昨天的卡口）比租对路更亏。
+
 ### 7. 平台税：让你走不了，留下也赚不多
 
 **EN** (*Platforms as Virtual Real Estate*, Capital Gains, 2025-08-06)  
