@@ -71,6 +71,8 @@ Take arbitrage, an activity that could literally amount to having two pricing sc
 **中**  
 所谓套利，字面上可以是两块屏幕、两个报价，一偏离就两边各点一下。通常没这么简单，原因很清楚：一眼能看见的套利早就被打光了。运气好也许还能碰到一笔；但若你是在「找」，更好的做法是聪明、勤奋，并且越来越需要大量基础设施——既用来识别信号，也用来执行交易。
 
+深度与通俗见 `thinking/business/obvious-arb-and-new-property.md`。
+
 ---
 
 **EN**  
