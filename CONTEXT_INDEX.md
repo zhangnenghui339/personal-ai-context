@@ -16,6 +16,7 @@ AI 应先根据问题识别领域，再加载下列最小上下文；不要默�
 | 信息差与麦克斯韦妖 | `thinking/business/information-gap-maxwell-demon.md` |
 | 不对称行为：李嘉诚与早期腾讯 | `thinking/business/asymmetric-behavior-cases.md` |
 | 读创业史四问与五案 | `thinking/business/four-questions-five-products.md` |
+| 第二问沉默面：对手身份图 | `thinking/business/airbnb-competitor-identity.md` |
 | 读书相关 | `books/reading-list.md`、`books/notes/` |
 | 历史决策 | 对应项目的 `decisions.md` 或 `thinking/decision-journal/` |
 
