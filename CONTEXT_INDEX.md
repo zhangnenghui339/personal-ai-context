@@ -9,6 +9,7 @@ AI 应先根据问题识别领域，再加载下列最小上下文；不要默�
 | 亲子与教育 | `family/parenting/`、`family/education/` |
 | 提示词 | `prompts/<domain>/` |
 | 商业、哲学、心理思考 | `thinking/<domain>/` |
+| **创业机会模型（新会话先读）** | `thinking/business/SESSION.md` |
 | 创业机会、分发、套利结构化 | `thinking/business/opportunity-discovery-model.md` |
 | Byrne Hobart 套利与基础设施原句 | `thinking/business/hobart-arbitrage-infrastructure.md` |
 | 分发三句：产品、租期、方向 | `thinking/business/where-distribution-is-going.md` |
