@@ -189,6 +189,8 @@ Consumer Internet companies are a sort of economic Maxwell’s Demon, creating a
 **中**  
 消费互联网公司有点像经济学里的麦克斯韦妖：在「极会表达需求的消费者」和「极会满足需求的公司」之间设一道屏障。大型互联网公司收费，是为了做这次介绍。
 
+深度、通俗与例子见 `thinking/business/information-gap-maxwell-demon.md`。
+
 ### 9. 监管套利 vs 监管创业
 
 **EN** (*The Stealth Regulatory Arbitrage Unicorn*, Medium)  
