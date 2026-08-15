@@ -19,6 +19,7 @@ AI 应先根据问题识别领域，再加载下列最小上下文；不要默�
 | 阶层差（需求减配）vs 技术差（供给革命）的本质区别 | `thinking/business/tier-vs-tech-gap-difference.md` |
 | 高铁出海与一带一路：国家级四维洼地与卡口模型 | `thinking/business/hsr-belt-and-road-case-analysis.md` |
 | 经典国家级大战略的经济学底层拆解 | `thinking/business/national-grand-strategies-economics.md` |
+| 城市修地铁与城际修高铁的土地财政双边补贴深度细化 | `thinking/business/metro-hsr-land-finance-deep-dive.md` |
 | 商业认知的终极升维：经济学之外的三层 | `thinking/business/beyond-economics-meta-model.md` |
 | 复杂系统四要素、奢侈品与欲望模仿理论 | `thinking/business/complex-systems-and-mimetic-desire.md` |
 | 分发三句：产品、租期、方向 | `thinking/business/where-distribution-is-going.md` |
