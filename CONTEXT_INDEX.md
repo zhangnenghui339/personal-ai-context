@@ -13,6 +13,7 @@ AI 应先根据问题识别领域，再加载下列最小上下文；不要默�
 | 创业机会、分发、套利结构化 | `thinking/business/opportunity-discovery-model.md` |
 | Byrne Hobart 套利与基础设施原句 | `thinking/business/hobart-arbitrage-infrastructure.md` |
 | 价值洼地类型与分发复用（人群套利） | `thinking/business/valuation-gaps-and-distribution-reuse.md` |
+| 价值洼地六大母体场景与战略特征 | `thinking/business/value-gap-archetypes-and-strategy.md` |
 | 商业认知的终极升维：经济学之外的三层 | `thinking/business/beyond-economics-meta-model.md` |
 | 复杂系统四要素、奢侈品与欲望模仿理论 | `thinking/business/complex-systems-and-mimetic-desire.md` |
 | 分发三句：产品、租期、方向 | `thinking/business/where-distribution-is-going.md` |
