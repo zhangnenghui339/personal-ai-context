@@ -16,6 +16,7 @@ AI 应先根据问题识别领域，再加载下列最小上下文；不要默�
 | 价值洼地六大母体场景与战略特征 | `thinking/business/value-gap-archetypes-and-strategy.md` |
 | 四大洼地自检维度与经典案例映射 | `thinking/business/four-gaps-case-mapping.md` |
 | 四大洼地自检模型的通俗直觉重构 | `thinking/business/four-gaps-intuitive-framework.md` |
+| 阶层差（需求减配）vs 技术差（供给革命）的本质区别 | `thinking/business/tier-vs-tech-gap-difference.md` |
 | 商业认知的终极升维：经济学之外的三层 | `thinking/business/beyond-economics-meta-model.md` |
 | 复杂系统四要素、奢侈品与欲望模仿理论 | `thinking/business/complex-systems-and-mimetic-desire.md` |
 | 分发三句：产品、租期、方向 | `thinking/business/where-distribution-is-going.md` |
