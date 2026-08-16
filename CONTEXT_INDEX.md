@@ -23,6 +23,7 @@ AI 应先根据问题识别领域，再加载下列最小上下文；不要默�
 | 势能差的本质：我们到底在赚谁的钱？（比较优势与正和博弈） | `thinking/business/nature-of-potential-energy-and-profit.md` |
 | 矩阵套利机制与比较优势深度辨析 | `thinking/business/matrix-arbitrage-and-comparative-advantage.md` |
 | 平台势能与个人能力：大厂光环、地租分润与佃农幻觉 | `thinking/business/platform-vs-individual-potential-energy.md` |
+| 大厂高管创业困境与势能再获取的概率学解构 | `thinking/business/executive-startup-dilemma-and-base-rates.md` |
 | 流量获取的八大母体模式与分发全景图谱 | `thinking/business/traffic-acquisition-archetypes.md` |
 | 城市修地铁与城际修高铁的土地财政双边补贴深度细化 | `thinking/business/metro-hsr-land-finance-deep-dive.md` |
 | 分发洼地的四大发现维度：把自检模型套在流量上 | `thinking/business/distribution-gaps-four-lenses.md` |
