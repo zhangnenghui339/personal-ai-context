@@ -22,6 +22,7 @@ AI 应先根据问题识别领域，再加载下列最小上下文；不要默�
 | 中国对非贷款与基建出海：供应商融资与势能差闭环 | `thinking/business/china-africa-financing-model.md` |
 | 势能差的本质：我们到底在赚谁的钱？（比较优势与正和博弈） | `thinking/business/nature-of-potential-energy-and-profit.md` |
 | 矩阵套利机制与比较优势深度辨析 | `thinking/business/matrix-arbitrage-and-comparative-advantage.md` |
+| 流量获取的八大母体模式与分发全景图谱 | `thinking/business/traffic-acquisition-archetypes.md` |
 | 城市修地铁与城际修高铁的土地财政双边补贴深度细化 | `thinking/business/metro-hsr-land-finance-deep-dive.md` |
 | 分发洼地的四大发现维度：把自检模型套在流量上 | `thinking/business/distribution-gaps-four-lenses.md` |
 | 分发套利与生产力迁移：高胜率机会发现方法论 | `thinking/business/distribution-arbitrage-methodology.md` |
