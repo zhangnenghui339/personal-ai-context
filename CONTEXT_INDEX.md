@@ -19,6 +19,7 @@ AI 应先根据问题识别领域，再加载下列最小上下文；不要默�
 | 阶层差（需求减配）vs 技术差（供给革命）的本质区别 | `thinking/business/tier-vs-tech-gap-difference.md` |
 | 高铁出海与一带一路：国家级四维洼地与卡口模型 | `thinking/business/hsr-belt-and-road-case-analysis.md` |
 | 经典国家级大战略的经济学底层拆解 | `thinking/business/national-grand-strategies-economics.md` |
+| 中国更多国家级大战略的微观经济学底层拆解 | `thinking/business/china-national-strategies-economic-deconstruction.md` |
 | 中国对非贷款与基建出海：供应商融资与势能差闭环 | `thinking/business/china-africa-financing-model.md` |
 | 势能差的本质：我们到底在赚谁的钱？（比较优势与正和博弈） | `thinking/business/nature-of-potential-energy-and-profit.md` |
 | 矩阵套利机制与比较优势深度辨析 | `thinking/business/matrix-arbitrage-and-comparative-advantage.md` |
