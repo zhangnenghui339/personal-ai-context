@@ -19,6 +19,7 @@ AI 应先根据问题识别领域，再加载下列最小上下文；不要默�
 | 阶层差（需求减配）vs 技术差（供给革命）的本质区别 | `thinking/business/tier-vs-tech-gap-difference.md` |
 | 高铁出海与一带一路：国家级四维洼地与卡口模型 | `thinking/business/hsr-belt-and-road-case-analysis.md` |
 | 经典国家级大战略的经济学底层拆解 | `thinking/business/national-grand-strategies-economics.md` |
+| 中国对非贷款与基建出海：供应商融资与势能差闭环 | `thinking/business/china-africa-financing-model.md` |
 | 城市修地铁与城际修高铁的土地财政双边补贴深度细化 | `thinking/business/metro-hsr-land-finance-deep-dive.md` |
 | 分发洼地的四大发现维度：把自检模型套在流量上 | `thinking/business/distribution-gaps-four-lenses.md` |
 | 分发套利与生产力迁移：高胜率机会发现方法论 | `thinking/business/distribution-arbitrage-methodology.md` |
