@@ -63,3 +63,53 @@
 2. **极小团队与数字杠杆（Digital Leverage）**：利用 Cursor / Lovable / AI Agents 搭建自动化交付流，将团队人数压至极低，最大化人均创收（Revenue Per Employee）。
 3. **多模态与 GEO 布局**：利用 AI 批量生产高质内容，矩阵式覆盖视频、Newsletter 与公开实用小工具，占领 Generative AI 时代的搜索与引用入口。
 4. **长线创作者联盟（Creator Alliances）**：避免单次硬广投放，采用深度分成（RevShare / 20~50%）或长期独家合作（6~12 个月），将创作者的受众直接转化为持续复利的客户池。
+
+---
+
+## 4. 更新：最近 15 天（2026-08-02 ~ 08-17）热门讨论补充
+
+> 验证说明：以下视频均为 2026 年 8 月检索命中的高相关内容；个别视频的具体发布日期无法从公开页面完全验证，已单独标注。
+
+### 4.1 分发主题（本期重点）
+
+**A. 免费层即分发引擎：Fathom 案例（$30M ARR）**
+- 视频：《He Gave His AI Note Taker for Free and Hit $30M/yr》（Nathan Latka / FounderPath，2026-08 检索命中）
+- 核心打法：
+  1. **反共识免费策略**：头两年每个免费用户月亏 $50，靠"转录成本必将归零"的判断下注，Whisper 等开源模型落地后成本曲线兑现；
+  2. **平台借力分发（Marketplace Distribution）**：作为 Zoom App Marketplace 首批 50 个首发应用之一，借平台流量完成冷启动；Zoom 基金入股东方不碍其他平台接入；
+  3. **反围墙花园（Anti-Walled Garden）**：开放 API + MCP Server + 与 Claude/ChatGPT 直连，主动让用户把数据导出到任何地方——数据上游位置本身成为留存与分发资产；
+  4. **只在团队层变现**：个人版永久免费最大化自传播，Team 版（$25/席，平均 8~10 席）承接营收；融资中预留 15% 份额给超级用户投资，把最忠诚用户变成利益绑定的分发节点；
+  5. **风险排序的 5 步框架**：留存 → Onboarding 激活 → 获客 → 转介绍 → 最后才是变现。创始人亲自陪跑约 800 个用户后才达到 50 人 cohort 三周留存 30 人。
+
+**B. GEO / AEO 成为分发必修课**
+- 代表视频：《What Is GEO? The New Rules of AI Search》《Google, AI, GEO: This Is the Only SEO Strategy That Will Still Work in 2026》《How to Rank Your Website on ChatGPT》（均为 2026 年 GEO 主题热点）
+- 共识要点：
+  1. 竞争目标从"排名与点击"迁移到"被 AI 引用（Citation）"——SEO 争夺展示位，GEO 争夺答案位；
+  2. 实操要点：问题式标题 + 前 100 字直接给答案、FAQ/HowTo Schema、作者资历与原创数据（E-E-A-T）、跨平台多格式内容沉淀品牌权威；
+  3. 衡量指标从 keyword ranking 切换为"AI 答案中的引用频次与品牌可见度"；
+  4. 判断（个人）：GEO 是"语义搜索时代的 SEO"，本质是 Semantic Search 下的权威信号工程，与复利内容资产逻辑一致。
+
+**C. 创作者主导分发（Creator-Led）成为漏斗顶部标配**
+- 代表视频：《Your Ads Die Because You're Skipping This Step》（Click Convert Marketing）、《From Zero to Authority: The Creator-Led Blueprint for Startup Growth》（Gary Lipovetsky, eMerge）
+- 核心观点：
+  1. Meta 广告体系明确向 creator-led content 迁移，AI 生成的广告素材不被信任——**创作者是买家信任的建立者（Creators create the buyer）**，搜索行为发生在被创作者种草之后；
+  2. 漏斗顶部（YouTube/Meta/TikTok）必须由创始人本人出镜内容 + 创作者素材 + 真实用户故事构成，品牌自建"内容工作室 + 效果投放"一体化运转；
+  3. 个人品牌对创始人不再是可选项（no longer optional），而是冷启动与规模化的前置条件。
+
+**D. 单人/极小团队的分发飞轮：Tibo Louis-Lucas（5 个产品、月入 $1M+）**
+- 视频：《How This Solo AI Founder Bootstrapped 5 Products to $1M+/Month》（2026-08 检索命中）
+- 分发相关要点：
+  1. **SEO 仍是他最爱的获客渠道**，理由是"天然复利与可循环（recurring by default）"——为每个细分 Search Intent 建专项落地页（programmatic SEO 思路）；
+  2. **支持按钮直跳 Twitter DM**：把客服通道变成持续的用户沟通与信任资产；
+  3. **Churn 优先于 Acquisition**：月流失率高于 20% 的产品不做任何获客投入，"没有留存粘性的获客是灾难"；
+  4. 每周发布一个新产品直到跑通（9 个失败、第 10 个起飞）——分发的本质是**足够多次的射门（shots on goal）+ 复利渠道**。
+
+**E. "省钱叙事"成为企业级分发的新钩子**
+- 视频：《The AI Company Growing By Helping You Spend Less》（Glean 案例拆解，2026-08 检索命中）
+- 要点：Glean 以"比同类少用约 30% Token"作为核心销售话术，在企业收紧 AI 预算的周期里 Fortune 500 客户数近翻倍，ARR 从 $100M（2025 初）增至 $300M（2026-05）。**当预算紧张时，承诺省钱的公司击败承诺魔法的公司**——定位叙事（Positioning）本身即分发杠杆。
+
+### 4.2 本期与既有结论的关系（无冲突，有强化）
+
+- "分发是唯一护城河"的共识进一步强化，且打法开始收敛为四类可执行路径：**免费层 + 推理成本补贴（Fathom / Lovable 模式）、GEO 引用占位、创作者/创始人主导内容、生态位借力（Marketplace / 默认集成）**。
+- 传统 SEO 并非完全失效：Tibo 案例显示**面向明确 Search Intent 的专项落地页 + 复利内容**在小团队 Micro-SaaS 上依然高效——与 Elena Verna 的"SEO 不能做明星渠道"判断看似冲突，实际适用场景不同：Elena 针对依赖聚合流量的大平台型 SaaS，Tibo 针对利基精准流量。标注待观察：两者分界在于流量的 Intent 浓度与客单价支撑能力。
+- 新增待验证判断：AI 答案引用（GEO）是否会像当年 Google 一样形成"赢者通吃"的引用集中度，决定中小玩家是否需要尽早押注 Perplexity / ChatGPT 的引用生态位。
