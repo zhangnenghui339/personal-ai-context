@@ -19,6 +19,7 @@
 - `topics/politics-grand-architecture.md`：政治大统一架构（物理做功、制度几何 N/S/W、帝王术微观博弈与 4 大盲区力学）。
 - `topics/politics-triad-mechanics-interests-games.md`：政治底层三元大统一模型（利益 × 力学 × 博弈 + 技术外生演进）。
 - `topics/politics-terminology-and-interests-essence.md`：政治学术语严密化（做功场对应名词）、制胜联盟跳船逻辑与利益主线本质透视。
+- `topics/why-elites-hoard-excess-wealth.md`：权贵财富悖论（为什么寡头/军头积攒用不完的财富？庇护网燃料、流动性陷阱与骑虎难下）。
 - `topics/political-cognitive-fallacies.md`：政治分析的十大致命认知误区（思维盲区全景透视）。
 - `topics/political-mechanics-in-depth-qa.md`：政治力学、制度演化与深度实战剖析（7 大核心问题与实战案例透视）。
 - `topics/purge-imperative-and-commitment.md`：缩圈清洗与承诺困境（中西历史比较、数理力学与四种退出解法）。
