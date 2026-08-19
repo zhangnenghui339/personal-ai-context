@@ -1,7 +1,8 @@
 # 实体企业早期靠"套利"或"红利"起家的案例
 
 > Last verified: 2026-08-14
-> 说明：`thinking/business/SESSION.md` 在仓库中不存在（已确认），本文件为按 `CONTEXT_INDEX.md` 中"商业思考 → `thinking/<domain>/`"的路由新建，用于沉淀可复用的案例库，而非会话记录。
+> 说明：本文件为可复用案例库，不是会话记录。势能综合会话见 `thinking/business/SESSION.md`。
+> 2026-08-19 合并入 main 时更正：原分支撰写时 `SESSION.md` 尚不存在；现已存在，本条替代旧说明。
 
 ## 分类框架（个人判断，用于归纳案例共性）
 

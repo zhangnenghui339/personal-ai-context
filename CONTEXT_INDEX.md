@@ -8,7 +8,18 @@ AI 应先根据问题识别领域，再加载下列最小上下文；不要默�
 | 某个项目 | `projects/<name>/status.md`，再按需读取同目录其他文件 |
 | 亲子与教育 | `family/parenting/`、`family/education/` |
 | 提示词 | `prompts/<domain>/` |
-| 商业、哲学、心理思考 | `thinking/<domain>/`（标杆企业：`thinking/business/benchmark-companies.md`；失败复盘：`thinking/business/failed-founders.md`；综合会话：`thinking/business/SESSION.md`） |
+| 商业、哲学、心理思考 | `thinking/<domain>/` |
+| 商业势能与综合会话 | `thinking/business/SESSION.md`；标杆企业：`thinking/business/benchmark-companies.md`；失败复盘：`thinking/business/failed-founders.md` |
+| 实体套利/红利起家案例 | `thinking/business/case-studies-arbitrage-dividend.md` |
+| **创业机会模型（新会话先读）** | `thinking/business/session-opportunity.md`（原该分支的 `SESSION.md`，合并时拆出以免覆盖势能会话） |
+| 创业机会、分发、套利结构化 | `thinking/business/opportunity-discovery-model.md` |
+| Byrne Hobart 套利与基础设施原句 | `thinking/business/hobart-arbitrage-infrastructure.md` |
+| 分发三句：产品、租期、方向 | `thinking/business/where-distribution-is-going.md` |
+| 明显的差与新产权 | `thinking/business/obvious-arb-and-new-property.md` |
+| 信息差与麦克斯韦妖 | `thinking/business/information-gap-maxwell-demon.md` |
+| 不对称行为：李嘉诚与早期腾讯 | `thinking/business/asymmetric-behavior-cases.md` |
+| 读创业史四问与五案 | `thinking/business/four-questions-five-products.md` |
+| 第二问沉默面：对手身份图 | `thinking/business/airbnb-competitor-identity.md` |
 | 读书相关 | `books/reading-list.md`、`books/notes/` |
 | 历史决策 | 对应项目的 `decisions.md` 或 `thinking/decision-journal/` |
 
@@ -22,4 +33,3 @@ AI 应先根据问题识别领域，再加载下列最小上下文；不要默�
 ## 隐私边界
 
 `private-local/` 仅存本地敏感材料，不进入 Git，也不应被 AI 默认读取。
-
