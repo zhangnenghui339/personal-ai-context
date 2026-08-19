@@ -8,7 +8,7 @@ AI 应先根据问题识别领域，再加载下列最小上下文；不要默�
 | 某个项目 | `projects/<name>/status.md`，再按需读取同目录其他文件 |
 | 亲子与教育 | `family/parenting/`、`family/education/` |
 | 提示词 | `prompts/<domain>/` |
-| 商业、哲学、心理思考 | `thinking/<domain>/` |
+| 商业、哲学、心理思考 | `thinking/<domain>/`（标杆企业：`thinking/business/benchmark-companies.md`；失败复盘：`thinking/business/failed-founders.md`；综合会话：`thinking/business/SESSION.md`） |
 | 读书相关 | `books/reading-list.md`、`books/notes/` |
 | 历史决策 | 对应项目的 `decisions.md` 或 `thinking/decision-journal/` |
 
