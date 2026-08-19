@@ -15,6 +15,7 @@ AI 应先根据问题识别领域，再加载下列最小上下文；不要默�
 | 政治大统一架构（物理 × 制度几何 × 帝王术） | `thinking/politics/topics/politics-grand-architecture.md` |
 | 政治底层三元模型（利益 × 力学 × 博弈） | `thinking/politics/topics/politics-triad-mechanics-interests-games.md` |
 | 政治分析十大认知误区（盲区全景） | `thinking/politics/topics/political-cognitive-fallacies.md` |
+| 政治力学与制度演化深度问答（7大核心问题与实战案例） | `thinking/politics/topics/political-mechanics-in-depth-qa.md` |
 | 缩圈清洗与承诺困境（中西历史比较与解法） | `thinking/politics/topics/purge-imperative-and-commitment.md` |
 | 城镇化 × 势能 × 联盟算术 | `thinking/politics/topics/urbanization-coalition-momentum.md`；经济学正文仍读 `thinking/business/SESSION.md` §23 |
 | 商业势能与综合会话 | `thinking/business/SESSION.md`；标杆企业：`thinking/business/benchmark-companies.md`；失败复盘：`thinking/business/failed-founders.md` |
