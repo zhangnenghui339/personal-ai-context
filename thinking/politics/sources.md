@@ -9,6 +9,9 @@
 | Carl Schmitt, *The Concept of the Political* | 理论 | 朋友/敌人作为政治划分 | 把非常状态上升为本质；解释斗争强，解释常规治理弱 | 2026-08-19 |
 | William H. Riker, *The Theory of Political Coalitions* | 理论 | 最低获胜联盟 | 形式模型，经验上政党常超额结盟 | 2026-08-19 |
 | Bueno de Mesquita et al., *The Logic of Political Survival* | 理论 | 选择人集团 / 获胜联盟与公共物品 | 简化力强；跨政体测量有争议 | 2026-08-19 |
+| Thomas Hobbes, *Leviathan* | 理论 | 无共同权力则人人互战；秩序作为止掠 | 17 世纪契约论；「同意」是思想实验，不是历史事实 | 2026-08-19 |
+| Mancur Olson, stationary vs roving bandit | 理论 | 长视界统治者有激励做大饼再征税 | 简化为单一统治者；对寡头分赃解释不足 | 2026-08-19 |
+| North / Wallis / Weingast, *Violence and Social Orders* | 理论 | 有限准入秩序：暴力专家先分赃，再向场内提供秩序 | 宏大叙事，计量检验有争议 | 2026-08-19 |
 | Adam Przeworski 民主作为失败者接受失败 | 理论 | 选举政体中「不能消灭对方作为玩家」 | 规范与实证缠在一起 | 2026-08-19 |
 
 ## 来源优先级

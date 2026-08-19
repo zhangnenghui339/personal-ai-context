@@ -15,5 +15,6 @@
 - `session.md`：政治主题会话的角色、分析框架与输出规则。
 - `topics/`：按具体议题沉淀研究；首次写入某议题时创建。
 - `topics/coalition-arithmetic.md`：联盟算术工作模型（团结/拉拢/放弃/孤立/打击/利用）。
+- `topics/politics-first-principles.md`：政治第一性原理（止掠做功场 × 剩余索取权）。
 - `topics/urbanization-coalition-momentum.md`：城镇化、势能与联盟算术的对接。
 - `sources.md`：长期使用的权威来源与可靠性说明。
