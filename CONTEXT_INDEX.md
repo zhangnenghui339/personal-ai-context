@@ -9,8 +9,7 @@ AI 应先根据问题识别领域，再加载下列最小上下文；不要默�
 | 亲子与教育 | `family/parenting/`、`family/education/` |
 | 提示词 | `prompts/<domain>/` |
 | 商业、哲学、心理思考 | `thinking/<domain>/` |
-| 政治、制度、国际关系 | `thinking/politics/session.md`；目录说明：`thinking/politics/README.md`；来源库：`thinking/politics/sources.md` |
-| 政治联盟算术（团结/拉拢/放弃/孤立/打击/利用） | `thinking/politics/topics/coalition-arithmetic.md` |
+| 政治、制度、国际关系（总览入口） | `thinking/politics/session.md`；目录说明：`thinking/politics/README.md`；来源库：`thinking/politics/sources.md` |
 | 政治第一性原理（止掠场 × 剩余索取） | `thinking/politics/topics/politics-first-principles.md` |
 | 政治大统一架构（物理 × 制度几何 × 帝王术） | `thinking/politics/topics/politics-grand-architecture.md` |
 | 政治底层三元模型（利益 × 力学 × 博弈） | `thinking/politics/topics/politics-triad-mechanics-interests-games.md` |
