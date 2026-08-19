@@ -20,6 +20,7 @@
   - `politics-terminology-and-interests-essence.md`：政治学术语严密化（做功场对应名词）、制胜联盟跳船逻辑与利益主线本质透视。
   - `why-elites-hoard-excess-wealth.md`：权贵财富悖论（为什么寡头/军头积攒用不完的财富？庇护网燃料、流动性陷阱与骑虎难下）。
   - `coalition-arithmetic.md`：联盟算术与六句法（团结/拉拢/利用/放弃/孤立/打击）。
+  - `seoul-spring-1212-coalition-game.md`：12.12 / 首尔之春回测（利益分配、拉拢与最低获胜节点）。
   - `purge-imperative-and-commitment.md`：缩圈清洗与承诺困境（中西历史比较、数理力学与四种退出解法）。
   - `urbanization-coalition-momentum.md`：城镇化、势能与联盟算术的对接。
   - `political-cognitive-fallacies.md`：政治分析的十大致命认知误区（思维盲区全景透视）。

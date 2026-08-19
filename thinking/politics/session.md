@@ -43,6 +43,7 @@
 | **政治大统一架构** | 三层立体矩阵（底层物理做功、中层 $N,S,W$ 制度几何、顶层帝王术战术）；四大隐形力学盲区 | `thinking/politics/topics/politics-grand-architecture.md` |
 | **政治底层三元模型** | 利益（能量源）× 力学（物理场）× 博弈（求解算法）+ 技术（外生重塑） | `thinking/politics/topics/politics-triad-mechanics-interests-games.md` |
 | **联盟算术与六句法** | 团结（长久期特权）、拉拢（中久期利益）、利用（短久期工具）、放弃、孤立、打击；自我拆台边界 | `thinking/politics/topics/coalition-arithmetic.md` |
+| **12.12 / 首尔之春回测** | 全斗焕 vs 郑升和/张泰玩：预置私党团结、拉拢对方旅长、利用调查权、放弃全军、定点打击三人；法统大 $S$ 空 $W$ | `thinking/politics/topics/seoul-spring-1212-coalition-game.md` |
 | **缩圈清洗与承诺困境** | 为什么建政后“大杀功臣”是数学必然；中西历史全景对比（古罗马/都铎/雅各宾/斯大林/汉明）；四种解法 | `thinking/politics/topics/purge-imperative-and-commitment.md` |
 | **城镇化 × 政治势能** | 户籍是空间化分类，土地财政是 70 年级差地租贴现；开发商与农民工是“利用”通道 | `thinking/politics/topics/urbanization-coalition-momentum.md` |
 | **权贵财富与流动性陷阱** | 为什么寡头/军头疯狂捞花不完的钱？庇护网转炉燃料、战争基金、流动性诅咒与骑虎难下 | `thinking/politics/topics/why-elites-hoard-excess-wealth.md` |
