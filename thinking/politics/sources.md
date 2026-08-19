@@ -12,6 +12,7 @@
 | Thomas Hobbes, *Leviathan* | 理论 | 无共同权力则人人互战；秩序作为止掠 | 17 世纪契约论；「同意」是思想实验，不是历史事实 | 2026-08-19 |
 | Mancur Olson, stationary vs roving bandit | 理论 | 长视界统治者有激励做大饼再征税 | 简化为单一统治者；对寡头分赃解释不足 | 2026-08-19 |
 | North / Wallis / Weingast, *Violence and Social Orders* | 理论 | 有限准入秩序：暴力专家先分赃，再向场内提供秩序 | 宏大叙事，计量检验有争议 | 2026-08-19 |
+| Douglass North & Barry Weingast (1989) | 理论 | 可信承诺（Credible Commitment）与英国光荣革命制度约束 | 经典制度经济学文献：解决王权与功臣/债权人的承诺困境 | 2026-08-19 |
 | Adam Przeworski 民主作为失败者接受失败 | 理论 | 选举政体中「不能消灭对方作为玩家」 | 规范与实证缠在一起 | 2026-08-19 |
 
 ## 来源优先级

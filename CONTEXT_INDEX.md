@@ -13,6 +13,7 @@ AI 应先根据问题识别领域，再加载下列最小上下文；不要默�
 | 政治联盟算术（团结/拉拢/放弃/孤立/打击/利用） | `thinking/politics/topics/coalition-arithmetic.md` |
 | 政治第一性原理（止掠场 × 剩余索取） | `thinking/politics/topics/politics-first-principles.md` |
 | 政治大统一架构（物理 × 制度几何 × 帝王术） | `thinking/politics/topics/politics-grand-architecture.md` |
+| 缩圈清洗与承诺困境（中西历史比较与解法） | `thinking/politics/topics/purge-imperative-and-commitment.md` |
 | 城镇化 × 势能 × 联盟算术 | `thinking/politics/topics/urbanization-coalition-momentum.md`；经济学正文仍读 `thinking/business/SESSION.md` §23 |
 | 商业势能与综合会话 | `thinking/business/SESSION.md`；标杆企业：`thinking/business/benchmark-companies.md`；失败复盘：`thinking/business/failed-founders.md` |
 | 实体套利/红利起家案例 | `thinking/business/case-studies-arbitrage-dividend.md` |
