@@ -10,6 +10,7 @@ AI 应先根据问题识别领域，再加载下列最小上下文；不要默�
 | 提示词 | `prompts/<domain>/` |
 | 商业、哲学、心理思考 | `thinking/<domain>/` |
 | 政治、制度、国际关系 | `thinking/politics/session.md`；目录说明：`thinking/politics/README.md`；来源库：`thinking/politics/sources.md` |
+| 政治联盟算术（团结/拉拢/放弃/孤立/打击/利用） | `thinking/politics/topics/coalition-arithmetic.md` |
 | 商业势能与综合会话 | `thinking/business/SESSION.md`；标杆企业：`thinking/business/benchmark-companies.md`；失败复盘：`thinking/business/failed-founders.md` |
 | 实体套利/红利起家案例 | `thinking/business/case-studies-arbitrage-dividend.md` |
 | **创业机会模型（新会话先读）** | `thinking/business/session-opportunity.md`（原该分支的 `SESSION.md`，合并时拆出以免覆盖势能会话） |
