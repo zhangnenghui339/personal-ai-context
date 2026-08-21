@@ -24,6 +24,10 @@ AI 应先根据问题识别领域，再加载下列最小上下文；不要默�
 | 骗局的收益函数劫持模型（诈骗/传销/P2P/创业/炒股为什么会被骗） | `thinking/politics/topics/scam-payoff-hijacking-model.md` |
 | 信息拓扑、极值信号与收益函数相变大模型 | `thinking/politics/topics/information-payoff-phase-transition-model.md` |
 | 分发—收益函数闭环共振模型（商业与政治通用动力学） | `thinking/politics/topics/distribution-payoff-resonance-engine.md` |
+| 婚姻/家庭经济学（总览入口，复用政治与商业模型） | `thinking/marriage-economics/session.md`；目录说明：`thinking/marriage-economics/README.md`；来源库：`thinking/marriage-economics/sources.md` |
+| 贝克尔《家庭论》核心论点（分工/选型婚配/坏孩子定理） | `thinking/marriage-economics/topics/becker-treatise-on-family.md` |
+| 婚姻作为政治经济学结合体（承诺机制 × 收益函数 × 性资源变量） | `thinking/marriage-economics/topics/marriage-as-political-economy.md` |
+| 结婚率下降/不婚现象的五条机制 | `thinking/marriage-economics/topics/declining-marriage-rate.md` |
 | 商业势能与综合会话 | `thinking/business/SESSION.md`；标杆企业：`thinking/business/benchmark-companies.md`；失败复盘：`thinking/business/failed-founders.md` |
 | 实体套利/红利起家案例 | `thinking/business/case-studies-arbitrage-dividend.md` |
 | **创业机会模型（新会话先读）** | `thinking/business/session-opportunity.md`（原该分支的 `SESSION.md`，合并时拆出以免覆盖势能会话） |
