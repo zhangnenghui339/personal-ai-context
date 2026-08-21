@@ -22,6 +22,8 @@
   - `coalition-arithmetic.md`：联盟算术与六句法（团结/拉拢/利用/放弃/孤立/打击）。
   - `seoul-spring-1212-coalition-game.md`：12.12 / 首尔之春回测（利益分配、拉拢与最低获胜节点）。
   - `purge-imperative-and-commitment.md`：缩圈清洗与承诺困境（中西历史比较、数理力学与四种退出解法）。
+  - `information-payoff-phase-transition-model.md`：信息拓扑、极值信号与收益函数相变大模型（收益函数反推与相变干预）。
+  - `distribution-payoff-resonance-engine.md`：分发—收益函数闭环共振模型（商业分发与政治动员通用动力学）。
   - `urbanization-coalition-momentum.md`：城镇化、势能与联盟算术的对接。
   - `political-cognitive-fallacies.md`：政治分析的十大致命认知误区（思维盲区全景透视）。
   - `political-mechanics-in-depth-qa.md`：政治力学、制度演化与深度实战剖析（7 大核心问题与实战案例透视）。
