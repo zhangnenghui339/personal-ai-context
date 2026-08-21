@@ -25,6 +25,29 @@ AI 应先根据问题识别领域，再加载下列最小上下文；不要默�
 | **创业机会模型（新会话先读）** | `thinking/business/session-opportunity.md`（原该分支的 `SESSION.md`，合并时拆出以免覆盖势能会话） |
 | 创业机会、分发、套利结构化 | `thinking/business/opportunity-discovery-model.md` |
 | Byrne Hobart 套利与基础设施原句 | `thinking/business/hobart-arbitrage-infrastructure.md` |
+| 价值洼地类型与分发复用（人群套利） | `thinking/business/valuation-gaps-and-distribution-reuse.md` |
+| 价值洼地六大母体场景与战略特征 | `thinking/business/value-gap-archetypes-and-strategy.md` |
+| 四大洼地自检维度与经典案例映射 | `thinking/business/four-gaps-case-mapping.md` |
+| 四大洼地自检模型的通俗直觉重构 | `thinking/business/four-gaps-intuitive-framework.md` |
+| 阶层差（需求减配）vs 技术差（供给革命）的本质区别 | `thinking/business/tier-vs-tech-gap-difference.md` |
+| 高铁出海与一带一路：国家级四维洼地与卡口模型 | `thinking/business/hsr-belt-and-road-case-analysis.md` |
+| 经典国家级大战略的经济学底层拆解 | `thinking/business/national-grand-strategies-economics.md` |
+| 势能的双向流动模型：泄洪型势能（产能过剩）与虹吸型势能（生产力引进） | `thinking/business/dual-potential-energy-flow-model.md` |
+| 价值的本质与势能的五大母体形态（泄洪/虹吸/黑洞/卡口/相变） | `thinking/business/value-and-potential-energy-archetypes.md` |
+| 中国更多国家级大战略的微观经济学底层拆解 | `thinking/business/china-national-strategies-economic-deconstruction.md` |
+| 中国对非贷款与基建出海：供应商融资与势能差闭环 | `thinking/business/china-africa-financing-model.md` |
+| 势能差的本质：我们到底在赚谁的钱？（比较优势与正和博弈） | `thinking/business/nature-of-potential-energy-and-profit.md` |
+| 矩阵套利机制与比较优势深度辨析 | `thinking/business/matrix-arbitrage-and-comparative-advantage.md` |
+| 平台势能与个人能力：大厂光环、地租分润与佃农幻觉 | `thinking/business/platform-vs-individual-potential-energy.md` |
+| 王兴「九败一胜」连续创业演化史：从极客到统帅 | `thinking/business/wang-xing-serial-entrepreneurship-evolution.md` |
+| 大厂高管创业困境与势能再获取的概率学解构 | `thinking/business/executive-startup-dilemma-and-base-rates.md` |
+| 流量获取的八大母体模式与分发全景图谱 | `thinking/business/traffic-acquisition-archetypes.md` |
+| 城市修地铁与城际修高铁的土地财政双边补贴深度细化 | `thinking/business/metro-hsr-land-finance-deep-dive.md` |
+| 分发洼地的四大发现维度：把自检模型套在流量上 | `thinking/business/distribution-gaps-four-lenses.md` |
+| 分发套利与生产力迁移：高胜率机会发现方法论 | `thinking/business/distribution-arbitrage-methodology.md` |
+| 从全球格局到微观产品的四层嵌套透镜与错误视角修正 | `thinking/business/macro-to-micro-nested-lenses.md` |
+| 商业认知的终极升维：经济学之外的三层 | `thinking/business/beyond-economics-meta-model.md` |
+| 复杂系统四要素、奢侈品与欲望模仿理论 | `thinking/business/complex-systems-and-mimetic-desire.md` |
 | 分发三句：产品、租期、方向 | `thinking/business/where-distribution-is-going.md` |
 | 明显的差与新产权 | `thinking/business/obvious-arb-and-new-property.md` |
 | 信息差与麦克斯韦妖 | `thinking/business/information-gap-maxwell-demon.md` |
