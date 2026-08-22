@@ -50,6 +50,7 @@ AI 应先根据问题识别领域，再加载下列最小上下文；不要默�
 | 从全球格局到微观产品的四层嵌套透镜与错误视角修正 | `thinking/business/macro-to-micro-nested-lenses.md` |
 | 商业认知的终极升维：经济学之外的三层 | `thinking/business/beyond-economics-meta-model.md` |
 | 商业落地终极五步闭环：借分发 → 找差 → 借货 → 放量 → 留底 | `thinking/business/borrow-distribution-five-steps-sop.md` |
+| 创业实战思维导图 2.0：五步闭环全景重构 (XML) | `thinking/business/startup-mindmap-5steps-complete.md` |
 | 创业路径思维导图评估与 2.0 优化方案 | `thinking/business/startup-execution-framework-evaluation.md` |
 | 复杂系统四要素、奢侈品与欲望模仿理论 | `thinking/business/complex-systems-and-mimetic-desire.md` |
 | 分发三句：产品、租期、方向 | `thinking/business/where-distribution-is-going.md` |
