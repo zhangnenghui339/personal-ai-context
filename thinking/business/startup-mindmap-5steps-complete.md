@@ -1,62 +1,58 @@
-# 创业实战思维导图 2.0：五步闭环全景架构（借分发 → 找差 → 借货 → 放量 → 留底）
+# 创业实战思维导图 3.0：分发雷达与五步闭环全景架构 (XML)
 
 - Date: 2026-08-22
 - Status: working model / mindmap XML
-- Scope: 将原有的 3 个粗颗粒度节点，按照「借分发 → 找差 → 借货 → 放量 → 留底」完整解构并补充实战细节，输出标准思维导图 XML 与全景解析。
+- Scope: 升级思维导图至 3.0 版本，将「分发雷达（四大扫描波段与意图过滤漏斗）」深度集成到第 1 步「借分发」节点中，形成前沿预警与实战交付的完整架构。
 
 ---
 
-## 一、 为什么原导图需要这样重构？（拆分与补充逻辑）
-
-原思维导图存在两个结构性问题：
-1. **「找差」节点完全空白**：不知道在借到分发后，具体该用什么指标去扫描管道内的供需失衡。
-2. **「第 3 节点（换空间释放势能）」把两件性质完全不同的事混在了一起**：
-   * 前半部分的“跨语言、跨生态、AI 自动化生成”属于 **【第 4 步：放量（规模扩张）】**；
-   * 后半部分的“Email 收集、工作流嵌入、数据锁定”属于 **【第 5 步：留底（资产沉淀）】**。
-
-拆开并补充后，整个导图形成了极其顺畅的**「流水线式作战地图」**。
-
----
-
-## 二、 完整重构后的思维导图 XML 代码（可直接导入 XMind / FreeMind）
+## 完整思维导图 XML 代码（可直接复制导入 XMind / FreeMind）
 
 ```xml
 <map version="1.0.1">
-  <node ID="root" TEXT="创业实战五步闭环 SOP">
+  <node ID="root" TEXT="创业实战五步闭环 SOP (3.0雷达增强版)">
     
-    <!-- 步骤 1：借分发 -->
-    <node TEXT="1. 借分发（锁定未被竞价的廉价水库）" ID="step1_dist" STYLE="bubble" POSITION="right">
-      <node TEXT="GEO / 搜索引擎与新兴介质分发套利" STYLE="fork">
-        <node TEXT="1. 程序化超级长尾 SEO（pSEO）—— 规模化对冲权重" STYLE="fork">
-          <node TEXT="核心逻辑：放弃月搜 1万+ 的头部大词，打数以万计“月搜 10~100次、无大厂布局但转化率极高”的极冷长尾词矩阵。" STYLE="fork"/>
-          <node TEXT="实战做法：建立庞大数据底座，用代码模板自动化生成数万个高质量页面：" STYLE="fork">
-            <node TEXT="[软件 A] vs [软件 B] 对比与替代品（G2 / Capterra 模式）；" STYLE="fork"/>
-            <node TEXT="[格式 A] 转换为 [格式 B]（在线格式/图像转换工具）；" STYLE="fork"/>
-            <node TEXT="[工具] for [全球 500 个垂直行业/角色]（Zapier / Canva 模式）；" STYLE="fork"/>
-            <node TEXT="单页日均 1 个 UV，但 10 万个长尾聚合页就是 10 万精准日活。" STYLE="fork"/>
-          </node>
-        </node>
-        <node TEXT="2. 社区借壳与寄生截流（Parasite SEO）" STYLE="fork">
-          <node TEXT="核心逻辑：新站无权重，借助 Reddit、Quora、Medium、GitHub 等 DR 90+ 顶级权重借壳霸占 Google 首页。" STYLE="fork"/>
-          <node TEXT="实战做法：在 Google 算法（HCU）偏袒的 Reddit 热门痛点帖中做专业解答与软植入，将公域意图流截流至私域。" STYLE="fork"/>
-        </node>
-        <node TEXT="3. AEO / GEO（面向生成式大模型的信源卡位）" STYLE="fork">
-          <node TEXT="核心逻辑：搜索入口从 Google 蓝链迁移至 ChatGPT、Perplexity、Claude、豆包等 AI 引擎。" STYLE="fork"/>
-          <node TEXT="实战做法：提供结构化 Schema 标记、权威评测基准与清晰对比表格，成为大模型推荐“最佳工具”时的前三信源。" STYLE="fork"/>
-        </node>
-        <node TEXT="4. 新词 / 突发热点时差套利（Trend Hijacking）" STYLE="fork">
-          <node TEXT="核心逻辑：新概念、新政策、新突发技术出现时，大厂反应慢，Google 处于“高搜索量、零供给”绝对真空期。" STYLE="fork"/>
-          <node TEXT="实战做法：24-48 小时内极速上线专题页或单页小工具，抢占最初 1~3 个月的流量真空红利。" STYLE="fork"/>
-        </node>
+    <!-- 步骤 1：借分发（雷达系统全面升级） -->
+    <node TEXT="1. 借分发（分发雷达：探测未被定价的流量与意图）" ID="step1_dist" STYLE="bubble" POSITION="right">
+      
+      <!-- 雷达波段 1：巨头战略拓荒 -->
+      <node TEXT="波段 1：巨头战略拓荒与新阵地（Platform Expansions）" STYLE="fork">
+        <node TEXT="跨国拓荒：TikTok Shop 新开放国家、Temu 新站点、亚马逊新开蓝海市场；" STYLE="fork"/>
+        <node TEXT="内部新入口：微信视频号小店组件、小红书买手生态、短视频新交互组件；" STYLE="fork"/>
+        <node TEXT="红利特征：平台为了冲数据自掏腰包给流量补贴（Subsidized Reach），广告系统尚未完善（零竞价税），免疫系统最弱。" STYLE="fork"/>
       </node>
-      <node TEXT="分发水库筛选标准（借道评估）" STYLE="fork">
-        <node TEXT="平台处于“拓荒/扶持期”（如 TikTok Shop 新开国家、Telegram Mini-Apps、大模型插件生态）；" STYLE="fork"/>
-        <node TEXT="规则与风控严重滞后（尚未开始严苛竞价收税，存在近乎免费的自然流漏洞）；" STYLE="fork"/>
-        <node TEXT="边际获客成本（CAC）远低于行业平均买量成本。" STYLE="fork"/>
+
+      <!-- 雷达波段 2：介质跃迁与下一代搜索 -->
+      <node TEXT="波段 2：介质跃迁与下一代搜索入口（Medium Shift & AEO）" STYLE="fork">
+        <node TEXT="1. AEO / GEO（生成式 AI 搜索引用卡位）：ChatGPT Search、Perplexity、Claude 引用源优化；" STYLE="fork"/>
+        <node TEXT="2. 社区借壳与寄生截流（Parasite SEO）：利用 Google HCU 偏袒 Reddit、Quora、GitHub、Medium 的 DR 90+ 顶级权重截流；" STYLE="fork"/>
+        <node TEXT="3. 程序化超级长尾 SEO（pSEO）：放弃大词，用代码生成数万个“月搜 10~100 次但转化极高”的极冷长尾词页。" STYLE="fork"/>
       </node>
+
+      <!-- 雷达波段 3：宿主开放生态与插件市场 -->
+      <node TEXT="波段 3：宿主开放生态与轻应用市场（Host Ecosystems）" STYLE="fork">
+        <node TEXT="超级通讯软件：Telegram Mini Apps (TON 生态 9 亿免下载用户)、Discord Bot 目录；" STYLE="fork"/>
+        <node TEXT="生产力插件市场：Shopify App Store、Chrome Web Store、Figma/Canva 插件生态；" STYLE="fork"/>
+        <node TEXT="红利特征：自带高信任已绑卡用户池、应用内搜索零竞价、无需跨端跳出摩擦。" STYLE="fork"/>
+      </node>
+
+      <!-- 雷达波段 4：突发新词与规则真空 -->
+      <node TEXT="波段 4：突发新词与规则真空时差套利（Trend Hijacking）" STYLE="fork">
+        <node TEXT="技术断裂新词：新开源模型架构、新协议、新框架爆发期；" STYLE="fork"/>
+        <node TEXT="政策合规变动：新出台签证/关税/合规法案，全网搜索暴涨但供给为零；" STYLE="fork"/>
+        <node TEXT="行业突发替代：某核心大工具突然倒闭/涨价，全网寻找“{倒闭工具} 替代品”。" STYLE="fork"/>
+      </node>
+
+      <!-- 分发质量三级过滤漏斗 -->
+      <node TEXT="分发水库三级过滤漏斗（真假洼地甄别）" STYLE="fork">
+        <node TEXT="1. 意图质量过滤：是否带商业购买意图（How to / Best tool / Buy / vs / Alternative）？" STYLE="fork"/>
+        <node TEXT="2. 竞价负载过滤：自然流量占比是否 > 70%？大厂正规军是否尚未大规模砸钱买量？" STYLE="fork"/>
+        <node TEXT="3. 提取难度过滤：能否将公域过客无摩擦引导至自持独立页/收取 Email？" STYLE="fork"/>
+      </node>
+
     </node>
 
-    <!-- 步骤 2：找差（新增补全） -->
+    <!-- 步骤 2：找差 -->
     <node TEXT="2. 找差（在选定管道内扫描供需真空）" ID="step2_gap" STYLE="bubble" POSITION="right">
       <node TEXT="四维真空扫描雷达" STYLE="fork">
         <node TEXT="1. 供给真空差：高频搜索但给出的全是不相关垃圾或 5 年前的过时网页；" STYLE="fork"/>
