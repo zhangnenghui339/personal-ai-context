@@ -26,7 +26,7 @@
                 ↳ Arbitrage Score 计算（低KD、高意图、无垄断）
                                   │
                                   ▼
-                【输出交付看板 (Notion / 飞书 / Markdown 周报)】
+                【输出交付看板 (直接发送到个人邮箱 / Markdown 周报)】
                 1. 顶级 pSEO 极冷长尾词包 (月搜 50-500, KD < 10)
                 2. 社区借壳高排机会 (Google 首页为 Reddit 的痛点帖)
                 3. 应用市场供给真空 (高下载、低评分的产品形态)
@@ -100,9 +100,50 @@ $$\text{Arbitrage Score} = \frac{\text{Search Volume (月搜)} \times \text{Inte
 
 ---
 
-## 四、 每周一雷达输出的「交付看板」样例
+## 四、 每周一雷达输出与邮件发送实现
 
-每周一早上系统自动生成一份结构化报告（推送到飞书/Notion/邮件）：
+每周一早上（或每日突发高增触发时），系统自动运行 Python 脚本生成 HTML / Markdown 格式的周报，并通过服务器内置的 SMTP / 邮件服务直接发送到你的收件邮箱。
+
+### 1. 服务器自动发邮件核心代码实现 (Python)
+
+```python
+import smtplib
+from email.mime.text import MIMEText
+from email.mime.multipart import MIMEMultipart
+import os
+
+def send_radar_email(subject: str, html_content: str, recipient_email: str):
+    # 从环境变量读取服务器邮件配置
+    smtp_server = os.getenv("SMTP_SERVER", "localhost")  # 或 smtp.example.com
+    smtp_port = int(os.getenv("SMTP_PORT", "587"))       # 465 (SSL) 或 587 (STARTTLS)
+    smtp_user = os.getenv("SMTP_USER", "radar@yourdomain.com")
+    smtp_password = os.getenv("SMTP_PASSWORD", "")
+
+    msg = MIMEMultipart("alternative")
+    msg["Subject"] = subject
+    msg["From"] = f"分发雷达系统 <{smtp_user}>"
+    msg["To"] = recipient_email
+
+    # 支持纯文本与富文本 HTML
+    part = MIMEText(html_content, "html", "utf-8")
+    msg.attach(part)
+
+    if smtp_port == 465:
+        server = smtplib.SMTP_SSL(smtp_server, smtp_port)
+    else:
+        server = smtplib.SMTP(smtp_server, smtp_port)
+        if smtp_port == 587:
+            server.starttls()
+            
+    if smtp_password:
+        server.login(smtp_user, smtp_password)
+        
+    server.sendmail(smtp_user, [recipient_email], msg.as_string())
+    server.quit()
+    print(f"✅ 雷达周报已成功发送至: {recipient_email}")
+```
+
+### 2. 邮件周报内容样例展示
 
 ```markdown
 # 🛰️ 分发雷达周报 (2026-W34)
