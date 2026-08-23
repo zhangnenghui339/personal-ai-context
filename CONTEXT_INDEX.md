@@ -51,6 +51,7 @@ AI 应先根据问题识别领域，再加载下列最小上下文；不要默�
 | 商业认知的终极升维：经济学之外的三层 | `thinking/business/beyond-economics-meta-model.md` |
 | 商业落地终极五步闭环：借分发 → 找差 → 借货 → 放量 → 留底 | `thinking/business/borrow-distribution-five-steps-sop.md` |
 | 分发雷达：未被定价的人流与意图探测系统 | `thinking/business/distribution-radar-framework.md` |
+| 波段一（巨头战略拓荒）数据源与抓取工程全景方案 | `thinking/business/radar-band-one-data-sources-and-ops.md` |
 | 分发雷达工程化实施方案：DataForSEO + Apify 自动化流水线 | `thinking/business/distribution-radar-engineering-sop.md` |
 | 创业实战思维导图 2.0：五步闭环全景重构 (XML) | `thinking/business/startup-mindmap-5steps-complete.md` |
 | 创业路径思维导图评估与 2.0 优化方案 | `thinking/business/startup-execution-framework-evaluation.md` |
