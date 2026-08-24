@@ -52,6 +52,7 @@ AI 应先根据问题识别领域，再加载下列最小上下文；不要默�
 | 商业落地终极五步闭环：借分发 → 找差 → 借货 → 放量 → 留底 | `thinking/business/borrow-distribution-five-steps-sop.md` |
 | 分发雷达：未被定价的人流与意图探测系统 | `thinking/business/distribution-radar-framework.md` |
 | 波段一（巨头战略拓荒）数据源与抓取工程全景方案 | `thinking/business/radar-band-one-data-sources-and-ops.md` |
+| 波段一 AI 系统提示词、研判规则与 Python 完整脚本 | `thinking/business/radar-band-one-engineering-spec.md` |
 | 流量情报工具评估：SimilarWeb、Sensor Tower 与 data.ai 的价值与平替 | `thinking/business/traffic-intelligence-tools-evaluation.md` |
 | 分发雷达工程化实施方案：DataForSEO + Apify 自动化流水线 | `thinking/business/distribution-radar-engineering-sop.md` |
 | 创业实战思维导图 2.0：五步闭环全景重构 (XML) | `thinking/business/startup-mindmap-5steps-complete.md` |
