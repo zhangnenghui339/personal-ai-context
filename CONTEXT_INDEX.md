@@ -24,6 +24,7 @@ AI 应先根据问题识别领域，再加载下列最小上下文；不要默�
 | 分发—收益函数闭环共振模型（商业与政治通用动力学） | `thinking/politics/topics/distribution-payoff-resonance-engine.md` |
 | 商业势能与综合会话 | `thinking/business/SESSION.md`；标杆企业：`thinking/business/benchmark-companies.md`；失败复盘：`thinking/business/failed-founders.md` |
 | 实体套利/红利起家案例 | `thinking/business/case-studies-arbitrage-dividend.md` |
+| 亚马逊中国卖家大爆发的历史复盘与底层规律 | `thinking/business/amazon-chinese-seller-surge-analysis.md` |
 | **创业机会模型（新会话先读）** | `thinking/business/session-opportunity.md`（原该分支的 `SESSION.md`，合并时拆出以免覆盖势能会话） |
 | 创业机会、分发、套利结构化 | `thinking/business/opportunity-discovery-model.md` |
 | Byrne Hobart 套利与基础设施原句 | `thinking/business/hobart-arbitrage-infrastructure.md` |
