@@ -1,6 +1,6 @@
 # 会话简报：创业机会 = Gap × 分发 × 结构化
 
-- Date: 2026-08-14
+- Date: 2026-08-25
 - Status: 本轮工作模型的单文件入口。新会话先读本文，再按需打开文末卫星文件。
 - 不要当聊天记录。这是提炼后的结论、四问、案例和未完成项。
 - 分析创业史时抛弃道德评价；规则差、对手名单等只当窗口与风险变量。不写采集/绕过/群发等可复现步骤。
@@ -46,6 +46,10 @@
 套利 = 经济体给发现者的非稀释融资（Hobart）。对活过早期经常是主因。对终端价值通常不是充分条件。停在套利层可以很赚钱，很少成为终局公司。好 UE ≠ 已结构化。
 
 口诀：套利是启动贷款。贷款到期，看房子还在不在。
+
+### 四层洼地（扫描差的种类，不是时序）
+
+时空 / 阶层 / 介质 / 技术。技术差 = 最贵工序便宜一个数量级，不是「发明了科技」。2026-08-25 五案回测：Google 最接近纯技术差；App Store/移动互联网主引擎含介质；Uber 主引擎是时空（黑车远早于 App）。规则空窗不升格为第五洼地。详见 `five-cases-tech-arb-level-backtest.md`。
 
 ### 读创业史四问（替代「它做对了什么产品」）
 
@@ -166,6 +170,8 @@
 | `thinking/business/asymmetric-behavior-cases.md` | 李嘉诚、QQ×ISP |
 | `thinking/business/four-questions-five-products.md` | 四问五案全表 |
 | `thinking/business/airbnb-competitor-identity.md` | 对手身份图（无操作步骤） |
+| `thinking/business/five-cases-tech-arb-level-backtest.md` | 五案回测：四层洼地保留；技术差=成本崩塌；时序改为三件套点火 |
+| `thinking/business/four-gaps-case-mapping.md` | 四层洼地案例表（含 App Store / 移动互联网 / Uber） |
 
 ---
 
