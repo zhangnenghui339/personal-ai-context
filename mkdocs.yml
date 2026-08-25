@@ -1,0 +1,55 @@
+site_name: Personal AI Context
+site_description: 个人 AI 上下文知识库预览
+docs_dir: .
+
+# Render the whole repository in place (docs live at the repo root, not under docs/).
+plugins:
+  - same-dir
+  - search:
+      lang:
+        - zh
+        - en
+
+# Keep tooling and generated artifacts out of the rendered site.
+exclude_docs: |
+  .venv/
+  site/
+  scripts/
+  requirements.txt
+  AGENTS.md
+
+theme:
+  name: material
+  language: zh
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/weather-night
+        name: 切换到深色模式
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/weather-sunny
+        name: 切换到浅色模式
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.top
+    - search.highlight
+    - search.suggest
+    - content.code.copy
+    - toc.follow
+
+markdown_extensions:
+  - toc:
+      permalink: true
+  - tables
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight
+
+use_directory_urls: false

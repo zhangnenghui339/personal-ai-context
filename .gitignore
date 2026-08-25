@@ -8,6 +8,11 @@ private-local/
 credentials*.json
 secrets*.json
 
+# Docs tooling and generated artifacts
+.venv/
+site/
+__pycache__/
+
 # OS and editor noise
 .DS_Store
 Thumbs.db
