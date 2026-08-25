@@ -1,0 +1,11 @@
+{
+  "name": "personal-ai-context docs",
+  "install": "bash scripts/cloud-setup.sh",
+  "terminals": [
+    {
+      "name": "mkdocs",
+      "command": "DISABLE_MKDOCS_2_WARNING=true .venv/bin/mkdocs serve -a 0.0.0.0:8000"
+    }
+  ],
+  "ports": [8000]
+}

@@ -1,0 +1,4 @@
+# Docs development tooling for the personal-ai-context knowledge base.
+# Install with: python3 -m venv .venv && .venv/bin/pip install -r requirements.txt
+mkdocs-material==9.7.7
+mkdocs-same-dir==0.1.5
