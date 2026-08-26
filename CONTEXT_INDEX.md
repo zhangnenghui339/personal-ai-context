@@ -33,7 +33,7 @@ AI 应先根据问题识别领域，再加载下列最小上下文；不要默�
 | 价值洼地类型与分发复用（人群套利） | `thinking/business/valuation-gaps-and-distribution-reuse.md` |
 | 价值洼地六大母体场景与战略特征 | `thinking/business/value-gap-archetypes-and-strategy.md` |
 | 四大洼地自检维度与经典案例映射 | `thinking/business/four-gaps-case-mapping.md` |
-| 四大洼地自检模型的通俗直觉重构 | `thinking/business/four-gaps-intuitive-framework.md` |
+| 四大洼地自检模型的通俗直觉重构（时空差/阶层差/注意力介质差/技术差） | `thinking/business/four-gaps-intuitive-framework.md` |
 | 五案回测四层洼地与先导时序（Google/App Store/移动互联网/Amazon/Uber） | `thinking/business/five-cases-tech-arb-level-backtest.md` |
 | 中国出海五案四层回测（安克/SHEIN/赤子城/传音/猎豹） | `thinking/business/china-five-outbound-gap-backtest.md` |
 | 阶层差（需求减配）vs 技术差（供给革命）的本质区别 | `thinking/business/tier-vs-tech-gap-difference.md` |
