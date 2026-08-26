@@ -160,6 +160,7 @@
 |---|---|
 | `thinking/business/opportunity-discovery-model.md` | 完整模型、经济学锚、七问、差的检索表 |
 | `thinking/business/hobart-arbitrage-infrastructure.md` | 原句英中对照 + 通俗版 |
+| `thinking/business/bezos-market-leadership-window-terminal-value.md` | Bezos 窗口期→市场领导→DCF终值→基础设施→Day 1；含先行指标方法与中国烧钱案例对照 |
 | `thinking/business/where-distribution-is-going.md` | 分发三句深度 |
 | `thinking/business/obvious-arb-and-new-property.md` | 明显的差需要基础设施；钻空子→立新产权 |
 | `thinking/business/information-gap-maxwell-demon.md` | 信息差与介绍权 |
