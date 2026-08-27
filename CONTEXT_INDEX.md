@@ -65,7 +65,7 @@ AI 应先根据问题识别领域，再加载下列最小上下文；不要默�
 | 明显的差与新产权 | `thinking/business/obvious-arb-and-new-property.md` |
 | 信息差与麦克斯韦妖 | `thinking/business/information-gap-maxwell-demon.md` |
 | 不对称行为：李嘉诚与早期腾讯 | `thinking/business/asymmetric-behavior-cases.md` |
-| VC 幂律下注：损失封顶 × 上行不封顶 × 扩大 outlier 候选池 | `thinking/business/vc-power-law-decision-rules.md` |
+| VC 幂律下注：损失封顶 × 上行不封顶 × 扩大 outlier 候选池；功能改进为何天花板锁死；Bezos 商业 / 投资核心观点汇总 | `thinking/business/vc-power-law-decision-rules.md` |
 | 读创业史四问与五案 | `thinking/business/four-questions-five-products.md` |
 | 第二问沉默面：对手身份图 | `thinking/business/airbnb-competitor-identity.md` |
 | AI 创业、分发与商业化 | `thinking/business/session-ai-distribution.md` |
