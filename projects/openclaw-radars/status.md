@@ -8,9 +8,9 @@
 
 删除旧雷达后的运行基线已经收敛为：
 
-- **9 个已启用 cron 任务**；
+- **10 个已启用 cron 任务**（2026-08-27 新增 `TechDiscontinuityDaily`、`AICapitalFlowDaily`）；
 - **1 个已禁用 cron 任务**；
-- **1 个保留执行文件、但没有 cron 的先导信号模块**；
+- **1 个保留执行文件、但没有 cron 的先导信号模块**（`capital-signals`，已被 `AICapitalFlowDaily` 取代，待退役）；
 - 所有邮件由任务自身通过 SMTP 发送，OpenClaw `delivery.mode=none`，避免重复投递。
 - 2026-08-27 起，所有现存雷达邮件最底部统一展示“本雷达的判断逻辑”。
 
@@ -18,6 +18,7 @@
 
 | 雷达 / Job 名称 | 当前状态 | 任务时间（上海） | 核心逻辑 | 邮件策略 |
 |---|---:|---|---|---|
+| `AICapitalFlowDaily` | **启用**（首次验证运行待跑） | 每天 **05:05** | AI ~14 子领域的聪明钱流向：`collect.py`（SEC EDGAR Form D + DataForSEO Google News + lab RSS，Apify-free）→ Claude Code headless 归类 + 8 阶段定位 + 反推大企业行为路径与势差；实质事件阈值（≥$100M 轮 / M&A / 巨头 AI 组织 / Sherlocking / 洗牌簇 / 主权资本 / 跨阶段） | 有实质事件才发；无事件的非周一静默；周一必发全量阶段表 |
 | `RadarBand1DailySniff` | **启用** | 每天 **06:00** | 监控巨头跨国拓荒、平台补贴、主权政策/合规断裂；关键词矩阵预筛后交给 LLM 研判，`score >= 7.5` 且可行动才命中 | 有高价值命中才发送；无命中静默 |
 | `RadarBand3RawSnapshotEmail` | **启用** | 每天 **06:10** | 抓取 Chrome Web Store Top 30、Shopify App Store 分类页、Product Hunt Top 10，输出应用/插件市场原始快照 | 每次运行发送原始数据邮件 |
 | `TechDiscontinuityDaily` | **启用** | 每天 **05:10** | 采集 arXiv 最新 30 篇与 Hacker News Top 50/保留 25；对新增候选调用 Codex，按 Breakthrough Magnitude、Credibility、Spillover Potential 研判 | 每次运行发送监测报告；`score >= 7.5` 且可行动才列为追踪候选 |
@@ -33,6 +34,7 @@
 
 | Job | ID |
 |---|---|
+| AICapitalFlowDaily | `f5e72292-5208-4a4c-9048-5bb27a28bed3` |
 | RadarBand1DailySniff | `d3defe2c-ae62-41c7-986f-d44e7cfbd707` |
 | RadarBand3RawSnapshotEmail | `4bfb85b8-4fab-49f5-a05a-ee991c6fdb04` |
 | TechDiscontinuityDaily | `56d08557-7fd6-4088-92ff-ccdc0de1e1c9` |
@@ -62,6 +64,8 @@
 
 ## 已确认的配置漂移
 
+- `AICapitalFlowDaily`（2026-08-27 新建）：首次 `openclaw cron run` 调试失败——`claude -p --dangerously-skip-permissions` 在 root 下被拒。`run-claude.sh` 已改为 `--permission-mode acceptEdits --allowedTools "Bash Read Write Edit Glob Grep"`。`collect.py` 已单独实测通过（返回 140 条真实融资 / M&A 新闻）。**首次完整验证运行尚未跑通**；若改后的 claude headless 仍在 root 下报错，回退方案是把 `run-claude.sh` 里的 `claude` 换成 `codex`（与其余雷达一致）。
+- `AICapitalFlowDaily` 取代了 dormant 的 `opportunity-distribution-radar-capital-signals`（全市场、无 cron）；后者待从执行目录退役。
 - `OpportunityDistributionRadarWeekly` 的服务器旧 README 写的是周二 05:50，但 **live cron 当前为周二 11:00**；本文件以 live cron 为准。
 - `GPTBusinessOpportunityWeekly` 虽保留 `05:50` cron 表达式，但 `enabled=false`，不能视为自动运行。
 - GitHub 只记录结构、规则和运行状态；SMTP 密码、API Token、私钥、收件地址等敏感配置不进入仓库。

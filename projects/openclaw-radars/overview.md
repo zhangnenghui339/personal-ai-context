@@ -29,7 +29,8 @@
 | 层级 | 雷达 | 回答的问题 | 方法 | 输出边界 |
 |---|---|---|---|---|
 | **Level 1 生产函数** | Tech Discontinuity | 底层成本/性能是否发生数量级断裂？ | arXiv + HN + LLM；成本 `>=80%` 下降或性能 `>=10x` 提升 | 只标记“值得长期追踪”，不判断当下变现 |
-| **Level 2 资本承诺** | Capital Signals | 聪明资本是否开始用 CapEx、订单和 Backlog 抢筹？ | SEC EDGAR + 卖铲人定向监控 + LLM | 判断资本方向和领先时间，不等同市场入口已开放 |
+| **Level 2 资本承诺** | Capital Signals（dormant，被 AICapitalFlow 取代） | 聪明资本是否开始用 CapEx、订单和 Backlog 抢筹？ | SEC EDGAR + 卖铲人定向监控 + LLM | 判断资本方向和领先时间，不等同市场入口已开放 |
+| **Level 2 资本承诺 · AI 专版** | AICapitalFlow | AI ~14 子领域的聪明钱处在资本信号 8 阶段曲线的哪一段？大企业行为路径反推出什么势差？ | SEC EDGAR Form D + DataForSEO Google News + lab RSS（Apify-free）+ Claude Code | 只标资本方向、阶段与领先时间；资本信号 ≠ 机会 ≠ 开发授权 |
 | **Level 3 平台开闸** | Band 1 Daily Sniff | 巨头、政策或平台是否刚释放新流量/新成本结构？ | RSS、Apify、DataForSEO、SEC；关键词矩阵 + LLM | `score >= 7.5` 且可行动才发预警 |
 | **分发供给真空** | Band 2 Parasite SEO | 高意图需求是否由 Reddit/Quora 占据 SERP，而没有独立产品承接？ | Apify + DataForSEO，纯规则 | Top 3 全为 UGC 域名即黄金命中 |
 | **搜索长尾资产** | Band 2 pSEO | 是否存在低 KD、有 CPC、可规模化交付的极冷长尾？ | Keyword Suggestions + Search Volume + KD + SERP | 月度词包，不等于产品需求已付款验证 |
@@ -146,7 +147,16 @@ Top 25 再做 SERP 竞争强度核验。其作用是沉淀可复用的 Search In
 - 全市场：SEC EDGAR 全文检索 8-K/10-Q，关注 CapEx、data center、billion investment、capacity expansion；
 - 定向“卖铲人”：NVIDIA、ASML、TSMC 最新 filings；
 - 评分：Capital Conviction、Directional Clarity、Lead Time；
-- 当前缺口：S-1 未盈利上市、并购溢价、Payoneer/PingPong 资金通路尚未接入。
+- 状态：dormant，已被 `AICapitalFlow` 取代，待退役。
+
+### 9. AICapitalFlow（每日 05:05，Claude Code 执行）
+
+- **数据源（Apify-free）**：`collect.py` = DataForSEO Google News（融资 / M&A / lab 发布 / 巨头 AI 组织 12 组查询）+ SEC EDGAR Form D（每笔美国私募轮 15 天内必报）+ lab 博客 RSS（Sherlocking 检测）；md5 去重、跨日 `state/seen.json`、硬上限 140 条。
+- **研判**：一次隔离的 Claude Code turn 跑 `collect.py` → 把每条事件归入 14 子领域、定位资本信号 8 阶段（①窗口前聪明钱 ②首笔大退出 ③洪水 ④轮动到 infra ⑤平台征税/Sherlocking ⑥并购整合+洗牌 ⑦结构性冲击 ⑧后增长）→ 对实质事件写「新闻 → 反推大企业行为路径 → 势差判断（给谁 / 在位者反身位 / 具体 wedge / 风险）」。
+- **实质事件阈值**：≥$100M 轮 / 任何 M&A / hyperscaler 或 lab 的 AI 组织或 capex 公告 / 可能 sherlock 某子领域的 lab 发布 / 主权或战略资本出手 / 近 7 日某子领域关停 ≥3 / 任一子领域跨阶段。
+- **发信策略**：有实质事件才发；无事件的非周一静默；周一必发 14 子领域全量阶段表。`delivery.mode=none`，`run-claude.sh` 注入确定性逻辑 Footer 后经共享 `send-email.py` 走 QQ SMTP。
+- **成本**：Apify 0；DataForSEO ≈12 credits/天；Claude Code token 静默日 ~3–8K、发信日 ~30–80K。
+- **决策边界**：资本信号 ≠ 机会 ≠ 开发授权；只标资本方向、阶段与领先时间。
 
 ## 决策与资产边界
 
