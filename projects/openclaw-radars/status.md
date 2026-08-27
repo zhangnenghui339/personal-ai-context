@@ -27,7 +27,7 @@
 | 二·规则哨 | `Band2RuleSniffDaily` | **启用**（首次验证运行待跑） | 每天 **05:20** | 只扫 AI 搜索 / 答案引擎规则变化（RSS + DataForSEO News）；Apify-free | 有实质规则变化才发，否则静默 |
 | 三·宿主生态 | `RadarBand3RawSnapshotEmail` | **启用** | 每天 **06:10** | 原始快照。**2026-08-27 补 4 源（Apify-free，带昨日 diff 新增高亮）**：VS Code 扩展市场（搜 ai，官方 Gallery API）、MCP servers（PulseMCP API）、Raycast（GitHub commits API），GPT Store 保留 stub 待接入。前三源 Chrome/Shopify/PH 仍走 Apify。 | 每次运行发原始数据邮件 |
 | 四·规则断裂 | `Band4RegBreakDaily` | **启用**（首次验证运行待跑） | 每天 **05:25** | AI / 科技 / 平台监管与规则变化（Federal Register · AI rules / FTC / Copyright / EU + DataForSEO News 10 组）；跨境关税留波段一；Apify-free；Claude Code headless | 有实质规则断裂才发，否则静默 |
-| 四·新词真空 | `Band4Vacuum-SaaS` / `-LocalLLaMA` / `-AI_Agents` / `-OpenAI` | **启用** | 每周一 **06:00–07:00** | 各扫一个 subreddit 高意图痛点帖；SERP Top 3 全 UGC = Parasite SEO 供给真空。**2026-08-27：subreddit 由电商组（dropship/SaaS/Shopify/smallbusiness）切到 AI 组；抓取预算 600s→300s；SERP 核验上限 Top 20；前缀 `【波段四·新词真空·r/{sub}】`；4 个 cron 更名 `Band4Vacuum-*`（ID 不变）** | 黄金命中立即发；抓取失败单独告警 |
+| 四·新词真空 | `Band4Vacuum-SaaS` / `-automation` / `-AI_Agents` / `-marketing` | **启用** | 每周一 **06:00–07:00** | 各扫一个 subreddit 高意图痛点帖；SERP Top 3 全 UGC = Parasite SEO 供给真空。**2026-08-27：subreddit 切到「有需求没产品接+会付费」组（SaaS / automation / AI_Agents / marketing）；抓取预算 600s→300s；SERP 核验上限 Top 20；前缀 `【波段四·新词真空·r/{sub}】`；4 个 cron 更名 `Band4Vacuum-*`（ID 不变）** | 黄金命中立即发；抓取失败单独告警 |
 | 四·冷长尾 | `RadarBand2PseoMonthly` | **启用** | 每月 **1 日 06:30** | 6 种子词扩长尾，`Volume 30–500 / KD<=15 / CPC>0.5 / 含 vs·alternative·tool`，Top 25 核验 SERP。**前缀改 `【波段四·冷长尾】`** | 月度长尾词包 |
 | 综合 | `OpportunityDistributionRadarWeekly` | **启用** | 每周二 **11:00** | 分发市场新增量 → `DIS × SOS × ACR` → `TEST / WATCH / REJECT` | 每周 JSON + HTML，SMTP 成功才写 history |
 
@@ -43,9 +43,9 @@
 | RadarBand1DailySniff | `d3defe2c-ae62-41c7-986f-d44e7cfbd707` |
 | RadarBand3RawSnapshotEmail | `4bfb85b8-4fab-49f5-a05a-ee991c6fdb04` |
 | Band4Vacuum-SaaS | `1b5bc085-bb09-4233-b8bb-ea1a1380b910` |
-| Band4Vacuum-LocalLLaMA | `30c06500-1aa9-4555-9b9f-72d41455eb28` |
+| Band4Vacuum-automation | `30c06500-1aa9-4555-9b9f-72d41455eb28` |
 | Band4Vacuum-AI_Agents | `d6aa7529-0e6a-4ca3-8386-b65888f0f035` |
-| Band4Vacuum-OpenAI | `c58469f6-016d-4c8b-be89-6978a926a7ae` |
+| Band4Vacuum-marketing | `c58469f6-016d-4c8b-be89-6978a926a7ae` |
 | 每日AI资讯邮件推送（codex） | `cd1ce4b0-4cc8-40bd-a41a-63a8703eb0ed` |
 | RadarBand2PseoMonthly | `c0eb37c7-fb82-4691-b0f2-ec2c81ac66dd` |
 | OpportunityDistributionRadarWeekly | `6e27fab8-b859-4b6c-a755-6af15b2a5ecd` |
