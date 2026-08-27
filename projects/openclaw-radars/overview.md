@@ -118,21 +118,9 @@ Top 25 再做 SERP 竞争强度核验。其作用是沉淀可复用的 Search In
 
 `TEST` 至少要求：Confidence `>=70%`、近期新增分发证据、两条独立需求证据、明确入口、付费证据和可执行 Asset Capture。
 
-### 6. GPTBusinessOpportunityWeekly
+### 6. GPTBusinessOpportunityWeekly —— 已退役（2026-08-27）
 
-**覆盖工具形态**：Calculator、Generator、Converter、Auditor、Analyzer、Micro AI Tool、Business Document Tool、Workflow Utility、Chrome Extension、轻量 API。
-
-**排除**：Career/Resume/Recruiting、通用无差异 Converter、重后台 SaaS、灰产、侵权、隐私高风险及强监管决策工具。
-
-**机会值**：
-
-`Opportunity Value = D × A × G × P × S × L ÷ C`
-
-- `D` 需求强度；`A` 需求聚集度；`G` 分发可获得性；
-- `P` 付费能力；`S` 交付标准化；`L` 复利潜力；`C` 竞争成本；
-- Evidence Confidence 独立计算：来源质量、独立覆盖、时效性、七因子证据完整度各占 25%。
-
-`BUILD_TEST` 只代表应测试 Offer/Fake-door/Deposit，不代表批准开发；`PRODUCTIZE` 必须已有真实付款与重复交付。
+品类（独立计算器 / 转换器 / micro tool）正被 LLM 内联回答吞没，且它是综合器、与 ODRW 角色重复。task 目录移入 `deleted-radars/`。`Opportunity Value = D × A × G × P × S × L ÷ C` 这个工具机会打分法保留为 ODRW 的可选 lens。
 
 ### 7. Tech Discontinuity（每天 05:10）
 
@@ -157,6 +145,30 @@ Top 25 再做 SERP 竞争强度核验。其作用是沉淀可复用的 Search In
 - **发信策略**：有实质事件才发；无事件的非周一静默；周一必发 14 子领域全量阶段表。`delivery.mode=none`，`run-claude.sh` 注入确定性逻辑 Footer 后经共享 `send-email.py` 走 QQ SMTP。
 - **成本**：Apify 0；DataForSEO ≈12 credits/天；Claude Code token 静默日 ~3–8K、发信日 ~30–80K。
 - **决策边界**：资本信号 ≠ 机会 ≠ 开发授权；只标资本方向、阶段与领先时间。
+
+### 10. Band2MediumShift（波段二 · 周三 11:00 周报 + 每日 05:20 规则哨，Claude Code 执行）
+
+- **目的**：搜索介质多快从 Google 蓝链迁到答案引擎，谁在新介质里拿引用位；聚焦 AI 工具 / 互联网注意力场。
+- **数据源（Apify-free）**：`collect.py weekly` = DataForSEO SERP `organic/live/advanced`（80 词 · `load_async_ai_overview` · 组 1–6 战场 + 组 7 消费科技校准锚）+ 引用域名 churn（vs `state/citation_baseline.json`）+ DataForSEO AI Optimization/LLM Responses（答案引擎引用，~15 词）+ DataForSEO News + RSS（Google Search Central / Bing Webmaster / OpenAI / Google / seroundtable）。`collect.py sniff` 只跑 News + RSS。
+- **头条读数**：组 1–6 AI Overview 覆盖率环比（pt）+ 组 1–6 减组 7 的覆盖率差 + 引用源 entered/exited/集中度。
+- **发信**：周报每周三固定发；日哨仅在出现实质 AI 搜索规则变化时发。
+- **成本**：Apify 0；DataForSEO ~$2–2.5/月；token 周报 ~30–60K、日哨 ~3–5K。
+
+### 11. Band4RegBreak（波段四 · 每日 05:25 规则断裂哨，Claude Code 执行）
+
+- **目的**：AI / 科技 / 平台的监管与规则变化——一条规则让某种新打法从不可行变可行或反之。跨境关税 / VAT / EPR 留波段一。
+- **数据源（Apify-free）**：`collect.py` = RSS（Federal Register · AI rules（RULE/PRORULE + 引号短语）、FTC press、US Copyright Office、EU digital policy）+ DataForSEO News（EU AI Act / 州级 AI 法 / FTC 执法 / 应用商店政策 / ToS / AI 版权判例 / 责任 / 数据本地化 / reverse acqui-hire / chatbot 监管，10 组）。md5 去重。
+- **每条**：已确认事实 / 开了什么关了什么 / 窗口（立即 / 过渡期 / 观察）/ 链接。
+- **发信**：有 ≥1 条实质规则断裂才发，否则静默。
+
+## 四波段优化清单（未决，2026-08-27 review）
+
+1. **Band1↔AICapitalFlow 边界**写进两者 prompt：能让小玩家插进去的分发面 → 波段一；纯资本配置信号 → AICapitalFlow。
+2. **Band3**：只倒原始榜单不研判 → 加日 diff（新进榜 / 排名跳升）；市场清单补 GPT Store / OpenAI Apps、MCP 目录、VS Code 扩展市场、Raycast Store。
+3. **Band4 Parasite**：subreddit 偏电商 → 加 r/LocalLLaMA、r/AI_Agents、r/OpenAI、r/artificial；新增真空类型「ChatGPT 回答任务型 query 时不推荐任何产品」。
+4. **新词检测**：加搜索量环比突增词（DataForSEO trends/volume delta）——目前 Pseo 抓冷长尾、Parasite 抓 UGC 霸屏，都不是「三个月前不存在的新术语」。
+5. **共享 `signals/` feed**（`~/.openclaw/workspace/signals/`，已建空目录）：各波段命中写 append-only JSONL，ODRW（或新周综合器）读——需放开 ODRW 的「禁读其它雷达」。
+6. **邮件前缀**：ODRW（`Opportunity Distribution Radar｜` → `【综合·机会排序】`）、TechDiscontinuity（→ `【波段〇·技术断裂】`）待改。
 
 ## 决策与资产边界
 
