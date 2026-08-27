@@ -27,7 +27,7 @@
 | 二·规则哨 | `Band2RuleSniffDaily` | **启用**（首次验证运行待跑） | 每天 **05:20** | 只扫 AI 搜索 / 答案引擎规则变化（RSS + DataForSEO News）；Apify-free | 有实质规则变化才发，否则静默 |
 | 三·宿主生态 | `RadarBand3RawSnapshotEmail` | **启用** | 每天 **06:10** | 原始快照。**2026-08-27 补 4 源（Apify-free，带昨日 diff 新增高亮）**：VS Code 扩展市场（搜 ai，官方 Gallery API）、MCP servers（PulseMCP API）、Raycast（GitHub commits API），GPT Store 保留 stub 待接入。前三源 Chrome/Shopify/PH 仍走 Apify。 | 每次运行发原始数据邮件 |
 | 四·规则断裂 | `Band4RegBreakDaily` | **启用**（首次验证运行待跑） | 每天 **05:25** | AI / 科技 / 平台监管与规则变化（Federal Register · AI rules / FTC / Copyright / EU + DataForSEO News 10 组）；跨境关税留波段一；Apify-free；Claude Code headless | 有实质规则断裂才发，否则静默 |
-| 四·新词真空 | `RadarBand2Parasite-dropship/SaaS/Shopify/smallbusiness` | **启用** | 每周一 **06:00–07:00** | 各扫一个 subreddit 高意图痛点帖；SERP Top 3 全 UGC = Parasite SEO 供给真空。**2026-08-27：邮件前缀改 `【波段四·新词真空·r/{sub}】`** | 黄金命中立即发；抓取失败单独告警 |
+| 四·新词真空 | `Band4Vacuum-SaaS` / `-LocalLLaMA` / `-AI_Agents` / `-OpenAI` | **启用** | 每周一 **06:00–07:00** | 各扫一个 subreddit 高意图痛点帖；SERP Top 3 全 UGC = Parasite SEO 供给真空。**2026-08-27：subreddit 由电商组（dropship/SaaS/Shopify/smallbusiness）切到 AI 组；抓取预算 600s→300s；SERP 核验上限 Top 20；前缀 `【波段四·新词真空·r/{sub}】`；4 个 cron 更名 `Band4Vacuum-*`（ID 不变）** | 黄金命中立即发；抓取失败单独告警 |
 | 四·冷长尾 | `RadarBand2PseoMonthly` | **启用** | 每月 **1 日 06:30** | 6 种子词扩长尾，`Volume 30–500 / KD<=15 / CPC>0.5 / 含 vs·alternative·tool`，Top 25 核验 SERP。**前缀改 `【波段四·冷长尾】`** | 月度长尾词包 |
 | 综合 | `OpportunityDistributionRadarWeekly` | **启用** | 每周二 **11:00** | 分发市场新增量 → `DIS × SOS × ACR` → `TEST / WATCH / REJECT` | 每周 JSON + HTML，SMTP 成功才写 history |
 
@@ -42,10 +42,11 @@
 | Band4RegBreakDaily | `825cee58-e4c3-49cf-bf20-f9619c76f8c2` |
 | RadarBand1DailySniff | `d3defe2c-ae62-41c7-986f-d44e7cfbd707` |
 | RadarBand3RawSnapshotEmail | `4bfb85b8-4fab-49f5-a05a-ee991c6fdb04` |
-| RadarBand2Parasite-dropship | `1b5bc085-bb09-4233-b8bb-ea1a1380b910` |
-| RadarBand2Parasite-SaaS | `30c06500-1aa9-4555-9b9f-72d41455eb28` |
-| RadarBand2Parasite-Shopify | `d6aa7529-0e6a-4ca3-8386-b65888f0f035` |
-| RadarBand2Parasite-smallbusiness | `c58469f6-016d-4c8b-be89-6978a926a7ae` |
+| Band4Vacuum-SaaS | `1b5bc085-bb09-4233-b8bb-ea1a1380b910` |
+| Band4Vacuum-LocalLLaMA | `30c06500-1aa9-4555-9b9f-72d41455eb28` |
+| Band4Vacuum-AI_Agents | `d6aa7529-0e6a-4ca3-8386-b65888f0f035` |
+| Band4Vacuum-OpenAI | `c58469f6-016d-4c8b-be89-6978a926a7ae` |
+| 每日AI资讯邮件推送（codex） | `cd1ce4b0-4cc8-40bd-a41a-63a8703eb0ed` |
 | RadarBand2PseoMonthly | `c0eb37c7-fb82-4691-b0f2-ec2c81ac66dd` |
 | OpportunityDistributionRadarWeekly | `6e27fab8-b859-4b6c-a755-6af15b2a5ecd` |
 
@@ -86,7 +87,9 @@
 - **邮件前缀统一**（2026-08-27，f-string 改，syntax 已过，未跑验证）：Band3 → `【波段三·宿主生态】`；Parasite `[分发雷达·波段二]` → `【波段四·新词真空·r/{sub}】`（旧「波段二」编号与新的介质跃迁波段冲突，必须改）；Pseo → `【波段四·冷长尾】`。ODRW / TechDiscontinuity 前缀待改。
 - **Band3 补源已改**（2026-08-27）：`radar_band3_raw_snapshot.py` 加 `fetch_vscode_raw` / `fetch_mcp_raw` / `fetch_raycast_raw`（分别实测 30/40/30 条）+ `fetch_gptstore_raw` stub + 通用 `_diff_section`（baseline 存 `data/`）。syntax 已过，fetcher 已实测；完整 run()（含发信）需下次 06:10 验证。三个新源各自 try/except，失败只在邮件里显示「❌ 采集失败」，不影响既有三源。
 - `signals/` 已建空目录（`~/.openclaw/workspace/signals/`），接入各雷达 + 放开 ODRW 禁读规则为待办。
-- 雷达 LLM 执行器保持不变：codex(GPT-5.6) 用于 Band1 / TechDiscontinuity / ODRW；claude headless 用于 AICapitalFlow / Band2 / Band4；Band3 / Parasite / Pseo 无 LLM。deepseek-v4-pro 仅服务 agentTurn 型非雷达任务，2026-08-27 明确不引入雷达。
+- 雷达 LLM 执行器：codex(GPT-5.6) 用于 Band1 / TechDiscontinuity / ODRW；claude headless 用于 AICapitalFlow / Band2 / Band4；Band3 / Band4Vacuum / Pseo 无 LLM。
+- **`每日AI资讯邮件推送` 2026-08-27 改造**：原 `payload.kind=agentTurn` + `deepseek/deepseek-v4-pro` → 删除重建为 `payload.kind=command` → `tasks/ai-daily-digest/run-codex.sh`（`codex exec`，读 `codex-task.md`=原 `skills/ai-daily-digest/cron-message.md`）。新 cron `cd1ce4b0`，每日 05:15，`--no-deliver`，自身经 `ai_daily_utils.py` 发 SMTP。首次运行待验证。
+- deepseek-v4-pro 现只服务其它 agentTurn 型非雷达任务（每日 OpenClaw 日报、SEO 竞品 jobs）。
 - `OpportunityDistributionRadarWeekly` 的服务器旧 README 写的是周二 05:50，但 **live cron 当前为周二 11:00**；本文件以 live cron 为准。
 - GitHub 只记录结构、规则和运行状态；SMTP 密码、API Token、私钥、收件地址等敏感配置不进入仓库。
 

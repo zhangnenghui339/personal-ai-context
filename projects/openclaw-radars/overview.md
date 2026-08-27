@@ -77,9 +77,9 @@
 
 baseline 存 `data/band3_baseline_<src>.json`，逐源 diff 出 `🆕` 新增行。
 
-### 3. RadarBand2Parasite-*
+### 3. Band4Vacuum-*（原 RadarBand2Parasite-*）
 
-四个 subreddit 被拆为独立任务，避免大社区抓取超时拖垮整批流程。
+四个 subreddit 拆为独立任务避免超时拖垮整批。**2026-08-27：subreddit 由电商组切到 AI 组 `SaaS / LocalLLaMA / AI_Agents / OpenAI`；抓取预算 300s；SERP 核验上限 Top 20；cron 更名 `Band4Vacuum-*`（ID 不变）。**
 
 **规则**：
 
