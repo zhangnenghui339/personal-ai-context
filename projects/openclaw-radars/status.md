@@ -8,9 +8,9 @@
 
 删除旧雷达后的运行基线已经收敛为：
 
-- **8 个已启用 cron 任务**；
+- **9 个已启用 cron 任务**；
 - **1 个已禁用 cron 任务**；
-- **2 个保留执行文件、但没有 cron 的先导信号模块**；
+- **1 个保留执行文件、但没有 cron 的先导信号模块**；
 - 所有邮件由任务自身通过 SMTP 发送，OpenClaw `delivery.mode=none`，避免重复投递。
 - 2026-08-27 起，所有现存雷达邮件最底部统一展示“本雷达的判断逻辑”。
 
@@ -20,6 +20,7 @@
 |---|---:|---|---|---|
 | `RadarBand1DailySniff` | **启用** | 每天 **06:00** | 监控巨头跨国拓荒、平台补贴、主权政策/合规断裂；关键词矩阵预筛后交给 LLM 研判，`score >= 7.5` 且可行动才命中 | 有高价值命中才发送；无命中静默 |
 | `RadarBand3RawSnapshotEmail` | **启用** | 每天 **06:10** | 抓取 Chrome Web Store Top 30、Shopify App Store 分类页、Product Hunt Top 10，输出应用/插件市场原始快照 | 每次运行发送原始数据邮件 |
+| `TechDiscontinuityDaily` | **启用** | 每天 **05:10** | 采集 arXiv 最新 30 篇与 Hacker News Top 50/保留 25；对新增候选调用 Codex，按 Breakthrough Magnitude、Credibility、Spillover Potential 研判 | 每次运行发送监测报告；`score >= 7.5` 且可行动才列为追踪候选 |
 | `RadarBand2Parasite-dropship` | **启用** | 每周一 **06:00** | 扫描 `r/dropship` 高意图痛点帖；若 Google SERP Top 3 全为 Reddit/Quora，则判为 Parasite SEO 供给真空 | 黄金命中立即发送；抓取彻底失败单独告警 |
 | `RadarBand2Parasite-SaaS` | **启用** | 每周一 **06:20** | 与上项相同，独立扫描 `r/SaaS` | 同上 |
 | `RadarBand2Parasite-Shopify` | **启用** | 每周一 **06:40** | 与上项相同，独立扫描 `r/Shopify` | 同上 |
@@ -34,6 +35,7 @@
 |---|---|
 | RadarBand1DailySniff | `d3defe2c-ae62-41c7-986f-d44e7cfbd707` |
 | RadarBand3RawSnapshotEmail | `4bfb85b8-4fab-49f5-a05a-ee991c6fdb04` |
+| TechDiscontinuityDaily | `56d08557-7fd6-4088-92ff-ccdc0de1e1c9` |
 | RadarBand2Parasite-dropship | `1b5bc085-bb09-4233-b8bb-ea1a1380b910` |
 | RadarBand2Parasite-SaaS | `30c06500-1aa9-4555-9b9f-72d41455eb28` |
 | RadarBand2Parasite-Shopify | `d6aa7529-0e6a-4ca3-8386-b65888f0f035` |
@@ -46,7 +48,6 @@
 
 | 模块 | 当前状态 | 逻辑 | 任务时间 |
 |---|---|---|---|
-| `opportunity-distribution-radar-tech-discontinuity` | 有执行文件，无 cron | Level 1 技术断裂：arXiv `cs.AI/cs.LG/cs.CL/cs.RO` + Hacker News；判断成本是否暴跌 `>=80%`、性能是否提升 `>=10x`、可信度与外溢潜力；`score >= 7.5` 仅代表值得追踪，不代表可变现 | **未设置** |
 | `opportunity-distribution-radar-capital-signals` | 有执行文件，无 cron | Level 2 资本异动：SEC EDGAR 全市场 8-K/10-Q + NVIDIA/ASML/TSMC 定向监控；判断 CapEx 激增、卖铲人订单/Backlog、资本决心、方向清晰度和领先时间；`score >= 7.5` 才预警 | **未设置** |
 
 ## 已删除且不应重新纳入

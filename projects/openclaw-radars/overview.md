@@ -133,11 +133,12 @@ Top 25 再做 SERP 竞争强度核验。其作用是沉淀可复用的 Search In
 
 `BUILD_TEST` 只代表应测试 Offer/Fake-door/Deposit，不代表批准开发；`PRODUCTIZE` 必须已有真实付款与重复交付。
 
-### 7. Tech Discontinuity（未定时）
+### 7. Tech Discontinuity（每天 05:10）
 
 - 数据源：arXiv 最新 30 篇 + Hacker News Top 50 中保留前 25；
 - 评分：Breakthrough Magnitude、Credibility、Spillover Potential；
 - 硬门槛：成本暴跌 `>=80%` 或性能提升 `>=10x`；缺少数字时以严肃圈层的异常讨论热度做代理；
+- 调度：每天 05:10（Asia/Shanghai），只对去重后的新增候选调用 Codex；任务超时 30 分钟；
 - 当前缺口：GitHub Trending 与硬件成本历史快照尚未接入。
 
 ### 8. Capital Signals（未定时）
