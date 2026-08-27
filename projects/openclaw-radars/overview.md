@@ -61,13 +61,21 @@
 
 ### 2. RadarBand3RawSnapshotEmail
 
-这是**原始数据快照**而非最终评分雷达：
+这是**原始数据快照**而非最终评分雷达。每天固定发信，不以评分门槛决定是否发送；保留榜单现场，降低算法过滤漏报。
 
-- Chrome Web Store Top Charts：30 条；
-- Shopify App Store：`selling-products` 分类页；
-- Product Hunt Daily：Top 10。
+源（前三个走 Apify，后四个 2026-08-27 新增，全部 Apify-free，带「相对昨日 baseline 的新增高亮」）：
 
-价值在于保留榜单现场，降低后续算法过滤导致的漏报；因此每天固定发信，不以评分门槛决定是否发送。
+| 源 | 取法 | 状态 |
+|---|---|---|
+| Chrome Web Store Top Charts 30 | Apify `crawlerbros/chrome-extensions-scraper-pro` | ok |
+| Shopify App Store `selling-products` 分类页 | Apify `website-content-crawler` | ok |
+| Product Hunt Daily Top 10 | Apify `muzafferkadir/product-hunt-leaderboard` | ok |
+| **VS Code 扩展市场**（搜 `ai`，安装量 Top 30） | 官方 Gallery API `extensionquery`，无 auth | 实测 30 条 |
+| **MCP servers** Top 40 | PulseMCP `api.pulsemcp.com/v0beta/servers` | 实测 40 条 |
+| **Raycast** 最近 30 | GitHub commits API `raycast/extensions`（无稳定 Store API，取仓库近况） | 实测 30 条 |
+| **GPT Store** | 无官方 API + ChatGPT 登录墙，保留 stub | 待接入第三方稳定源 |
+
+baseline 存 `data/band3_baseline_<src>.json`，逐源 diff 出 `🆕` 新增行。
 
 ### 3. RadarBand2Parasite-*
 
@@ -164,7 +172,7 @@ Top 25 再做 SERP 竞争强度核验。其作用是沉淀可复用的 Search In
 ## 四波段优化清单（未决，2026-08-27 review）
 
 1. **Band1↔AICapitalFlow 边界**写进两者 prompt：能让小玩家插进去的分发面 → 波段一；纯资本配置信号 → AICapitalFlow。
-2. **Band3**：只倒原始榜单不研判 → 加日 diff（新进榜 / 排名跳升）；市场清单补 GPT Store / OpenAI Apps、MCP 目录、VS Code 扩展市场、Raycast Store。
+2. **Band3**：~~市场清单补 VS Code 扩展市场 / MCP / Raycast + 加日 diff~~ **已做（2026-08-27，Apify-free，见 §2）**；剩：GPT Store 待接入第三方稳定源；「原始榜单不研判」→ 可再加一层「新进榜的品类聚类」。
 3. **Band4 Parasite**：subreddit 偏电商 → 加 r/LocalLLaMA、r/AI_Agents、r/OpenAI、r/artificial；新增真空类型「ChatGPT 回答任务型 query 时不推荐任何产品」。
 4. **新词检测**：加搜索量环比突增词（DataForSEO trends/volume delta）——目前 Pseo 抓冷长尾、Parasite 抓 UGC 霸屏，都不是「三个月前不存在的新术语」。
 5. **共享 `signals/` feed**（`~/.openclaw/workspace/signals/`，已建空目录）：各波段命中写 append-only JSONL，ODRW（或新周综合器）读——需放开 ODRW 的「禁读其它雷达」。
