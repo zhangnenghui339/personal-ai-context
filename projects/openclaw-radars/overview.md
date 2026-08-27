@@ -155,6 +155,15 @@ Top 25 再做 SERP 竞争强度核验。其作用是沉淀可复用的 Search In
 4. **必须可逃逸**：优先能把平台流量转成 Email、第一方数据、品牌、客户或伙伴关系的机会。
 5. **任务间保持独立**：两个周报不得读取其他雷达输出，避免同源偏差和循环强化。
 
+## 邮件可解释性规范
+
+所有雷达邮件必须在**最底部**显示“本雷达的判断逻辑”，固定说明：目标、数据源、筛选/评分、触发条件、运行时间与决策边界。
+
+- Python 直跑雷达在 HTML 构建函数中追加确定性 Footer；
+- Opportunity Distribution Weekly 与 GPT Business Opportunity Weekly 由外层 runner 在发信前注入 Footer，并用固定 ID 防止重复；
+- Band 2 Parasite SEO 的正常命中邮件和失败告警邮件使用同一逻辑说明；
+- Footer 只解释规则，不暴露 SMTP、API、SSH 或收件配置。
+
 ## 相关方法论文档
 
 - `thinking/business/distribution-radar-framework.md`：四波段概念框架；
