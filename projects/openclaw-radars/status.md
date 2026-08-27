@@ -14,10 +14,46 @@
 - 所有邮件由任务自身通过 SMTP 发送，OpenClaw `delivery.mode=none`，避免重复投递。
 - 2026-08-27 起，所有现存雷达邮件最底部统一展示“本雷达的判断逻辑”。
 
-## 现有定时雷达
+## 发信时刻表（按上海时区排序）
 
-| 雷达 / Job 名称 | 当前状态 | 任务时间（上海） | 核心逻辑 | 邮件策略 |
-|---|---:|---|---|---|
+> 邮件都发到 `livenzhang18@qq.com`，发件显示名 `cursor`（共用 QQ SMTP，`delivery.mode=none`，各任务自发）。
+
+### 每日
+
+| 时间 | 邮件主题前缀 | 触发发信条件 | 执行器 |
+|---|---|---|---|
+| 05:05 | `【波段一·资本异动】` | **有 ≥1 实质事件才发**：≥$100M 轮 / 任何 M&A·acqui-hire / hyperscaler·lab 的 AI 组织或 capex 公告 / 可能 sherlock 某子领域的 lab 发布 / 主权·战略资本出手 / 近 7 日某子领域关停 ≥3 / 任一子领域跨 8 阶段。非周一无事件静默；**周一必发**全量 14 子领域阶段表 | claude headless |
+| 05:10 | `【波段〇·技术断裂】`（前缀待改） | **每次固定发**监测报告；`score ≥ 7.5` 且可行动才列为追踪候选。硬门槛：成本 ↓≥80% 或性能 ↑≥10x | codex |
+| 05:15 | `【每日AI资讯】`（非波段·资讯汇总） | **每天固定发**（6 板块：GitHub Trending / Product Hunt / Reddit / AI 业界 / SEO / GEO·AI 搜索可见性）；对 `ai_daily_sent.json` 去重 | codex（2026-08-27 起，原 deepseek） |
+| 05:20 | `【波段二·规则哨】` | **有 ≥1 条实质 AI 搜索/答案引擎规则变化才发**：Google AI Mode 扩区·加广告 / ChatGPT·Perplexity·Gemini·Bing Copilot 检索归因更新 / 出版商 AI 授权协议 / 新 AI 爬虫 UA·robots.txt / GSC·GA4 AI 流量度量变化。否则静默 | claude headless |
+| 05:25 | `【波段四·规则断裂】` | **有 ≥1 条实质规则断裂才发**：已生效监管（EU AI Act 分期 / 州级 AI 法 / FTC·DOJ 执法 / 版权局裁定 / 数据本地化）、平台规则（应用商店政策 / API·ToS 对 agent·抓取的准入）、判例（AI 版权·训练数据·责任）、reverse acqui-hire 反垄断。排除提案阶段。否则静默 | claude headless |
+| 06:00 | `【波段一·巨头拓荒】` | **LLM 研判后 `score ≥ 7.5` 且 `is_actionable` 且命中三类之一才发**（new_market_opening / official_subsidy / rule_change）；或有阵地检测失败发告警。否则静默 | codex |
+| 06:10 | `【波段三·宿主生态】` | **每次固定发**原始快照（7 源：Chrome/Shopify/PH + VS Code/MCP/Raycast + GPT Store stub；新三源带 🆕 昨日 diff）；某源失败仍发其余，主题标「(部分源失败)」 | 无 LLM |
+
+### 每周一
+
+| 时间 | 邮件主题前缀 | 触发发信条件 | 执行器 |
+|---|---|---|---|
+| 06:00 | `【波段四·新词真空·r/SaaS】` | **有「黄金命中」才发**：提取的任务型 query 的 Google SERP Top 3 全为 Reddit/Quora（有意图无专业产品）；抓取彻底失败单独发告警。否则静默 | 无 LLM |
+| 06:20 | `【波段四·新词真空·r/automation】` | 同上，扫 r/automation | 无 LLM |
+| 06:40 | `【波段四·新词真空·r/AI_Agents】` | 同上，扫 r/AI_Agents | 无 LLM |
+| 07:00 | `【波段四·新词真空·r/marketing】` | 同上，扫 r/marketing | 无 LLM |
+
+### 每周二 / 三 / 每月
+
+| 时间 | 邮件主题前缀 | 触发发信条件 | 执行器 |
+|---|---|---|---|
+| 周二 11:00 | `Opportunity Distribution Radar｜…`（待改 `【综合·机会排序】`） | **每周固定发**周报；即使无候选通过门槛也生成，写明「本周无可测试分发机会」 | codex |
+| 周三 11:00 | `【波段二·介质跃迁】` | **每周固定发**周报（80 词 AI Overview 覆盖率 + 引用源 churn + AI Optimization + 规则汇总）；无变化也发 | claude headless |
+| 每月 1 日 06:30 | `【波段四·冷长尾】` | **有本月新的极冷长尾词命中才发**词包（Volume 30–500 / KD ≤15 / CPC >0.5 / 含 vs·alternative·tool）；无新命中则静默 | 无 LLM |
+
+**固定发（每次运行必有邮件）：** 05:10 技术断裂、05:15 每日AI资讯、06:10 宿主生态、周二 综合、周三 介质跃迁 —— 共 5 封。
+**静默除非命中：** 资本异动（周一除外）、规则哨、规则断裂、巨头拓荒、新词真空 ×4、冷长尾。
+**非雷达同箱邮件：** 03:45 每日 OpenClaw 执行报告日报（deepseek·内部运维）。
+**已退役：** GPTBusinessOpportunityWeekly。
+
+## 现有定时雷达（按波段）
+
 | 波段 | 雷达 / Job 名称 | 当前状态 | 任务时间（上海） | 核心逻辑 | 邮件策略 |
 |---|---|---:|---|---|---|
 | 〇·前导 | `TechDiscontinuityDaily` | **启用** | 每天 **05:10** | arXiv 30 + HN Top 50/留 25；新增候选调 Codex，按 Breakthrough Magnitude / Credibility / Spillover 研判 | 每次发监测报告；`score>=7.5` 且可行动才列追踪 |
