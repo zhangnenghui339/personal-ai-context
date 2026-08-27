@@ -23,6 +23,7 @@ AI 应先根据问题识别领域，再加载下列最小上下文；不要默�
 | 信息拓扑、极值信号与收益函数相变大模型 | `thinking/politics/topics/information-payoff-phase-transition-model.md` |
 | 分发—收益函数闭环共振模型（商业与政治通用动力学） | `thinking/politics/topics/distribution-payoff-resonance-engine.md` |
 | 商业势能与综合会话 | `thinking/business/SESSION.md`；标杆企业：`thinking/business/benchmark-companies.md`；失败复盘：`thinking/business/failed-founders.md` |
+| OpenClaw 服务器雷达（名称、逻辑、任务时间、运行状态） | `projects/openclaw-radars/status.md`，再读 `projects/openclaw-radars/overview.md`；方法论见 `thinking/business/distribution-radar-framework.md` |
 | 实体套利/红利起家案例 | `thinking/business/case-studies-arbitrage-dividend.md` |
 | 商业机会与套利爆发的先导指标级联模型（从技术到相变） | `thinking/business/leading-indicators-of-emerging-opportunities.md` |
 | 技术与生产函数断裂（Level 1）的探测方法论：穿透公关噪音 | `thinking/business/detecting-level-1-technological-discontinuity.md` |
