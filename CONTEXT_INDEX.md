@@ -66,6 +66,9 @@ AI 应先根据问题识别领域，再加载下列最小上下文；不要默�
 | 信息差与麦克斯韦妖 | `thinking/business/information-gap-maxwell-demon.md` |
 | 不对称行为：李嘉诚与早期腾讯 | `thinking/business/asymmetric-behavior-cases.md` |
 | VC 幂律下注：损失封顶 × 上行不封顶 × 扩大 outlier 候选池；功能改进为何天花板锁死；Bezos 商业 / 投资核心观点汇总 | `thinking/business/vc-power-law-decision-rules.md` |
+| Bezos 核心观点总览（商业 × 投资两条线，串联下面两篇 + 找机会的细化方法论） | `thinking/business/bezos-core-principles.md` |
+| Bezos 市场领导地位：窗口期、收益递增、终值 / DCF、语录合集、理论谱系、观测方法论 | `thinking/business/bezos-market-leadership-window-terminal-value.md` |
+| Bezos 失败容忍、失败资产化、幂律下注、Explore/Exploit、基础设施抽取、京东 / 当当对照 | `thinking/business/bezos-failure-power-law-jd-dangdang.md` |
 | 读创业史四问与五案 | `thinking/business/four-questions-five-products.md` |
 | 第二问沉默面：对手身份图 | `thinking/business/airbnb-competitor-identity.md` |
 | AI 创业、分发与商业化 | `thinking/business/session-ai-distribution.md` |
