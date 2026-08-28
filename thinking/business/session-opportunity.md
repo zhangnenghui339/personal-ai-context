@@ -1,6 +1,6 @@
 # 会话简报：创业机会 = Gap × 分发 × 结构化
 
-- Date: 2026-08-14
+- Date: 2026-08-26
 - Status: 本轮工作模型的单文件入口。新会话先读本文，再按需打开文末卫星文件。
 - 不要当聊天记录。这是提炼后的结论、四问、案例和未完成项。
 - 分析创业史时抛弃道德评价；规则差、对手名单等只当窗口与风险变量。不写采集/绕过/群发等可复现步骤。
@@ -46,6 +46,13 @@
 套利 = 经济体给发现者的非稀释融资（Hobart）。对活过早期经常是主因。对终端价值通常不是充分条件。停在套利层可以很赚钱，很少成为终局公司。好 UE ≠ 已结构化。
 
 口诀：套利是启动贷款。贷款到期，看房子还在不在。
+
+### 四层洼地（扫描差的种类，不是时序）
+
+时空 / 阶层 / 注意力介质 / 技术。
+- **注意力介质差** = 注意力迁移（眼睛/时间搬家）+ 新介质触点（新货架/结账载体）。
+- **技术差** = 最贵工序便宜一个数量级，不是「发明了科技」。
+- 2026-08-25 五案回测：Google 最接近纯技术差；App Store/移动互联网主引擎含注意力介质；Uber 主引擎是时空（黑车远早于 App）。规则空窗不升格为第五洼地。详见 `five-cases-tech-arb-level-backtest.md`。
 
 ### 读创业史四问（替代「它做对了什么产品」）
 
@@ -131,6 +138,7 @@
 - Amazon：图书长尾 + 联盟 + 现金周期/税差 → 飞轮、3P、物流、AWS（多层叠加）。
 - Google：质量差先于广告；产品即分发；终局锁默认位/Chrome/Android。部分反驳「先分发再套利」的线性顺序。
 - PayPal×eBay、QQ×聊天室、美团×店址电话、紫鸟×卖家社群：与 Airbnb 向内同一机制——已经用笨办法做过的名单。
+- 安克：Amazon 搜索中间档真空 → 品牌/GaN。SHEIN：SEO+免税+番禺快反；2025 de minimis 已关。赤子城：Play 桌面广告 → 中东关系链税。传音：非洲土墙小店，不借电商。猎豹：与赤子城同一点火器，2020 归零。详见 `china-five-outbound-gap-backtest.md`。
 
 ---
 
@@ -167,6 +175,9 @@
 | `thinking/business/asymmetric-behavior-cases.md` | 李嘉诚、QQ×ISP |
 | `thinking/business/four-questions-five-products.md` | 四问五案全表 |
 | `thinking/business/airbnb-competitor-identity.md` | 对手身份图（无操作步骤） |
+| `thinking/business/five-cases-tech-arb-level-backtest.md` | 五案回测：四层洼地保留；技术差=成本崩塌；时序改为三件套点火 |
+| `thinking/business/china-five-outbound-gap-backtest.md` | 安克/SHEIN/赤子城 + 传音/猎豹：中国出海四层与结构化对照 |
+| `thinking/business/four-gaps-case-mapping.md` | 四层洼地案例表（含 App Store / 移动互联网 / Uber / 中国出海五案） |
 
 ---
 
