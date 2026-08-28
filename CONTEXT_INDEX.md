@@ -75,6 +75,7 @@ AI 应先根据问题识别领域，再加载下列最小上下文；不要默�
 | 读创业史四问与五案 | `thinking/business/four-questions-five-products.md` |
 | 第二问沉默面：对手身份图 | `thinking/business/airbnb-competitor-identity.md` |
 | AI 创业、分发与商业化 | `thinking/business/session-ai-distribution.md` |
+| **确定性势能与当前四大机会点** | `thinking/business/current-high-probability-opportunities.md` |
 | 读书相关 | `books/reading-list.md`、`books/notes/` |
 | 历史决策 | 对应项目的 `decisions.md` 或 `thinking/decision-journal/` |
 
