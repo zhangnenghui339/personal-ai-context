@@ -70,6 +70,7 @@ AI 应先根据问题识别领域，再加载下列最小上下文；不要默�
 | 不对称行为：李嘉诚与早期腾讯 | `thinking/business/investing-and-decision-patterns/asymmetric-behavior-cases.md` |
 | VC 幂律下注：损失封顶 × 上行不封顶 × 扩大 outlier 候选池；功能改进为何天花板锁死；Bezos 商业 / 投资核心观点汇总 | `thinking/business/investing-and-decision-patterns/vc-power-law-decision-rules.md` |
 | Bezos 核心观点总览（商业 × 投资两条线，串联下面两篇 + 找机会的细化方法论） | `thinking/business/investing-and-decision-patterns/bezos-core-principles.md` |
+| Bezos 式产品切入口选择五层漏斗（认相变 → 成本结构倒推品类 → wedge 结构条件 → 当期权 → 幂律/窗口/可占有性） | `thinking/business/investing-and-decision-patterns/bezos-wedge-selection-funnel.md` |
 | 顶尖创业者 / 投资人与大众不同的十个底层模式 | `thinking/business/investing-and-decision-patterns/contrarian-decision-patterns.md` |
 | App 经济完整周期：装机 / 用户曲线、广告定价（CPI/CPM）与资本信号八阶段时间线（案例） | `thinking/business/cases/app-economy-capital-signal-timeline.md` |
 | Bezos 市场领导地位：窗口期、收益递增、终值 / DCF、语录合集、理论谱系、观测方法论 | `thinking/business/investing-and-decision-patterns/bezos-market-leadership-window-terminal-value.md` |
