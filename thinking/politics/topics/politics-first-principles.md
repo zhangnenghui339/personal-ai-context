@@ -3,7 +3,7 @@
 - Date: 2026-08-19
 - Status: 政治本体论与第一性原理深度沉淀文档。
 - 坐标：政治学 × 制度经济学 × 物理势能大统一模型。
-- 依赖：`thinking/business/SESSION.md`（§1、§16、§23、§25）、`thinking/politics/topics/coalition-arithmetic.md`、`thinking/politics/topics/urbanization-coalition-momentum.md`。
+- 依赖：`thinking/business/session/SESSION.md`（§1、§16、§23、§25）、`thinking/politics/topics/coalition-arithmetic.md`、`thinking/politics/topics/urbanization-coalition-momentum.md`。
 - 标签：【事实】【推断】【个人判断】【待验证】
 
 ---

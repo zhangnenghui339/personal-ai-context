@@ -158,15 +158,15 @@
 
 | 文件 | 内容 |
 |---|---|
-| `thinking/business/opportunity-discovery-model.md` | 完整模型、经济学锚、七问、差的检索表 |
-| `thinking/business/hobart-arbitrage-infrastructure.md` | 原句英中对照 + 通俗版 |
-| `thinking/business/bezos-market-leadership-window-terminal-value.md` | Bezos 窗口期→市场领导→DCF终值→基础设施→Day 1；含先行指标方法与中国烧钱案例对照 |
-| `thinking/business/where-distribution-is-going.md` | 分发三句深度 |
-| `thinking/business/obvious-arb-and-new-property.md` | 明显的差需要基础设施；钻空子→立新产权 |
-| `thinking/business/information-gap-maxwell-demon.md` | 信息差与介绍权 |
-| `thinking/business/asymmetric-behavior-cases.md` | 李嘉诚、QQ×ISP |
-| `thinking/business/four-questions-five-products.md` | 四问五案全表 |
-| `thinking/business/airbnb-competitor-identity.md` | 对手身份图（无操作步骤） |
+| `thinking/business/opportunity-discovery/opportunity-discovery-model.md` | 完整模型、经济学锚、七问、差的检索表 |
+| `thinking/business/potential-energy-and-gaps/hobart-arbitrage-infrastructure.md` | 原句英中对照 + 通俗版 |
+| `thinking/business/investing-and-decision-patterns/bezos-market-leadership-window-terminal-value.md` | Bezos 窗口期→市场领导→DCF终值→基础设施→Day 1；含先行指标方法与中国烧钱案例对照 |
+| `thinking/business/distribution-radar/where-distribution-is-going.md` | 分发三句深度 |
+| `thinking/business/potential-energy-and-gaps/obvious-arb-and-new-property.md` | 明显的差需要基础设施；钻空子→立新产权 |
+| `thinking/business/potential-energy-and-gaps/information-gap-maxwell-demon.md` | 信息差与介绍权 |
+| `thinking/business/investing-and-decision-patterns/asymmetric-behavior-cases.md` | 李嘉诚、QQ×ISP |
+| `thinking/business/opportunity-discovery/four-questions-five-products.md` | 四问五案全表 |
+| `thinking/business/opportunity-discovery/airbnb-competitor-identity.md` | 对手身份图（无操作步骤） |
 
 ---
 

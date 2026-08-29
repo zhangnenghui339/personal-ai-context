@@ -1,8 +1,8 @@
 # 实体企业早期靠"套利"或"红利"起家的案例
 
 > Last verified: 2026-08-14
-> 说明：本文件为可复用案例库，不是会话记录。势能综合会话见 `thinking/business/SESSION.md`。
-> 2026-08-19 合并入 main 时更正：原分支撰写时 `SESSION.md` 尚不存在；现已存在，本条替代旧说明。
+> 说明：本文件为可复用案例库，不是会话记录。势能综合会话见 `thinking/business/session/SESSION.md`。
+> 2026-08-19 合并入 main 时更正：原分支撰写时 `thinking/business/session/SESSION.md` 尚不存在；现已存在，本条替代旧说明。
 
 ## 分类框架（个人判断，用于归纳案例共性）
 

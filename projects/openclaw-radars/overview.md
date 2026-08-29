@@ -197,12 +197,12 @@ Top 25 再做 SERP 竞争强度核验。其作用是沉淀可复用的 Search In
 
 ## 相关方法论文档
 
-- `thinking/business/distribution-radar-framework.md`：四波段概念框架；
-- `thinking/business/distribution-radar-engineering-sop.md`：DataForSEO + Apify 工程 SOP；
-- `thinking/business/radar-band-one-data-sources-and-ops.md`：波段一数据源与运行策略；
-- `thinking/business/radar-band-one-engineering-spec.md`：波段一研判规则与实现规范；
-- `thinking/business/leading-indicators-of-emerging-opportunities.md`：技术 → 资本 → 边缘行为 → 平台开闸 → 大众相变的先导指标级联模型；
-- `thinking/business/detecting-level-1-technological-discontinuity.md`：Level 1 技术断裂识别方法。
+- `thinking/business/distribution-radar/distribution-radar-framework.md`：四波段概念框架；
+- `thinking/business/distribution-radar/distribution-radar-engineering-sop.md`：DataForSEO + Apify 工程 SOP；
+- `thinking/business/distribution-radar/radar-band-one-data-sources-and-ops.md`：波段一数据源与运行策略；
+- `thinking/business/distribution-radar/radar-band-one-engineering-spec.md`：波段一研判规则与实现规范；
+- `thinking/business/opportunity-discovery/leading-indicators-of-emerging-opportunities.md`：技术 → 资本 → 边缘行为 → 平台开闸 → 大众相变的先导指标级联模型；
+- `thinking/business/opportunity-discovery/detecting-level-1-technological-discontinuity.md`：Level 1 技术断裂识别方法。
 
 ## 隐私与同步边界
 

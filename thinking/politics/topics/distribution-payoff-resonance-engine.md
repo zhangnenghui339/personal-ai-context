@@ -3,7 +3,7 @@
 - Date: 2026-08-21
 - Status: 政治与商业跨界大统一核心模型。解释势能筑坝、分发路由、收益函数改写、双向有利做功与履约复利闭环。
 - 坐标：政治第一性原理 × 制度经济学 × 商业分发模型 × 博弈论纳什均衡相变。
-- 依赖：`session.md`、`politics-first-principles.md`、`politics-triad-mechanics-interests-games.md`、`information-payoff-phase-transition-model.md`、`thinking/business/SESSION.md`。
+- 依赖：`session.md`、`politics-first-principles.md`、`politics-triad-mechanics-interests-games.md`、`information-payoff-phase-transition-model.md`、`thinking/business/session/SESSION.md`。
 - 标签：【事实】【推断】【个人判断】
 
 ---

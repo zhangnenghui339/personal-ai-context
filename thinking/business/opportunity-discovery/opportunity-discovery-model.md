@@ -54,7 +54,7 @@
 
 刘炽平默认站在第 3 层看：腾讯已有社交图和支付的分配权，投资是把「做不好的垂直」外包，同时让被投公司来租管道。他不会用「套利」这个词，但行为是：守住卡口，把第 1–2 层交给别人，抽一小部分。创始人若只有产品思维，直接模仿他会空转——你还没有可出租的管。
 
-读创业史不要问「它做对了什么产品」，改问四问：借了谁的势；第一批客户从哪来；当时没被抹平的 Gap；借来的 Distribution/Gap 转化成什么自有资产。第二问最常被省略，也是只复制产品经常失败的原因。五案见 `thinking/business/four-questions-five-products.md`。
+读创业史不要问「它做对了什么产品」，改问四问：借了谁的势；第一批客户从哪来；当时没被抹平的 Gap；借来的 Distribution/Gap 转化成什么自有资产。第二问最常被省略，也是只复制产品经常失败的原因。五案见 `thinking/business/opportunity-discovery/four-questions-five-products.md`。
 
 ---
 
@@ -364,7 +364,7 @@ Amazon 说明结构化不是一次完成，而是**用这一层套利留下的�
 
 - **UE / Unit Economics**：以「一个客户 / 一笔订单 / 一台订阅设备」为单元算账。收入是否盖过获客、履约、退款、风险。好 UE = 每多做一个单元，现金和利润通常是正的，而且这个正数在规模变大时不会立刻翻负。
 - **分发入口 vs 分发权**：入口是你能碰到人；权是你能决定别人碰到谁。创业早期要的是前者，终局争的是后者。
-- **Byrne Hobart**：Newsletter *The Diff* 作者，兼写 *Capital Gains*。背景跨广告/SEO（含 Yahoo）、对冲基金研究（SAC/Point72）、数据公司。不是一线操盘的明星创始人，是把公司和金融市场当成同一套「价差如何闭合」来写的分析者。原句对照见 `thinking/business/hobart-arbitrage-infrastructure.md`。核心篇：2025 *Arbs Close, Infrastructure Remains*。「带基础设施的套利」是本库转述，不是他的原标题。
+- **Byrne Hobart**：Newsletter *The Diff* 作者，兼写 *Capital Gains*。背景跨广告/SEO（含 Yahoo）、对冲基金研究（SAC/Point72）、数据公司。不是一线操盘的明星创始人，是把公司和金融市场当成同一套「价差如何闭合」来写的分析者。原句对照见 `thinking/business/potential-energy-and-gaps/hobart-arbitrage-infrastructure.md`。核心篇：2025 *Arbs Close, Infrastructure Remains*。「带基础设施的套利」是本库转述，不是他的原标题。
 
 ---
 
