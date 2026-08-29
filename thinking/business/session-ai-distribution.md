@@ -122,3 +122,10 @@
 - "分发是唯一护城河"的共识进一步强化，且打法开始收敛为四类可执行路径：**免费层 + 推理成本补贴（Fathom / Lovable 模式）、GEO 引用占位、创作者/创始人主导内容、生态位借力（Marketplace / 默认集成）**。
 - 传统 SEO 并非完全失效：Tibo 案例显示**面向明确 Search Intent 的专项落地页 + 复利内容**在小团队 Micro-SaaS 上依然高效——与 Elena Verna 的"SEO 不能做明星渠道"判断看似冲突，实际适用场景不同：Elena 针对依赖聚合流量的大平台型 SaaS，Tibo 针对利基精准流量。标注待观察：两者分界在于流量的 Intent 浓度与客单价支撑能力。
 - 新增待验证判断：AI 答案引用（GEO）是否会像当年 Google 一样形成"赢者通吃"的引用集中度，决定中小玩家是否需要尽早押注 Perplexity / ChatGPT 的引用生态位。
+
+---
+
+## 5. B2B 轻应用商业范式专题归档
+
+已于 2026-08-29 提炼完成 X 生态与独立开发中的 B2B 轻应用四大多态、动力学解构与五步落地闭环，详见独立专题文件：[`lightweight-b2b-ai-products-archetypes.md`](lightweight-b2b-ai-products-archetypes.md)。
+
