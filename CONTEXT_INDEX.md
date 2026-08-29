@@ -31,6 +31,7 @@ AI 应先根据问题识别领域，再加载下列最小上下文；不要默�
 | 亚马逊中国卖家大爆发的历史复盘与底层规律 | `thinking/business/cases/amazon-chinese-seller-surge-analysis.md` |
 | **创业机会模型（新会话先读）** | `thinking/business/session/session-opportunity.md`（原该分支的 `thinking/business/session/SESSION.md`，合并时拆出以免覆盖势能会话） |
 | 创业机会、分发、套利结构化 | `thinking/business/opportunity-discovery/opportunity-discovery-model.md` |
+| AI 范式迁移下的机会四层闭环（势差来源 + 判断层 + 势能形态 + 占有层） | `thinking/business/opportunity-discovery/ai-shift-opportunity-checklist.md` |
 | Byrne Hobart 套利与基础设施原句 | `thinking/business/potential-energy-and-gaps/hobart-arbitrage-infrastructure.md` |
 | 价值洼地类型与分发复用（人群套利） | `thinking/business/potential-energy-and-gaps/valuation-gaps-and-distribution-reuse.md` |
 | 价值洼地六大母体场景与战略特征 | `thinking/business/potential-energy-and-gaps/value-gap-archetypes-and-strategy.md` |
