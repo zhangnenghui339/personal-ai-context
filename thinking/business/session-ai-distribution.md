@@ -128,6 +128,6 @@
 ## 5. B2B 轻应用商业范式专题归档
 
 - **B2B 轻应用四大多态与落地矩阵**：已于 2026-08-29 提炼完成 X 生态与独立开发中的 B2B 轻应用四大多态、动力学解构与五步落地闭环，详见独立专题文件：[`lightweight-b2b-ai-products-archetypes.md`](lightweight-b2b-ai-products-archetypes.md)。
-- **AI 时代商业机会完整动力学（七大正向驱动 × 四大暗面约束 × 四层终局架构）**：已于 2026-08-29 系统化建立从介质与解法就地闭环、巨头博弈、三大市场空间到价值占有与 B 端确定性防御的完整全景模型，详见独立专题文件：[`ai-business-dynamics-and-opportunity-model.md`](ai-business-dynamics-and-opportunity-model.md)。
+- **AI 时代商业机会完整动力学（七大正向驱动 × 四大暗面约束 × 四层终局架构）**：已于 2026-08-29 系统化建立从介质与解法就地闭环、巨头博弈、三大市场空间到“警惕平台吞噬（拒绝薄壳Patch/构筑数字码头）”、“套利期留底资产化（Hobart铁律建水库）”与 B 端确定性防御的完整全景模型，详见独立专题文件：[`ai-business-dynamics-and-opportunity-model.md`](ai-business-dynamics-and-opportunity-model.md)。
 
 
