@@ -3,7 +3,7 @@
 - Date: 2026-08-27
 - Status: working note
 - Scope: 用移动 app 经济（2008–2025）一个完整周期，拆解资本信号如何随市场从「窗口开张」走到「存量饱和」而异动；对照装机 / 用户曲线与广告定价（CPI/CPM）。作为「一个完整周期里资本信号怎么走」的案例库。
-- 关联文件：`thinking/business/leading-indicators-of-emerging-opportunities.md`、`thinking/business/bezos-core-principles.md`、`thinking/business/vc-power-law-decision-rules.md`、`thinking/business/hobart-arbitrage-infrastructure.md`
+- 关联文件：`thinking/business/opportunity-discovery/leading-indicators-of-emerging-opportunities.md`、`thinking/business/investing-and-decision-patterns/bezos-core-principles.md`、`thinking/business/investing-and-decision-patterns/vc-power-law-decision-rules.md`、`thinking/business/potential-energy-and-gaps/hobart-arbitrage-infrastructure.md`
 
 > 数字为约数 / 方向性，精确值随来源（data.ai / Sensor Tower / comScore / 各公司披露）、地区、品类差异很大；资本事件的时点较可靠。正式引用需回一手材料核对。
 

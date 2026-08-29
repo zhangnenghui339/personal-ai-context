@@ -36,7 +36,7 @@
 
 省略「向内」这一问，Airbnb 会变成分享经济寓言。加上它，第二问才完整：第一批供给不是从零教育出来的，是从对手的身份图里搬过来的。今日再抄短租网站，抄不到的是当年那份还可触达的名单，不是页面。
 
-详见 `thinking/business/airbnb-competitor-identity.md`。
+详见 `thinking/business/opportunity-discovery/airbnb-competitor-identity.md`。
 
 ### 3. 拼多多
 

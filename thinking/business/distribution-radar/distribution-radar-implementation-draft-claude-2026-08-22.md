@@ -2,7 +2,7 @@
 
 - Date: 2026-08-22
 - Status: DRAFT —— 未落地实施，等待确认后再动手写代码
-- Scope: 整合 `distribution-radar-framework.md`（四波段理论）与 `distribution-radar-engineering-sop.md`（工程方案），结合服务器实测结果，给出可直接实施的分波段设计。取代原 `opportunity-distribution-radar` 的 DIS×SOS×ACR 评分体系，本版本暂不处理留底/资产沉淀维度。
+- Scope: 整合 `thinking/business/distribution-radar/distribution-radar-framework.md`（四波段理论）与 `thinking/business/distribution-radar/distribution-radar-engineering-sop.md`（工程方案），结合服务器实测结果，给出可直接实施的分波段设计。取代原 `opportunity-distribution-radar` 的 DIS×SOS×ACR 评分体系，本版本暂不处理留底/资产沉淀维度。
 
 ---
 
@@ -11,7 +11,7 @@
 1. **停用 seo-radar，全部并入 distribution-radar** —— 不再拆分"战略/战术"两个雷达，四个波段统一在一个系统里跑。
 2. **弃用 DIS×SOS×ACR，改用 Arbitrage Score 体系** —— 原三层评分依赖 LLM 主观 1-5 打分，无真实数据支撑；新方案改为纯 API 数据驱动的量化公式，四个波段各自适配。
 3. **本版本不处理留底/复利（Asset Capture）** —— 五步法里的"留底"维度本次不纳入评分，雷达只负责识别套利窗口，不评估长期资产沉淀价值。这是有意的范围收窄，不是遗漏。
-4. **`distribution-radar-engineering-sop.md` 里点名的 Apify Actor 有两个不存在**，已用实测替代方案覆盖（见下方"Actor 验证结果"）。
+4. **`thinking/business/distribution-radar/distribution-radar-engineering-sop.md` 里点名的 Apify Actor 有两个不存在**，已用实测替代方案覆盖（见下方"Actor 验证结果"）。
 
 ---
 

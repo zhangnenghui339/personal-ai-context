@@ -3,7 +3,7 @@
 - Date: 2026-08-27
 - Status: working note
 - Scope: 解释 VC 为什么不做均值优化，而是找「return the whole fund」的项目；三条决策规则的机制；「不设 upside 天花板」和「该不该找时间卖」如何统一；功能改进为什么天花板被锁死；Bezos 把同一套数学用在运营公司上的核心观点汇总。
-- 关联文件：`thinking/business/bezos-failure-power-law-jd-dangdang.md`、`thinking/business/bezos-market-leadership-window-terminal-value.md`、`thinking/business/asymmetric-behavior-cases.md`
+- 关联文件：`thinking/business/investing-and-decision-patterns/bezos-failure-power-law-jd-dangdang.md`、`thinking/business/investing-and-decision-patterns/bezos-market-leadership-window-terminal-value.md`、`thinking/business/investing-and-decision-patterns/asymmetric-behavior-cases.md`
 
 ---
 
@@ -85,7 +85,7 @@ B 的成功率只有 A 的九分之一，期望值却是 A 的五倍多。Bezos 
 
 ## Bezos：同一套数学用在运营一家公司上
 
-Bezos 的资本配置逻辑和 VC 幂律同构——**失败时像 VC，成功后像垄断型基础设施公司**。完整版见 `bezos-failure-power-law-jd-dangdang.md`、`bezos-market-leadership-window-terminal-value.md`；这里汇总核心观点。
+Bezos 的资本配置逻辑和 VC 幂律同构——**失败时像 VC，成功后像垄断型基础设施公司**。完整版见 `thinking/business/investing-and-decision-patterns/bezos-failure-power-law-jd-dangdang.md`、`thinking/business/investing-and-decision-patterns/bezos-market-leadership-window-terminal-value.md`；这里汇总核心观点。
 
 ### 决策心法（两领域通用）
 
@@ -134,4 +134,4 @@ Bezos 的资本配置逻辑和 VC 幂律同构——**失败时像 VC，成功�
 - 只在下行能封顶（有限责任、可承受的固定成本）时，才适合用这套打法。
 - 封顶之后，主动增加高方差、非共识的尝试次数，而不是优化每次的胜率。
 - 对已经跑出来的赢家，退出条件设成「逻辑是否还成立」，不是「涨了多少倍」。
-- 关联：Bezos 的失败容忍是同一结构（`bezos-failure-power-law-jd-dangdang.md`）；李嘉诚 / 早期腾讯的不对称下注是「下行有底 + 抓一个别人没定价的维度」（`asymmetric-behavior-cases.md`）。
+- 关联：Bezos 的失败容忍是同一结构（`thinking/business/investing-and-decision-patterns/bezos-failure-power-law-jd-dangdang.md`）；李嘉诚 / 早期腾讯的不对称下注是「下行有底 + 抓一个别人没定价的维度」（`thinking/business/investing-and-decision-patterns/asymmetric-behavior-cases.md`）。

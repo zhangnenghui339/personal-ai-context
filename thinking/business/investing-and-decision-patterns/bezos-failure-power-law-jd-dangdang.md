@@ -3,7 +3,7 @@
 - Date: 2026-08-27
 - Status: working note
 - Scope: 解释 Bezos 为什么允许大量小失败、Amazon 如何把失败转化为资产，以及京东/当当学习 Amazon 后为什么走出不同结果。
-- 关联文件：`thinking/business/bezos-market-leadership-window-terminal-value.md`、`thinking/business/hobart-arbitrage-infrastructure.md`
+- 关联文件：`thinking/business/investing-and-decision-patterns/bezos-market-leadership-window-terminal-value.md`、`thinking/business/potential-energy-and-gaps/hobart-arbitrage-infrastructure.md`
 
 ---
 
@@ -472,7 +472,7 @@ Bezos 更接近：
 
 > **失败时损失有限并留下砖；成功时能产生极大的非对称收益，并最终把砖修成路。**
 
-这与 `hobart-arbitrage-infrastructure.md` 的核心判据一致：
+这与 `thinking/business/potential-energy-and-gaps/hobart-arbitrage-infrastructure.md` 的核心判据一致：
 
 > **Arbs close, infrastructure remains.**
 

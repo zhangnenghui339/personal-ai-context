@@ -71,7 +71,7 @@ Take arbitrage, an activity that could literally amount to having two pricing sc
 **中**  
 所谓套利，字面上可以是两块屏幕、两个报价，一偏离就两边各点一下。通常没这么简单，原因很清楚：一眼能看见的套利早就被打光了。运气好也许还能碰到一笔；但若你是在「找」，更好的做法是聪明、勤奋，并且越来越需要大量基础设施——既用来识别信号，也用来执行交易。
 
-深度与通俗见 `thinking/business/obvious-arb-and-new-property.md`。
+深度与通俗见 `thinking/business/potential-energy-and-gaps/obvious-arb-and-new-property.md`。
 
 ---
 
@@ -163,7 +163,7 @@ Owning distribution matters, but understanding where distribution is going is a 
 **中**  
 拥有分发很重要，但先理解分发在往哪走，才知道什么值得拥有。
 
-深度解释见 `thinking/business/where-distribution-is-going.md`。压缩：拥有收费站有价值，前提是车以后还走这条路。分发是需求和供给最后相遇的稀缺配置权；一层变便宜，权就往上爬。买错桥（昨天的卡口）比租对路更亏。
+深度解释见 `thinking/business/distribution-radar/where-distribution-is-going.md`。压缩：拥有收费站有价值，前提是车以后还走这条路。分发是需求和供给最后相遇的稀缺配置权；一层变便宜，权就往上爬。买错桥（昨天的卡口）比租对路更亏。
 
 ### 7. 平台税：让你走不了，留下也赚不多
 
@@ -189,7 +189,7 @@ Consumer Internet companies are a sort of economic Maxwell’s Demon, creating a
 **中**  
 消费互联网公司有点像经济学里的麦克斯韦妖：在「极会表达需求的消费者」和「极会满足需求的公司」之间设一道屏障。大型互联网公司收费，是为了做这次介绍。
 
-深度、通俗与例子见 `thinking/business/information-gap-maxwell-demon.md`。
+深度、通俗与例子见 `thinking/business/potential-energy-and-gaps/information-gap-maxwell-demon.md`。
 
 ### 9. 监管套利 vs 监管创业
 
@@ -207,7 +207,7 @@ An idealist would say that they’re growing because they offer a better legal s
 **中**  
 理想主义者会说，他们增长是因为提供了更好的「法律系统」，使原本不可能的交易成为可能。犬儒会说，他们增长是为了让更多客户依赖自己，好拿客户去游说政府。但两边都会同意：正确顺序是先增长，把点 i 上的点和划 t 上的横留到以后。
 
-深度与通俗见 `thinking/business/obvious-arb-and-new-property.md`。
+深度与通俗见 `thinking/business/potential-energy-and-gaps/obvious-arb-and-new-property.md`。
 
 ## 和他相邻、但不要误安在他头上的话
 
