@@ -76,6 +76,7 @@ AI 应先根据问题识别领域，再加载下列最小上下文；不要默�
 | 第二问沉默面：对手身份图 | `thinking/business/airbnb-competitor-identity.md` |
 | AI 创业、分发与商业化 | `thinking/business/session-ai-distribution.md` |
 | B2B 轻应用商业范式与四大多态（X生态/端侧/插件） | `thinking/business/lightweight-b2b-ai-products-archetypes.md` |
+| AI 商业机会完整动力学（七大驱动 × 四大暗面 × 四层闭环） | `thinking/business/ai-business-dynamics-and-opportunity-model.md` |
 | 读书相关 | `books/reading-list.md`、`books/notes/` |
 | 历史决策 | 对应项目的 `decisions.md` 或 `thinking/decision-journal/` |
 
