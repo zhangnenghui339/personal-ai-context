@@ -59,6 +59,8 @@
 
 ## 四、方法论：怎么找到最初那个机会（细化）
 
+> 可操作漏斗版见 `thinking/business/investing-and-decision-patterns/bezos-wedge-selection-funnel.md`（Layer 0 认相变 → Layer 1 成本结构倒推品类 → Layer 2 wedge 结构条件 → Layer 3 当期权 → Layer 4 幂律 / 窗口 / 可占有性三道闸）。
+
 **前提认知：** 商业模式成熟之前，机会信号只存在于渠道 / 基础设施层。等 GMV / 销售数据出来，窗口已经在关闭（巨头已完成组织动员）。幂律的另一面：一个基础设施级相变会**同时重塑多个行业**，所以正确顺序是先抓相变，再选战场，而不是先有品类偏好。
 
 ### Step 1：识别基础设施级相变，用先行指标而非销售数据
