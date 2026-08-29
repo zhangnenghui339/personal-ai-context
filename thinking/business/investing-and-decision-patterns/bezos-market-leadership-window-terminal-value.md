@@ -3,7 +3,7 @@
 - Date: 2026-08-26
 - Status: working note
 - Scope: 还原 Jeff Bezos 1997 年“窗口期 + 巩固市场领导地位”战略逻辑的完整因果链、数学形式化（DCF/终值/ROIC）、经典语录合集（含年份出处）、对应的经济学理论谱系、他发现原始机会数据的方法论，并与中国互联网“烧钱换规模”案例（团购/千播/瑞幸/携程）做对照。
-- 关联文件：`thinking/business/hobart-arbitrage-infrastructure.md`（套利关闭/基础设施留下判据）、`thinking/business/distribution-radar-framework.md`（分发雷达）、`thinking/business/distribution-arbitrage-methodology.md`（耗散型 vs 基础设施型套利）、`thinking/business/structural-migration-vs-noise.md`（势差母模型）
+- 关联文件：`thinking/business/potential-energy-and-gaps/hobart-arbitrage-infrastructure.md`（套利关闭/基础设施留下判据）、`thinking/business/distribution-radar/distribution-radar-framework.md`（分发雷达）、`thinking/business/distribution-radar/distribution-arbitrage-methodology.md`（耗散型 vs 基础设施型套利）、`thinking/business/potential-energy-and-gaps/structural-migration-vs-noise.md`（势差母模型）
 
 ---
 
@@ -221,7 +221,7 @@ Books 在这些维度上同时成立。
 
 > **补贴退潮后，钱变成的东西能不能被别人无成本地抢走。**
 
-这与 `hobart-arbitrage-infrastructure.md` 的判据完全一致：**Arbs close, infrastructure remains.**
+这与 `thinking/business/potential-energy-and-gaps/hobart-arbitrage-infrastructure.md` 的判据完全一致：**Arbs close, infrastructure remains.**
 
 ---
 

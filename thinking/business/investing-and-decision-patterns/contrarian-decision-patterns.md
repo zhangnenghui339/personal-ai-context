@@ -3,7 +3,7 @@
 - Date: 2026-08-27
 - Status: working note
 - Scope: 把一批顶尖资本配置者、投资人、创业者、决策研究者在「决策 / 投资 / 资本配置 / 商业方法论」上偏离大众共识的地方，压缩成十条复现模式。括号内是代表人物，不是完整名单。
-- 关联文件：`thinking/business/bezos-core-principles.md`、`thinking/business/vc-power-law-decision-rules.md`、`thinking/business/asymmetric-behavior-cases.md`
+- 关联文件：`thinking/business/investing-and-decision-patterns/bezos-core-principles.md`、`thinking/business/investing-and-decision-patterns/vc-power-law-decision-rules.md`、`thinking/business/investing-and-decision-patterns/asymmetric-behavior-cases.md`
 
 ---
 

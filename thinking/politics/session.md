@@ -1,7 +1,7 @@
 # 政治物理学与博弈力学大统一模型 (Session Record)
 
 - Date: 2026-08-20
-- Status: 政治领域会话单文件总入口与全量核心沉淀（与 `thinking/business/SESSION.md` 同构并列，可直接整体加载与跨环境复用）。
+- Status: 政治领域会话单文件总入口与全量核心沉淀（与 `thinking/business/session/SESSION.md` 同构并列，可直接整体加载与跨环境复用）。
 - 坐标：政治第一性原理 × 制度经济学（North-Wallis-Weingast）× 选择人理论（Selectorate Theory $N,S,W$）× 控制论与分布式计算（Cybernetics & State Machine）× 人性动力学。
 
 ---

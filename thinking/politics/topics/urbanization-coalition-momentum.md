@@ -2,7 +2,7 @@
 
 - Date: 2026-08-19
 - Status: 工作模型。把政治六句接到本库既有城镇化/势能记录上，不重写经济学正文。
-- 依赖：`thinking/business/SESSION.md` §1、§16、§23、§25；`thinking/politics/topics/coalition-arithmetic.md`
+- 依赖：`thinking/business/session/SESSION.md` §1、§16、§23、§25；`thinking/politics/topics/coalition-arithmetic.md`
 - 标签：【事实】【推断】【个人判断】【待验证】
 
 ---

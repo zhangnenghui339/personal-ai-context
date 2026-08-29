@@ -4,10 +4,10 @@
 - Status: working note
 - Scope: 串联仓库已有的两篇 Bezos working note，按「商业领域」和「投资 / 资本配置领域」两条线汇总核心观点，作为总览 / 索引入口；含决策心法、幂律资本配置、以及「怎么找到最初那个机会」的细化方法论（相变识别 → 成本结构倒推品类 → 候选集打分 → wedge 当期权）。深挖去对应文件。
 - 关联文件：
-  - `thinking/business/bezos-market-leadership-window-terminal-value.md` —— 窗口期、收益递增、终值 / DCF、飞轮、按年份的语录合集、经济学理论谱系、发现机会的观测方法论、中国「烧钱换规模」对照、后悔最小化
-  - `thinking/business/bezos-failure-power-law-jd-dangdang.md` —— 失败容忍、失败资产化、10%×100x 幂律下注、Explore / Exploit 两阶段、基础设施抽取、京东 / 当当对照
-  - `thinking/business/vc-power-law-decision-rules.md` —— VC 幂律决策规则；本汇总也并入了该文件的「Bezos」一节
-  - `thinking/business/hobart-arbitrage-infrastructure.md` —— Arbs close, infrastructure remains（判据源头）
+  - `thinking/business/investing-and-decision-patterns/bezos-market-leadership-window-terminal-value.md` —— 窗口期、收益递增、终值 / DCF、飞轮、按年份的语录合集、经济学理论谱系、发现机会的观测方法论、中国「烧钱换规模」对照、后悔最小化
+  - `thinking/business/investing-and-decision-patterns/bezos-failure-power-law-jd-dangdang.md` —— 失败容忍、失败资产化、10%×100x 幂律下注、Explore / Exploit 两阶段、基础设施抽取、京东 / 当当对照
+  - `thinking/business/investing-and-decision-patterns/vc-power-law-decision-rules.md` —— VC 幂律决策规则；本汇总也并入了该文件的「Bezos」一节
+  - `thinking/business/potential-energy-and-gaps/hobart-arbitrage-infrastructure.md` —— Arbs close, infrastructure remains（判据源头）
 
 ---
 
@@ -40,7 +40,7 @@
   - ② Upside 足够大：Downside=100 / Upside=120 即使高概率也不算幂律下注；要的是 Downside=1 / Upside=100–1000。
 - **加残值的期望值：** `Adjusted EV = P(success)×Upside − P(failure)×(Downside − Residual Asset Value)`。偏好能沉淀 code / infra / data / talent / distribution / customer relationship / seller network / brand 的实验。
 - **失败资产化（Failure Assetization）：** 传统失败模型「投入→失败→归零」；Bezos 的「投入→失败→人才 / 技术 / 数据 / 基础设施 / 认知残值→下一轮实验边际成本下降」。`Net Loss = 投入 − 项目收入 − 可复用资产残值`。推论：让失败发生在**可复用能力附近**（Fire Phone 失败，语音 / ML / 硬件团队迁到 Echo / Alexa）。
-- **「烧钱换规模」是否理性的判据：** 不看烧了多少，看补贴退潮后钱变成的东西能不能被别人零成本抢走。= `hobart-arbitrage-infrastructure.md` 的 Arbs close, infrastructure remains。
+- **「烧钱换规模」是否理性的判据：** 不看烧了多少，看补贴退潮后钱变成的东西能不能被别人零成本抢走。= `thinking/business/potential-energy-and-gaps/hobart-arbitrage-infrastructure.md` 的 Arbs close, infrastructure remains。
 
 ---
 
@@ -74,7 +74,7 @@
 
 Bezos 当时在 D.E. Shaw 的工作就是「互联网商业机会研究」，他把渠道渗透率曲线当未来市场规模的代理变量，而不是等某个垂类的销售额跑出来。
 
-**两个陷阱：** 把某个热门**产品**当相变（那是应用层噪声）；把一时的线性增长当指数增长。区分结构性迁移与噪声见 `thinking/business/structural-migration-vs-noise.md`。
+**两个陷阱：** 把某个热门**产品**当相变（那是应用层噪声）；把一时的线性增长当指数增长。区分结构性迁移与噪声见 `thinking/business/potential-energy-and-gaps/structural-migration-vs-noise.md`。
 
 ### Step 2：给定新渠道的成本结构，倒推哪个存量品类最适合被重塑
 
