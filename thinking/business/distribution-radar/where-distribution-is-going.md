@@ -4,6 +4,7 @@
 - Status: working note
 - 锚点：Byrne Hobart, *Owning Distribution* (Capital Gains, 2024-08-21)
 - 三句是同一条链，不是三条鸡汤。
+- 相关：`thinking/business/distribution-radar/ai-distribution-surface-selection.md`（把三句落到当下具体的分发面选择）
 
 ## 一句话
 
