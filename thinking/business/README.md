@@ -83,6 +83,7 @@
   - `app-economy-capital-signal-timeline.md`：App 经济完整周期与资本信号八阶段时间线。
   - `amazon-chinese-seller-surge-analysis.md`：亚马逊中国卖家大爆发的历史复盘与底层规律。
   - `b2b-ai-products-library.md`：B2B 轻应用商业范式与四大多态（X生态/端侧/插件）。
+  - `candidates/`：待分析 / 待比较的候选案例暂存区（非结论；出结论后移到 cases/ 根目录）。
 
 ## 交叉引用
 
