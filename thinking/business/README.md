@@ -43,6 +43,7 @@
   - `radar-band-one-data-sources-and-ops.md`：波段一（巨头战略拓荒）数据源与抓取工程方案。
   - `radar-band-one-engineering-spec.md`：波段一 AI 系统提示词、研判规则与 Python 脚本。
   - `gpa-radar.md`：借分发 / 找差雷达（GPA Radar）——五步法第 1、2 步的雷达化拆解。
+  - `ai-distribution-surface-selection.md`：AI 产品分发面选择备忘——注意力入口型 vs 被引用型、货架渠道打分表、分发地址清单。
 - `opportunity-discovery/`：机会发现、先导指标与创业执行 SOP。
   - `opportunity-discovery-model.md`：创业机会、分发、套利结构化的完整模型（经济学锚、七问、差的检索表）。
   - `leading-indicators-of-emerging-opportunities.md`：从技术到相变的先导指标级联模型。
@@ -54,6 +55,7 @@
   - `ai-shift-opportunity-checklist.md`：AI 范式迁移下的机会——7 点势差来源 + 判断层（相变 vs 噪声）+ 势能形态 + 占有层的四层闭环清单。
   - `borrow-distribution-five-steps-sop.md`：商业落地五步闭环 SOP（借分发 → 找差 → 借货 → 放量 → 留底）。
   - `ai-business-dynamics-and-opportunity-model.md`：AI 时代商业机会完整动力学（七大正向驱动 × 四大暗面约束 × 四层终局闭环）。
+  - `geo-aeo-answer-engine-pipeline.md`：GEO/AEO 内容资产与答案分发管道——搜索→答案引擎迁移下的数字码头切入点（结构化内容 + 多引擎分发 + 归因闭环）。
 - `investing-and-decision-patterns/`：创始人 / 投资人复盘与顶尖玩家的决策规律。
   - `bezos-core-principles.md`：Bezos 核心观点总览（商业 × 投资两条线）。
   - `bezos-wedge-selection-funnel.md`：Bezos 式产品切入口选择五层漏斗（认相变 → 成本结构倒推品类 → wedge 结构条件 → 当期权 → 幂律/窗口/可占有性三道闸）。
