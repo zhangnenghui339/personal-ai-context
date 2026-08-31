@@ -32,6 +32,7 @@ AI 应先根据问题识别领域，再加载下列最小上下文；不要默�
 | **创业机会模型（新会话先读）** | `thinking/business/session/session-opportunity.md`（原该分支的 `thinking/business/session/SESSION.md`，合并时拆出以免覆盖势能会话） |
 | 创业机会、分发、套利结构化 | `thinking/business/opportunity-discovery/opportunity-discovery-model.md` |
 | AI 范式迁移下的机会四层闭环（势差来源 + 判断层 + 势能形态 + 占有层） | `thinking/business/opportunity-discovery/ai-shift-opportunity-checklist.md` |
+| GEO/AEO 内容资产与答案分发管道（搜索→答案引擎迁移下的数字码头切入点） | `thinking/business/opportunity-discovery/geo-aeo-answer-engine-pipeline.md` |
 | Byrne Hobart 套利与基础设施原句 | `thinking/business/potential-energy-and-gaps/hobart-arbitrage-infrastructure.md` |
 | 价值洼地类型与分发复用（人群套利） | `thinking/business/potential-energy-and-gaps/valuation-gaps-and-distribution-reuse.md` |
 | 价值洼地六大母体场景与战略特征 | `thinking/business/potential-energy-and-gaps/value-gap-archetypes-and-strategy.md` |
@@ -65,6 +66,7 @@ AI 应先根据问题识别领域，再加载下列最小上下文；不要默�
 | 创业路径思维导图评估与 2.0 优化方案 | `thinking/business/opportunity-discovery/startup-execution-framework-evaluation.md` |
 | 复杂系统四要素、奢侈品与欲望模仿理论 | `thinking/business/thinking-lenses/complex-systems-and-mimetic-desire.md` |
 | 分发三句：产品、租期、方向 | `thinking/business/distribution-radar/where-distribution-is-going.md` |
+| AI 产品分发面选择备忘（两种分发形态 + 货架渠道打分 + 地址清单） | `thinking/business/distribution-radar/ai-distribution-surface-selection.md` |
 | 明显的差与新产权 | `thinking/business/potential-energy-and-gaps/obvious-arb-and-new-property.md` |
 | 信息差与麦克斯韦妖 | `thinking/business/potential-energy-and-gaps/information-gap-maxwell-demon.md` |
 | 不对称行为：李嘉诚与早期腾讯 | `thinking/business/investing-and-decision-patterns/asymmetric-behavior-cases.md` |
