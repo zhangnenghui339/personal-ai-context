@@ -14,8 +14,6 @@
 
 - AI 路由：`CONTEXT_INDEX.md`
 - AI 协作规则：`AGENTS.md`
-- 当前重点：`tasks/current.md`
 - 快速收集：`tasks/inbox.md`
 - 项目模板：`projects/_template/`
 - 决策模板：`templates/decision-record.md`
-

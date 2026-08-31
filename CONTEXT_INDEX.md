@@ -4,7 +4,7 @@ AI 应先根据问题识别领域，再加载下列最小上下文；不要默�
 
 | 场景 | 优先读取 |
 |---|---|
-| 当前任务与提醒 | `tasks/current.md`、`tasks/inbox.md` |
+| 临时想法与待整理事项 | `tasks/inbox.md` |
 | 某个项目 | `projects/<name>/status.md`，再按需读取同目录其他文件 |
 | 亲子与教育 | `family/parenting/`、`family/education/` |
 | 提示词 | `prompts/<domain>/` |
