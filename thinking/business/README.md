@@ -53,7 +53,6 @@
   - `startup-execution-framework-evaluation.md`：创业路径思维导图评估与 2.0 优化方案。
   - `ai-shift-opportunity-checklist.md`：AI 范式迁移下的机会——7 点势差来源 + 判断层（相变 vs 噪声）+ 势能形态 + 占有层的四层闭环清单。
   - `borrow-distribution-five-steps-sop.md`：商业落地五步闭环 SOP（借分发 → 找差 → 借货 → 放量 → 留底）。
-  - `lightweight-b2b-ai-products-archetypes.md`：B2B 轻应用商业范式与四大多态（X生态/端侧/插件）。
   - `ai-business-dynamics-and-opportunity-model.md`：AI 时代商业机会完整动力学（七大正向驱动 × 四大暗面约束 × 四层终局闭环）。
 - `investing-and-decision-patterns/`：创始人 / 投资人复盘与顶尖玩家的决策规律。
   - `bezos-core-principles.md`：Bezos 核心观点总览（商业 × 投资两条线）。
@@ -81,6 +80,7 @@
   - `case-studies-arbitrage-dividend.md`：实体套利 / 红利起家可复用案例库。
   - `app-economy-capital-signal-timeline.md`：App 经济完整周期与资本信号八阶段时间线。
   - `amazon-chinese-seller-surge-analysis.md`：亚马逊中国卖家大爆发的历史复盘与底层规律。
+  - `b2b-ai-products-library.md`：B2B 轻应用商业范式与四大多态（X生态/端侧/插件）。
 
 ## 交叉引用
 
