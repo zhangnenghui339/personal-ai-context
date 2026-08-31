@@ -3,7 +3,7 @@
 - Date: 2026-08-31
 - Status: living index / 备选方向库（持续追加）
 - Scope: 可累积的备选方向清单。每个方向是「AI 让 X 成为可能」的一个分发 / 产品切入点候选，按统一模板记录，**尚未逐一验证**。判断与占有框架见 `thinking/business/opportunity-discovery/ai-shift-opportunity-checklist.md` 的四层闭环。
-- 锚点：`thinking/business/opportunity-discovery/ai-shift-opportunity-checklist.md`、`thinking/business/distribution-radar/traffic-acquisition-archetypes.md`、`thinking/business/distribution-radar/where-distribution-is-going.md`、`thinking/business/opportunity-discovery/borrow-distribution-five-steps-sop.md`
+- 锚点：`thinking/business/opportunity-discovery/ai-shift-opportunity-checklist.md`、`thinking/business/distribution-radar/traffic-acquisition-archetypes.md`、`thinking/business/distribution-radar/where-distribution-is-going.md`、`thinking/business/opportunity-discovery/borrow-distribution-five-steps-sop.md`、`thinking/business/distribution-radar/ai-distribution-surface-selection.md`
 
 ---
 
