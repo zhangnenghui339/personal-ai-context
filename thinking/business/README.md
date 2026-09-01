@@ -66,7 +66,8 @@
   - `executive-startup-dilemma-and-base-rates.md`：大厂高管创业困境与势能再获取的概率学解构。
   - `asymmetric-behavior-cases.md`：不对称行为——李嘉诚与早期腾讯。
   - `vc-power-law-decision-rules.md`：VC 幂律下注（损失封顶 × 上行不封顶 × 扩大 outlier 候选池）。
-  - `contrarian-decision-patterns.md`：顶尖创业者 / 投资人与大众不同的十个底层模式。
+  - `contrarian-decision-patterns.md`：顶尖创业者 / 投资人与大众不同的十个底层模式（人物清单）。
+  - `consensus-vs-analyst-calculation-models.md`：普通人 vs 顶级分析师在经济学 / 投资学上的 18 条「认知算法」配对对照（估值终值 / 概率尾部 / 结构博弈 / 决策仓位 / 宏观度量），是上一条的「大众怎么想 vs 他怎么想」逐条展开版。
   - `benchmark-companies.md`：标杆企业清单（与 `failed-founders.md` 一正一反做决策参照系）。
 - `macro-strategy/`：国家级大战略、基建出海与土地财政的经济学拆解。
   - `national-grand-strategies-economics.md`：经典国家级大战略的经济学底层拆解。

@@ -74,6 +74,7 @@ AI 应先根据问题识别领域，再加载下列最小上下文；不要默�
 | Bezos 核心观点总览（商业 × 投资两条线，串联下面两篇 + 找机会的细化方法论） | `thinking/business/investing-and-decision-patterns/bezos-core-principles.md` |
 | Bezos 式产品切入口选择五层漏斗（认相变 → 成本结构倒推品类 → wedge 结构条件 → 当期权 → 幂律/窗口/可占有性） | `thinking/business/investing-and-decision-patterns/bezos-wedge-selection-funnel.md` |
 | 顶尖创业者 / 投资人与大众不同的十个底层模式 | `thinking/business/investing-and-decision-patterns/contrarian-decision-patterns.md` |
+| 普通人 vs 顶级分析师：经济学 / 投资学 18 条「认知算法」配对对照（均值vs尾部、当期vs终值、名义vs实际、静态vs博弈、结果vs过程） | `thinking/business/investing-and-decision-patterns/consensus-vs-analyst-calculation-models.md` |
 | App 经济完整周期：装机 / 用户曲线、广告定价（CPI/CPM）与资本信号八阶段时间线（案例） | `thinking/business/cases/app-economy-capital-signal-timeline.md` |
 | Bezos 市场领导地位：窗口期、收益递增、终值 / DCF、语录合集、理论谱系、观测方法论 | `thinking/business/investing-and-decision-patterns/bezos-market-leadership-window-terminal-value.md` |
 | Bezos 失败容忍、失败资产化、幂律下注、Explore/Exploit、基础设施抽取、京东 / 当当对照 | `thinking/business/investing-and-decision-patterns/bezos-failure-power-law-jd-dangdang.md` |
