@@ -7,7 +7,7 @@
 | **孙子兵法** | 孙武 | 战略与兵家 | 势能营造、先胜后战、成本意识 | 规划中 | `books/notes/strategy-and-military/sun-tzu.md` |
 | **韩非子** | 韩非 | 法家与制度 | 法术势、二柄、君臣博弈 | 规划中 | `books/notes/strategy-and-military/han-feizi.md` |
 | **管子** | 管仲等 | 国家经济学 | 轻重之术、官山海、隐形地租 | 规划中 | `books/notes/strategy-and-military/guanzi.md` |
-| **鬼谷子** | 鬼谷子 | 纵横博弈 | 捭阖之术、飞箝反应、隐秘说服 | 规划中 | `books/notes/strategy-and-military/guiguzi.md` |
+| **鬼谷子** | 鬼谷子 | 纵横博弈 | 忤合力学、善作者不必善成、势能离场 | 进行中 | `books/notes/strategy-and-military/guiguzi.md` |
 | **罗织经** | 来俊臣 | 权力暗面 | 权谋控制、信任防线、博弈死穴 | 规划中 | `books/notes/strategy-and-military/luozhijing.md` |
 | **德鲁克全集** | 彼得·德鲁克 | 现代管理学 | 目标管理、知识工作者、卓有成效 | 规划中 | `books/notes/management-and-business/drucker.md` |
 | **给经理人的第一课** | 安迪·格鲁夫 | 组织与运营 | 高产出管理、杠杆率、管理即生产 | 规划中 | `books/notes/management-and-business/high-output-management.md` |
