@@ -30,7 +30,7 @@
 | **罗织经** | 思维导图 | [docs.qq.com/mind/DSE5CTENGUEJ2RlRI](https://docs.qq.com/mind/DSE5CTENGUEJ2RlRI) | 权力阴暗面 | 权谋控制、人性漏洞与制衡心理 |
 | **管子** | 思维导图 | [docs.qq.com/mind/DSEFxeXl2c1RoUmdP](https://docs.qq.com/mind/DSEFxeXl2c1RoUmdP) | 经济战与国家治理 | 轻重之术、盐铁官营、隐形税收 |
 | **鬼谷子大纲** | 文档 | [docs.qq.com/doc/DSFB6T2FUbm5wWExo](https://docs.qq.com/doc/DSFB6T2FUbm5wWExo) | 谋略与说服 | 捭阖、反应、内楗、飞箝 |
-| **决策思维** | 思维导图 | [docs.qq.com/mind/DSG5TZVREVVRPTmRS](https://docs.qq.com/mind/DSG5TZVREVVRPTmRS) | 认知与决策 | 概率思维、二阶效应、期望值计算 |
+| **决策思维与投资心法** | 思维导图 / 流程图 | [docs.qq.com/mind/DSG5TZVREVVRPTmRS](https://docs.qq.com/mind/DSG5TZVREVVRPTmRS)<br>[docs.qq.com/flowchart/DSHZreGhYVHhpdGx5](https://docs.qq.com/flowchart/DSHZreGhYVHhpdGx5) | 认知与投资决策 | 概率思维、日损与弱点隔离、三圈造风价值 |
 | **思维模型** | 表格 | [docs.qq.com/sheet/DSFRNU1R3cVdmek1o](https://docs.qq.com/sheet/DSFRNU1R3cVdmek1o) | 元认知工具箱 | 跨学科栅格模型（物理/生物/经济/工程） |
 | **哲学方法论** | 思维导图 | [docs.qq.com/mind/DSFprWkV0UWhHRG9C](https://docs.qq.com/mind/DSFprWkV0UWhHRG9C) | 哲学底层 | 认识论、唯物辩证法、第一性原理 |
 | **家长教育误区** | 思维导图 | [docs.qq.com/mind/DSHBMS0tjaE5JYWJM](https://docs.qq.com/mind/DSHBMS0tjaE5JYWJM) | 亲子与教育 | 认知塑造、反常识家庭教育模型 |

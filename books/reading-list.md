@@ -15,7 +15,7 @@
 | **DAN KOE** | Dan Koe | 个人商业与杠杆 | 一人公司、注意力变现、数字产品 | 规划中 | `books/notes/management-and-business/dan-koe.md` |
 | **资本论** | 马克思 | 政治经济学 | 剩余价值理论、资本积累与再生产 | 规划中 | `books/notes/philosophy-and-methodology/das-kapital.md` |
 | **思维模型库** | 查理·芒格 / 多学科 | 元认知工具箱 | 跨学科思维栅格、二阶效应、逆向思维 | 规划中 | `books/notes/philosophy-and-methodology/mental-models.md` |
-| **决策思维** | 多源 | 决策算法 | 期望值、贝叶斯更新、概率决策 | 规划中 | `books/notes/philosophy-and-methodology/decision-thinking.md` |
+| **决策思维** | 多源 | 决策与投资 | 日损与弱点隔离、三圈交集、造风价值 | 进行中 | `books/notes/philosophy-and-methodology/decision-thinking.md` |
 | **哲学方法论** | 多源 | 认识论 | 第一性原理、唯物辩证法、还原与涌现 | 规划中 | `books/notes/philosophy-and-methodology/philosophy-methodology.md` |
 | **心理学** | 经典心理学 | 心理机制 | 认知偏误、行为强化、进化心理学 | 规划中 | `books/notes/psychology-and-education/psychology.md` |
 | **家长教育误区** | 多源 | 教育与认知 | 正反馈循环、心理资本构建、去说教化 | 规划中 | `books/notes/psychology-and-education/parenting-fallacies.md` |
