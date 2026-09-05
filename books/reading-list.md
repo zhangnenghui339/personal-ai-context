@@ -2,7 +2,7 @@
 
 | 书籍 / 专题 | 作者 / 来源 | 分类 | 核心模型 / 抓手 | 状态 | 笔记路径 |
 |---|---|---|---|---|---|
-| **道德经** | 老子 | 哲学与系统论 | 无积予人、为道日损（后身外身/四自深度机制/反事实工具） | 进行中 | `books/notes/philosophy-and-methodology/dao-de-jing.md` |
+| **道德经** | 老子 | 哲学与系统论 | 无积予人、为道日损（Model C四自因果链/后身外身/反事实沙盘） | 进行中 | `books/notes/philosophy-and-methodology/dao-de-jing.md` |
 | **独裁者手册** | 布鲁诺·德·梅斯奎塔 等 | 政治力学 | 选择人理论（$N, S, W$）、忠诚规范 | 已完成 | `books/notes/politics-and-power/dictators-handbook.md` |
 | **孙子兵法** | 孙武 | 战略与兵家 | 势能营造、先胜后战、成本意识 | 规划中 | `books/notes/strategy-and-military/sun-tzu.md` |
 | **韩非子** | 韩非 | 法家与制度 | 法术势、二柄、君臣博弈 | 规划中 | `books/notes/strategy-and-military/han-feizi.md` |
