@@ -4,7 +4,7 @@
 
 ## 包含书目与核心模型
 
-- `dao-de-jing.md`：《道德经》（无积予人、为道日损、Model C 四自认知因果链、第七章后身外身系统模型、12大反事实日损工具、跨阶层样本、反者道之动、无为而治）| [导图源](https://docs.qq.com/mind/DSHlDUVZncXpwQWNy)
+- `dao-de-jing.md`：《道德经》（无积予人、为道日损、Model C 四自认知因果链、第七章后身外身系统模型、历史刚愎自负覆灭样本、12大反事实日损工具与两步闭环引擎、跨阶层样本、反者道之动、无为而治）| [导图源](https://docs.qq.com/mind/DSHlDUVZncXpwQWNy)
 - `das-kapital.md`：《资本论》（剩余价值、资本循环、生产函数）| [导图源](https://docs.qq.com/mind/DSE1Sd3dwVnBBQ1Bx)
 - `philosophy-methodology.md`：《哲学方法论》（唯物辩证法、第一性原理、认识论）| [导图源](https://docs.qq.com/mind/DSFprWkV0UWhHRG9C)
 - `mental-models.md`：《思维模型库》（跨学科思维栅格系统）| [表格源](https://docs.qq.com/sheet/DSFRNU1R3cVdmek1o)
