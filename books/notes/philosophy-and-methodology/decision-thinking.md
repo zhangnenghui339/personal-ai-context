@@ -5,7 +5,7 @@
   - 腾讯流程图：[docs.qq.com/flowchart/DSHZreGhYVHhpdGx5](https://docs.qq.com/flowchart/DSHZreGhYVHhpdGx5)（投资不是投机、心法纪律与三圈造风价值）
   - 腾讯思维导图：[docs.qq.com/mind/DSG5TZVREVVRPTmRS](https://docs.qq.com/mind/DSG5TZVREVVRPTmRS)（决策思维）
 - 关联仓库专题：
-  - `books/notes/philosophy-and-methodology/dao-de-jing.md`（为学日益为道日损、破除 Ego）
+  - `books/notes/philosophy-and-methodology/dao-de-jing.md`（为道日损、第二十九章顺道而为、破除 Fat Ego 与去我 Unselfing）
   - `thinking/business/investing-and-decision-patterns/vc-power-law-decision-rules.md`（损失封顶 × 上行不封顶）
   - `thinking/business/investing-and-decision-patterns/contrarian-decision-patterns.md`（顶尖决策模式）
   - `thinking/business/potential-energy-and-gaps/structural-migration-vs-noise.md`（结构性迁移 vs 暂时噪声）
