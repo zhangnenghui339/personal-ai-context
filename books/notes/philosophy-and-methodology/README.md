@@ -9,3 +9,4 @@
 - `philosophy-methodology.md`：《哲学方法论》（唯物辩证法、第一性原理、认识论）| [导图源](https://docs.qq.com/mind/DSFprWkV0UWhHRG9C)
 - `mental-models.md`：《思维模型库》（跨学科思维栅格系统）| [表格源](https://docs.qq.com/sheet/DSFRNU1R3cVdmek1o)
 - `decision-thinking.md`：《决策思维与投资心法》（日损机制、弱点隔离与生存价值、三圈造风模型）| [流程图源](https://docs.qq.com/flowchart/DSHZreGhYVHhpdGx5) / [导图源](https://docs.qq.com/mind/DSG5TZVREVVRPTmRS)
+- `zhuangzi-dazongshi-nuyu-buliangyi-seven-stages.md`：《庄子·大宗师》女偊教卜梁倚（外天下、外物、外生、朝彻、见独、无古今、不死不生与撄宁）
