@@ -2,12 +2,15 @@
 
 - Date: 2026-08-27
 - Status: working note
-- Scope: 串联仓库已有的两篇 Bezos working note，按「商业领域」和「投资 / 资本配置领域」两条线汇总核心观点，作为总览 / 索引入口；含决策心法、幂律资本配置、以及「怎么找到最初那个机会」的细化方法论（相变识别 → 成本结构倒推品类 → 候选集打分 → wedge 当期权）。深挖去对应文件。
-- 关联文件：
-  - `thinking/business/investing-and-decision-patterns/bezos-market-leadership-window-terminal-value.md` —— 窗口期、收益递增、终值 / DCF、飞轮、按年份的语录合集、经济学理论谱系、发现机会的观测方法论、中国「烧钱换规模」对照、后悔最小化
-  - `thinking/business/investing-and-decision-patterns/bezos-failure-power-law-jd-dangdang.md` —— 失败容忍、失败资产化、10%×100x 幂律下注、Explore / Exploit 两阶段、基础设施抽取、京东 / 当当对照
-  - `thinking/business/investing-and-decision-patterns/vc-power-law-decision-rules.md` —— VC 幂律决策规则；本汇总也并入了该文件的「Bezos」一节
-  - `thinking/business/potential-energy-and-gaps/hobart-arbitrage-infrastructure.md` —— Arbs close, infrastructure remains（判据源头）
+- Scope: 串联本目录其余几篇 Bezos working note（wedge 选择、幂律下注、窗口终值），按「商业领域」和「投资 / 资本配置领域」两条线汇总核心观点，作为总览 / 索引入口；含决策心法、幂律资本配置、以及「怎么找到最初那个机会」的细化方法论（相变识别 → 成本结构倒推品类 → 候选集打分 → wedge 当期权）。深挖去对应文件。
+- 阅读线（按顺序）：
+  1. 本篇 —— 总览 / 索引：决策心法 + 幂律资本配置 + 四步找机会方法论。
+  2. `thinking/business/investing-and-decision-patterns/bezos-wedge-selection-funnel.md` —— 怎么选产品切入口：五层漏斗（认相变 × 押不变），Layer 0 认相变 → Layer 1 成本结构倒推品类 → Layer 2 wedge 结构条件 → Layer 3 当期权 → Layer 4 幂律 / 窗口 / 可占有性三道闸。
+  3. `thinking/business/investing-and-decision-patterns/bezos-failure-power-law-jd-dangdang.md` —— 选中之后怎么下注 / 沉淀：失败容忍、失败资产化、10%×100x 幂律下注、Explore / Exploit 两阶段、基础设施抽取、京东 / 当当对照。
+  4. `thinking/business/investing-and-decision-patterns/bezos-market-leadership-window-terminal-value.md` —— 窗口与终值：窗口期、收益递增、终值 / DCF、飞轮、按年份的语录合集、经济学理论谱系、发现机会的观测方法论、中国「烧钱换规模」对照、后悔最小化。
+- 旁参：
+  - `thinking/business/investing-and-decision-patterns/vc-power-law-decision-rules.md` —— VC 幂律决策规则；本汇总也并入了该文件的「Bezos」一节。
+  - `thinking/business/potential-energy-and-gaps/hobart-arbitrage-infrastructure.md` —— Arbs close, infrastructure remains（可占有性判据源头）。
 
 ---
 
