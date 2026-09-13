@@ -3,7 +3,7 @@
 | 书籍 / 专题 | 作者 / 来源 | 分类 | 核心模型 / 抓手 | 状态 | 笔记路径 |
 |---|---|---|---|---|---|
 | **道德经** | 老子 | 哲学与系统论 | 无积予人、为道日损（反例制度化/Model C四自因果链/反事实沙盘） | 进行中 | `books/notes/philosophy-and-methodology/dao-de-jing.md` |
-| **庄子** | 庄周 | 哲学与存在论 | 成心、无己、心斋、坐忘；女偊七阶段与撄宁 | 进行中 | `books/notes/philosophy-and-methodology/zhuangzi-core-thought-wuji-xinzhai-zuowang.md`；`books/notes/philosophy-and-methodology/zhuangzi-dazongshi-nuyu-buliangyi-seven-stages.md` |
+| **庄子** | 庄周 | 哲学与存在论 | 成心、无己、心斋、坐忘；无待≠逃避（人质 vs 关系）；女偊七阶段与撄宁 | 进行中 | `books/notes/philosophy-and-methodology/zhuangzi-core-thought-wuji-xinzhai-zuowang.md`；`books/notes/philosophy-and-methodology/zhuangzi-dazongshi-nuyu-buliangyi-seven-stages.md` |
 | **独裁者手册** | 布鲁诺·德·梅斯奎塔 等 | 政治力学 | 选择人理论（$N, S, W$）、忠诚规范 | 已完成 | `books/notes/politics-and-power/dictators-handbook.md` |
 | **孙子兵法** | 孙武 | 战略与兵家 | 势能营造、先胜后战、成本意识 | 规划中 | `books/notes/strategy-and-military/sun-tzu.md` |
 | **韩非子** | 韩非 | 法家与制度 | 法术势、二柄、君臣博弈 | 规划中 | `books/notes/strategy-and-military/han-feizi.md` |
