@@ -10,3 +10,7 @@
 - `mental-models.md`：《思维模型库》（跨学科思维栅格系统）| [表格源](https://docs.qq.com/sheet/DSFRNU1R3cVdmek1o)
 - `decision-thinking.md`：《决策思维与投资心法》（日损机制、弱点隔离与生存价值、三圈造风模型）| [流程图源](https://docs.qq.com/flowchart/DSHZreGhYVHhpdGx5) / [导图源](https://docs.qq.com/mind/DSG5TZVREVVRPTmRS)
 - `zhuangzi-dazongshi-nuyu-buliangyi-seven-stages.md`：《庄子·大宗师》女偊教卜梁倚（外天下、外物、外生、朝彻、见独、无古今、不死不生与撄宁）
+
+## 关联专题
+
+- `thinking/psychology/iu-worry-self-and-dao.md`：不确定性不耐受、担忧回避与自我过重；对接无己 / 心斋 / 坐忘、后其身 / 外其身。

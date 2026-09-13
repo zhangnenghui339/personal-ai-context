@@ -6,3 +6,7 @@
 
 - `psychology.md`：《心理学基础与认知机制》（进化心理学、偏误修正、行为强化）| [专栏源](https://docs.qq.com/desktop/mydoc/folder/HbigXMxLVXAh)
 - `parenting-fallacies.md`：《家长教育误区与反常识模型》（正反馈构建、去说教化、心理资本）| [导图源](https://docs.qq.com/mind/DSHBMS0tjaE5JYWJM)
+
+## 关联专题
+
+- `thinking/psychology/iu-worry-self-and-dao.md`：Intolerance of Uncertainty、Borkovec 担忧回避、闲时反刍，与无己 / 心斋 / 坐忘、后其身 / 外其身的同构。
