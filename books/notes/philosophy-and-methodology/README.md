@@ -13,4 +13,4 @@
 
 ## 关联专题
 
-- `thinking/psychology/iu-worry-self-and-dao.md`：不确定性不耐受、担忧回避与自我过重；对接无己 / 心斋 / 坐忘、后其身 / 外其身。
+- `thinking/psychology/iu-worry-self-and-dao.md`：不确定性不耐受、担忧回避与自我过重；解其纷与 ACT cognitive defusion；对接无己 / 心斋 / 坐忘、后其身 / 外其身。

@@ -9,4 +9,4 @@
 
 ## 关联专题
 
-- `thinking/psychology/iu-worry-self-and-dao.md`：Intolerance of Uncertainty、Borkovec 担忧回避、闲时反刍，与无己 / 心斋 / 坐忘、后其身 / 外其身的同构。
+- `thinking/psychology/iu-worry-self-and-dao.md`：Intolerance of Uncertainty、Borkovec 担忧回避、闲时反刍；解其纷与 ACT cognitive defusion；对接无己 / 心斋 / 坐忘、后其身 / 外其身。
