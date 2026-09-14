@@ -9,6 +9,7 @@ AI 应先根据问题识别领域，再加载下列最小上下文；不要默�
 | 亲子与教育 | `family/parenting/`、`family/education/` |
 | 提示词 | `prompts/<domain>/` |
 | 商业、哲学、心理思考 | `thinking/<domain>/` |
+| 焦虑四层机制 × 道家：不确定性不耐受、担忧回避、威胁置换、绝对确定；出路是改变与"无保证"的关系 | `thinking/psychology/anxiety-iu-and-no-guarantee.md`；目录说明：`thinking/psychology/README.md` |
 | 政治、制度、国际关系（总览入口） | `thinking/politics/session.md`；目录说明：`thinking/politics/README.md`；来源库：`thinking/politics/sources.md` |
 | 政治第一性原理（止掠场 × 剩余索取） | `thinking/politics/topics/politics-first-principles.md` |
 | 政治大统一架构（物理 × 制度几何 × 帝王术） | `thinking/politics/topics/politics-grand-architecture.md` |
