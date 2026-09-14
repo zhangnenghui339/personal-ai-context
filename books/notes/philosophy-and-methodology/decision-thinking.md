@@ -6,6 +6,7 @@
   - 腾讯思维导图：[docs.qq.com/mind/DSG5TZVREVVRPTmRS](https://docs.qq.com/mind/DSG5TZVREVVRPTmRS)（决策思维）
 - 关联仓库专题：
   - `books/notes/philosophy-and-methodology/dao-de-jing.md`（为道日损、第二十九章顺道而为、破除 Fat Ego 与去我 Unselfing）
+  - `thinking/psychology/iu-worry-self-and-dao.md`（IU 与对确定性的控制：有限责任动作 vs 无限确定性索取）
   - `thinking/business/investing-and-decision-patterns/vc-power-law-decision-rules.md`（损失封顶 × 上行不封顶）
   - `thinking/business/investing-and-decision-patterns/contrarian-decision-patterns.md`（顶尖决策模式）
   - `thinking/business/potential-energy-and-gaps/structural-migration-vs-noise.md`（结构性迁移 vs 暂时噪声）
