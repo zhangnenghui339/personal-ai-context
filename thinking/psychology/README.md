@@ -11,4 +11,4 @@
 
 ## 文件结构
 
-- `iu-worry-self-and-dao.md`：Intolerance of Uncertainty、Borkovec 担忧回避、闲时反刍，与无己 / 心斋 / 坐忘、后其身 / 外其身的同构；含威胁置换判别、有限责任动作协议，以及「解其纷」与 ACT cognitive defusion（事实 / 判断 / 情绪 / 想象四层拆开）。
+- `iu-worry-self-and-dao.md`：Intolerance of Uncertainty、Borkovec 担忧回避、闲时反刍，与无己 / 心斋 / 坐忘、后其身 / 外其身的同构；含威胁置换判别、有限责任动作协议，「解其纷」与 ACT cognitive defusion，以及情绪 / 回避 / 可控替代的二千字合写。母模型：`books/notes/philosophy-and-methodology/avoidance-pseudo-control-and-daoist-unselfing.md`。
