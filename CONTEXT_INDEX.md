@@ -1,13 +1,17 @@
-# Context Router
+# Context Index（第二层：文件级索引）
 
-AI 应先根据问题识别领域，再加载下列最小上下文；不要默认遍历整个仓库。
+启动时不要先读本文件。先读 `_meta/router.md` 定域与角色，再按需用本表定位具体篇目。不要默认遍历整个仓库。
+
+亲子/家庭与个人财务是被动域：仅当用户明确提问时才打开对应路径；其他域禁止主动引用。
 
 | 场景 | 优先读取 |
 |---|---|
 | 临时想法与待整理事项 | `tasks/inbox.md` |
 | 某个项目 | `projects/<name>/status.md`，再按需读取同目录其他文件 |
-| 亲子与教育 | `family/parenting/`、`family/education/` |
-| 提示词 | `prompts/<domain>/` |
+| 亲子与教育（被动域） | 仅用户明确提问时：公开笔记 `books/notes/psychology-and-education/`；`family/` 若存在再打开。禁止在其他域主动引用 |
+| 个人财务（被动域） | 仅用户明确提问时：`finance/`（若存在）。勿与 `thinking/business/investing-and-decision-patterns/` 混淆 |
+| 角色（如何思考） | `prompts/roles/`，由 `_meta/router.md` 路由表指定 |
+| 提示词模板 | `prompts/templates/` |
 | 商业、哲学、心理思考 | `thinking/<domain>/` |
 | 回避原理、伪控制、全能自恋与老庄去中心化 | `books/notes/philosophy-and-methodology/avoidance-pseudo-control-and-daoist-unselfing.md`；延伸读 `books/notes/philosophy-and-methodology/dao-de-jing.md`、`books/notes/philosophy-and-methodology/zhuangzi-dazongshi-nuyu-buliangyi-seven-stages.md` |
 | 政治、制度、国际关系（总览入口） | `thinking/politics/session.md`；目录说明：`thinking/politics/README.md`；来源库：`thinking/politics/sources.md` |
