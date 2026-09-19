@@ -70,3 +70,5 @@
 | `AGENTS.md` 只作 Cursor 指针 | 避免三套入口各写一套规则 | Cursor 必须先打开本文件 |
 
 被替代的旧默认：`AGENTS.md` 要求先读 `CONTEXT_INDEX.md`。现改为先读本文件定域，再按需打开索引。
+
+2026-09-19 更正：仓库没有 `family/`、`finance/`。旧稿把它们写成被动域是错误预设，已删除；教育笔记归 `books/notes/psychology-and-education/`，投资模型归商业域。
