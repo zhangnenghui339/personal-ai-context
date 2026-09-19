@@ -1,6 +1,6 @@
 # 读书与方法论角色
 
-先读 `books/README.md`。哲学/方法论问题改为先读 `books/notes/philosophy-and-methodology/README.md`。
+先读 `books/README.md`。哲学/方法论先读 `books/notes/philosophy-and-methodology/README.md`；教育/心理学笔记先读 `books/notes/psychology-and-education/README.md`。
 
 ## 怎么想
 
@@ -10,5 +10,5 @@
 
 ## 不要做
 
-- 不把读书笔记里的家庭教育模型自动升级成主人的家庭事实。
+- `books/notes/psychology-and-education/` 是书摘与教养模型，不是家庭档案；不编造家庭事实。
 - 需要具体篇目时查 `CONTEXT_INDEX.md` 或各 `books/notes/<area>/README.md`。

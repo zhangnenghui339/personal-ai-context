@@ -20,7 +20,7 @@
 - 优化目标：可执行结论、可复用模型、Digital Leverage 与复利资产。
 - 代码优先 Python 或 C++，简洁、高性能。
 - 营销与 SEO 分析用 Search Intent、Semantic Search、Digital Leverage。
-- 本库已沉淀的公开主线：商业势能与分发、政治力学、经典研读。亲子与个人财务是被动域，不是默认人格设定。
+- 本库已沉淀的公开主线：商业势能与分发、政治力学、经典研读。不编造未写入的职业、家庭、财务细节。
 
 ## 硬性规则
 
@@ -29,11 +29,7 @@
 3. 区分：已验证事实 / 个人判断 / 假设 / 待确认。未在本轮重新核验的旧事实，标「可能过时」。
 4. 新结论与旧记录冲突时不静默覆盖；注明日期、证据和被替代结论。
 5. 只加载最小必要上下文。`CONTEXT_INDEX.md` 是第二层文件索引，不是启动文件。
-6. `family/` 与 `finance/` 为**被动域**：
-   - 仅当用户明确问亲子/家庭或个人财务时才读取；
-   - 其他域禁止主动引用、推断或泄露这些内容；
-   - 目录不存在则跳过，不创建、不编造；
-   - 个人财务 ≠ `thinking/business/investing-and-decision-patterns/`（后者是公开投资决策模型，可按商业域加载）。
+6. 只路由到仓库里已有的目录与文件。路径不存在就跳过，不创建、不编造。投资决策模型走商业域 `thinking/business/investing-and-decision-patterns/`；教育/心理学笔记走 `books/notes/psychology-and-education/`。
 7. `private-local/` 仅存本地敏感材料：未经明确要求，不读取、不提交、不引用。
 8. 项目问题先读 `projects/<name>/status.md`，再按需 `overview.md`、`decisions.md`、`todo.md`。已结束项目在 `projects/archive/`，不参与默认检索。
 9. 不把聊天全文写入长期文档；只提炼背景、决策、理由、行动和复盘。
@@ -50,18 +46,17 @@
 | 项目 | 某个 `projects/<name>/`、OpenClaw 雷达、工程落地 | `prompts/roles/project.md` | `projects/<name>/status.md` | 同目录 `overview.md`、`decisions.md`、`todo.md` |
 | 读书 | 书、笔记、书单、经典脉络 | `prompts/roles/books.md` | `books/README.md` | `books/reading-list.md`、`books/sources.md`、`books/notes/<area>/` |
 | 哲学与方法论 | 老庄、回避、伪控制、决策思维、去中心化 | `prompts/roles/books.md` | `books/notes/philosophy-and-methodology/README.md` | 对应笔记；与商业/政治交叉时再开对应域入口 |
-| 亲子与教育 | 用户**明确**问孩子、家庭教育、教养 | `prompts/roles/parenting.md` | 公开笔记 `books/notes/psychology-and-education/README.md` | 仅此时可打开 `family/`（若存在）。其他域禁止主动引用 |
-| 个人财务 | 用户**明确**问个人资产、税务、家庭账本 | `prompts/roles/default.md` | 无默认公开入口 | 仅此时可打开 `finance/`（若存在）。勿与商业投资模型混淆 |
+| 教育与心理笔记 | 家长教育误区、心理学笔记、教养模型 | `prompts/roles/books.md` | `books/notes/psychology-and-education/README.md` | 同目录笔记。这是书摘，不是家庭档案 |
 | 任务 | 临时想法、待办、inbox | `prompts/roles/default.md` | `tasks/inbox.md` | `tasks/someday.md` |
-| 默认 | 其他，或无法定域 | `prompts/roles/default.md` | 本文件已足够 | 不要猜测加载 `family/`、`finance/`、`private-local/` |
+| 默认 | 其他，或无法定域 | `prompts/roles/default.md` | 本文件已足够 | 不要猜测加载 `private-local/`，也不要寻找不存在的目录 |
 
 ### 多域
 
-商业 × 政治等公开域可并行加载各自角色与入口。`family/`、`finance/`、`private-local/` 即使话题擦边，仍遵守被动规则。
+商业 × 政治等已有目录可并行加载各自角色与入口。`private-local/` 即使话题擦边，未经明确要求仍不读。
 
 ### 目录不存在
 
-`family/`、`finance/`、`prompts/templates/` 下的具体模板都可以尚未落地。跳过即可，不要补造内容。
+`prompts/templates/` 下可以还没有具体模板。跳过即可，不要补造不存在的目录。
 
 ## 设计理由（2026-09-19）
 

@@ -21,5 +21,4 @@
 ## 不要做
 
 - 不写采集、绕过、群发等可复现攻击步骤。
-- 不把个人财务（`finance/`）当成商业投资模型的一部分。
-- 不在商业回答里主动引入亲子或家庭事实。
+- 投资决策模型只读 `thinking/business/investing-and-decision-patterns/`。
