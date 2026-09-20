@@ -21,7 +21,7 @@
 
 | 书籍 / 文件名 | 类型 | 腾讯文档链接 | 领域归类 | 核心主题 / 模型 |
 |---|---|---|---|---|
-| **道德经** | 思维导图 | [docs.qq.com/mind/DSHlDUVZncXpwQWNy](https://docs.qq.com/mind/DSHlDUVZncXpwQWNy) | 哲学与系统论 | 无为与反者道之动、正和赋能（无积予人） |
+| **道德经** | 思维导图 | [docs.qq.com/mind/DSHlDUVZncXpwQWNy](https://docs.qq.com/mind/DSHlDUVZncXpwQWNy) | 哲学与系统论 | 无为、反者道之动、上士闻道/道隐无名、正和赋能（无积予人） |
 | **孙子兵法** | 思维导图 | [docs.qq.com/mind/DSHlWd2tNcG9QbW5i](https://docs.qq.com/mind/DSHlWd2tNcG9QbW5i) | 战略与兵家 | 势能营造、先胜后战、全胜与成本控制 |
 | **韩非子** | 思维导图 | [docs.qq.com/mind/DSGRYYnhYSFBIZkxS](https://docs.qq.com/mind/DSGRYYnhYSFBIZkxS) | 法家力学 | 法术势、二柄、君臣利益不相容 |
 | **资本论** | 思维导图 | [docs.qq.com/mind/DSE1Sd3dwVnBBQ1Bx](https://docs.qq.com/mind/DSE1Sd3dwVnBBQ1Bx) | 政治经济学 | 剩余价值、资本循环 $G-W-G'$、剥削率 |
