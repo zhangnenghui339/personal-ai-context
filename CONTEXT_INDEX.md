@@ -12,7 +12,7 @@ AI 应先根据问题识别领域，再加载下列最小上下文；不要默�
 | 回避原理、伪控制、全能自恋与老庄去中心化 | `books/notes/philosophy-and-methodology/avoidance-pseudo-control-and-daoist-unselfing.md`；延伸读 `books/notes/philosophy-and-methodology/dao-de-jing.md`、`books/notes/philosophy-and-methodology/zhuangzi-dazongshi-nuyu-buliangyi-seven-stages.md` |
 | 道德经第四十章（反者道之动 / 弱者道之用 / 有生于无） | `books/notes/philosophy-and-methodology/dao-de-jing.md` 专题精读三；对照第七十七章；延伸 `thinking/business/potential-energy-and-gaps/hobart-arbitrage-infrastructure.md`、`books/notes/philosophy-and-methodology/avoidance-pseudo-control-and-daoist-unselfing.md` |
 | 道德经第四十一章（上士闻道 / 下士大笑 / 道隐无名；体悟是否孤独） | `books/notes/philosophy-and-methodology/dao-de-jing.md` 专题精读七；对照第二十章「我独泊兮」、庄子「见独」；延伸 `books/notes/philosophy-and-methodology/zhuangzi-dazongshi-nuyu-buliangyi-seven-stages.md`、`books/notes/philosophy-and-methodology/avoidance-pseudo-control-and-daoist-unselfing.md` |
-| 道德经第四十三章（至柔驰骋至坚 / 无有入无间 / 无为之益） | `books/notes/philosophy-and-methodology/dao-de-jing.md` 专题精读八；对照第四十章弱者道之用、第七十八章水、第二章不言之教 |
+| 道德经第四十三章（至柔驰骋至坚 / 无有入无间 / 无为之益） | `books/notes/philosophy-and-methodology/dao-de-jing.md` 专题精读八；对照第四十章弱者道之用、第七十八章水、第二章不言之教、第十一章器之无；心智应用见同章 §7（ACT 同构与沙杯/谷两图不可混） |
 | 政治、制度、国际关系（总览入口） | `thinking/politics/session.md`；目录说明：`thinking/politics/README.md`；来源库：`thinking/politics/sources.md` |
 | 政治第一性原理（止掠场 × 剩余索取） | `thinking/politics/topics/politics-first-principles.md` |
 | 政治大统一架构（物理 × 制度几何 × 帝王术） | `thinking/politics/topics/politics-grand-architecture.md` |
