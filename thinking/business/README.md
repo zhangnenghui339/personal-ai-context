@@ -56,6 +56,7 @@
   - `borrow-distribution-five-steps-sop.md`：商业落地五步闭环 SOP（借分发 → 找差 → 借货 → 放量 → 留底）。
   - `ai-business-dynamics-and-opportunity-model.md`：AI 时代商业机会完整动力学（七大正向驱动 × 四大暗面约束 × 四层终局闭环）。
   - `geo-aeo-answer-engine-pipeline.md`：GEO/AEO 内容资产与答案分发管道——搜索→答案引擎迁移下的数字码头切入点（结构化内容 + 多引擎分发 + 归因闭环）。
+  - `first-step-sentence-vs-scale-goals.md`：起点句式 vs 尺寸目标——创业第一格怎么定（三条检验、沃尔玛句式机关、蓄根 vs 规划、道德经五十一章映射）。
 - `investing-and-decision-patterns/`：创始人 / 投资人复盘与顶尖玩家的决策规律。
   - `bezos-core-principles.md`：Bezos 核心观点总览（商业 × 投资两条线）。
   - `bezos-wedge-selection-funnel.md`：Bezos 式产品切入口选择五层漏斗（认相变 → 成本结构倒推品类 → wedge 结构条件 → 当期权 → 幂律/窗口/可占有性三道闸）。
