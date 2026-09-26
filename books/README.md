@@ -18,7 +18,7 @@
 - `reading-list.md`：阅读与精读进度清单。
 - `notes/`：按主题沉淀的书籍深度笔记与思考手记：
   - `strategy-and-military/`：战略、兵法与法家（孙子兵法、韩非子、管子、鬼谷子、罗织经）。
-  - `philosophy-and-methodology/`：哲学、认知与思维模型（道德经、资本论、哲学方法论、思维模型库、决策思维）。
+  - `philosophy-and-methodology/`：哲学、认知与思维模型（道德经、庄子、资本论、哲学方法论、思维模型库、决策思维）。
   - `management-and-business/`：管理、效能与商业智慧（德鲁克、给经理人的第一课、纳瓦尔、DAN KOE、时间管理高手修炼）。
   - `politics-and-power/`：权力动力学与政治经典（独裁者手册等，与 `thinking/politics/` 双向联动）。
   - `psychology-and-education/`：心理学与教育（心理学、家长教育误区）。
