@@ -11,6 +11,7 @@
   - `thinking/business/investing-and-decision-patterns/contrarian-decision-patterns.md`（顶级决策算法）
   - `books/notes/philosophy-and-methodology/decision-thinking.md`（投资心法、弱点隔离与三圈造风模型）
   - `books/notes/psychology-and-education/psychology.md`（认知偏差与自我防御机制）
+  - `thinking/psychology/iu-worry-self-and-dao.md`（IU、担忧回避、解其纷与 ACT cognitive defusion、后身外身与无己/心斋/坐忘）
 - 核心模型：
   - **正和赋能（无积予人）**
   - **第二十九章「将欲取天下而为之」复杂系统自组织与去自我（Unselfing）大统一（不可人为，顺道而为）**
