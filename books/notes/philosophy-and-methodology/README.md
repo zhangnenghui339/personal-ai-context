@@ -11,3 +11,5 @@
 - `decision-thinking.md`：《决策思维与投资心法》（日损机制、弱点隔离与生存价值、三圈造风模型）| [流程图源](https://docs.qq.com/flowchart/DSHZreGhYVHhpdGx5) / [导图源](https://docs.qq.com/mind/DSG5TZVREVVRPTmRS)
 - `zhuangzi-dazongshi-nuyu-buliangyi-seven-stages.md`：《庄子·大宗师》女偊教卜梁倚（外天下、外物、外生、朝彻、见独、无古今、不死不生与撄宁）
 - `avoidance-pseudo-control-and-daoist-unselfing.md`：回避原理、可控替代、Felt Control / Reality Control、全责换全能，以及老子“四自—玄同—日损”和庄子“心斋—坐忘”的去中心化路径
+- `dao-de-jing-mawangdui-69-80.md`：《道德经》帛书本第六十九至八十章治理链连续解构（帛书定本与异文汇总表、通行本「把机制译成品德」的统一篡改方向、各章机制要点、四条跨章统一线、行动判据总表、防偏判据总表、正反案例库、**考证边界与不确定清单**）
+- `dao-de-jing-cognitive-failure-table.md`：69–80 章认知故障总表（18 条认知机制、四自 × 五章矩阵、三个跨章惯犯：自是／控制幻觉／道德执照、统一线「把我从因果链里摘出去」、现场速查表）
