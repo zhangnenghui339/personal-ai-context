@@ -84,6 +84,7 @@ AI 应先根据问题识别领域，再加载下列最小上下文；不要默�
 | AI 创业、分发与商业化 | `thinking/business/session/session-ai-distribution.md` |
 | B2B 轻应用商业范式与四大多态（X生态/端侧/插件） | `thinking/business/cases/b2b-ai-products-library.md` |
 | AI 商业机会完整动力学（七大驱动 × 四大暗面 × 四层闭环） | `thinking/business/opportunity-discovery/ai-business-dynamics-and-opportunity-model.md` |
+| 不敢为天下先，故能成事长（三层：不抢先/不预先/不以我为先；「先」是序数、朴散为器；`不敢` vs `不屑`；删掉下半句判据与帛书反问句；曹参/Berners-Lee vs 崇祯/诸葛亮；四自与不为先；**网络伪托古注清单**） | `books/notes/philosophy-and-methodology/dao-de-jing-bugan-wei-tianxia-xian.md`；旧版见同目录 `dao-de-jing.md` §第六十七章（已加更新指针） |
 | 读书与经典研读（总览入口） | `books/README.md`；外部云盘/导图索引：`books/sources.md`；阅读书单与进度：`books/reading-list.md`；深度笔记库：`books/notes/` |
 | 读书相关 | `books/reading-list.md`、`books/notes/` |
 | 历史决策 | 对应项目的 `decisions.md` 或 `thinking/decision-journal/` |
