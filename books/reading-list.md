@@ -2,7 +2,7 @@
 
 | 书籍 / 专题 | 作者 / 来源 | 分类 | 核心模型 / 抓手 | 状态 | 笔记路径 |
 |---|---|---|---|---|---|
-| **道德经** | 老子 | 哲学与系统论 | 无积予人、为道日损、至柔心理灵活性、五十一章帛书深解（生畜刑器、养覆相变、创业案例）、六十三/六十四微步贝叶斯、六十六百谷王大海不争、六十七三宝资本配置以慈垣之、不敢先故能成器长系统动力学长文 | 进行中 | `books/notes/philosophy-and-methodology/dao-de-jing.md` |
+| **道德经** | 老子 | 哲学与系统论 | 无积予人、为道日损、至柔心理灵活性、五十一章帛书深解（生畜刑器、养覆相变、创业案例）、六十三/六十四微步贝叶斯、六十六百谷王大海不争、六十七三宝资本配置以慈垣之、成器长长文与跨模型解读 Prompt | 进行中 | `books/notes/philosophy-and-methodology/dao-de-jing.md` |
 | **独裁者手册** | 布鲁诺·德·梅斯奎塔 等 | 政治力学 | 选择人理论（$N, S, W$）、忠诚规范 | 已完成 | `books/notes/politics-and-power/dictators-handbook.md` |
 | **孙子兵法** | 孙武 | 战略与兵家 | 势能营造、先胜后战、成本意识 | 规划中 | `books/notes/strategy-and-military/sun-tzu.md` |
 | **韩非子** | 韩非 | 法家与制度 | 法术势、二柄、君臣博弈 | 规划中 | `books/notes/strategy-and-military/han-feizi.md` |

@@ -7,7 +7,7 @@ AI 应先根据问题识别领域，再加载下列最小上下文；不要默�
 | 临时想法与待整理事项 | `tasks/inbox.md` |
 | 某个项目 | `projects/<name>/status.md`，再按需读取同目录其他文件 |
 | 亲子与教育 | `family/parenting/`、`family/education/` |
-| 提示词 | `prompts/<domain>/` |
+| 提示词 | `prompts/<domain>/`；《道德经》复杂系统动力学跨模型统一解读 Prompt：`prompts/philosophy/daodejing-system-dynamics-prompt.md` |
 | 商业、哲学、心理思考 | `thinking/<domain>/` |
 | 回避原理、伪控制、全能自恋与老庄去中心化 | `books/notes/philosophy-and-methodology/avoidance-pseudo-control-and-daoist-unselfing.md`；延伸读 `books/notes/philosophy-and-methodology/dao-de-jing.md`（含五十一章帛书逐字深解、生畜刑器、育儿养覆相变与创业案例；六十三/六十四章微观动能与贝叶斯微步迭代；六十二/六十五/六十六章百谷王大海与天下莫能与之争；六十七章大而不肖泛化、三宝资本配置以慈垣之、不敢先与后身外身辩证、老子全书自证网络与四自解药对治、成器长主体考辨、崇祯藏内帑反例与正反案例对照[朱元璋/苹果 vs 崇祯/ofo]、「不敢为天下先故能成器长」系统动力学长文解析、古注通考）、`books/notes/philosophy-and-methodology/zhuangzi-dazongshi-nuyu-buliangyi-seven-stages.md` |
 | 政治、制度、国际关系（总览入口） | `thinking/politics/session.md`；目录说明：`thinking/politics/README.md`；来源库：`thinking/politics/sources.md` |
