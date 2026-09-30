@@ -10,6 +10,10 @@ AI 应先根据问题识别领域，再加载下列最小上下文；不要默�
 | 提示词 | `prompts/<domain>/` |
 | 商业、哲学、心理思考 | `thinking/<domain>/` |
 | 回避原理、伪控制、全能自恋与老庄去中心化 | `books/notes/philosophy-and-methodology/avoidance-pseudo-control-and-daoist-unselfing.md`；延伸读 `books/notes/philosophy-and-methodology/dao-de-jing.md`、`books/notes/philosophy-and-methodology/zhuangzi-dazongshi-nuyu-buliangyi-seven-stages.md` |
+| 帛书本第六十九至八十章连续解构（治理链：70 言有君事有宗 / 71 不知不知 / 74 不代司杀者 / 75 归因反转 / 76 柔弱者生之徒 / 77 天之道负反馈 / 78 受邦之诟 / 79 执契而不责 / 80 器闲兵不陈；含帛书定本异文汇总表、行动判据总表、防偏判据总表、正反案例库、考证边界清单） | `books/notes/philosophy-and-methodology/dao-de-jing-mawangdui-69-80.md`
+| 认知故障反查（18 条认知机制 × 四自五章矩阵 × 三个跨章惯犯 × 现场速查表） | `books/notes/philosophy-and-methodology/dao-de-jing-cognitive-failure-table.md`
+| 亲子边界与「勇于不敢」的第二重（五层动机、间歇强化、决策权三分区、话术与四把尺子） | `family/parenting/bugan-and-boundaries-with-daughter.md`；目录说明：`family/parenting/README.md`
+| 把老子原则落到具体关系／情境的提示词（双轨语气 + 六段骨架） | `prompts/philosophy/laozi-applied-situation-reading.md`；目录说明：`prompts/philosophy/README.md`
 | 政治、制度、国际关系（总览入口） | `thinking/politics/session.md`；目录说明：`thinking/politics/README.md`；来源库：`thinking/politics/sources.md` |
 | 政治第一性原理（止掠场 × 剩余索取） | `thinking/politics/topics/politics-first-principles.md` |
 | 政治大统一架构（物理 × 制度几何 × 帝王术） | `thinking/politics/topics/politics-grand-architecture.md` |
