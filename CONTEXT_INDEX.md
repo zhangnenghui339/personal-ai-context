@@ -10,7 +10,7 @@ AI 应先根据问题识别领域，再加载下列最小上下文；不要默�
 | 提示词 | `prompts/<domain>/` |
 | 商业、哲学、心理思考 | `thinking/<domain>/` |
 | 回避原理、伪控制、全能自恋与老庄去中心化 | `books/notes/philosophy-and-methodology/avoidance-pseudo-control-and-daoist-unselfing.md`；延伸读 `books/notes/philosophy-and-methodology/dao-de-jing.md`、`books/notes/philosophy-and-methodology/zhuangzi-dazongshi-nuyu-buliangyi-seven-stages.md` |
-| 受垢／认错阻力、责任与污名的分配（十二级垢分级、防御机制与阴影映射、观众律与给台阶、受垢五条件、组织垢定义、亲子长期管束的「不可索取承认」） | `books/notes/philosophy-and-methodology/dao-de-jing-shou-gou-twelve-levels.md` |
+| 受垢／认错阻力、责任与污名的分配（十二级垢分级、防御机制与阴影映射、观众律与给台阶、受垢五条件、组织垢定义、亲子长期管束的「不可索取承认」） | `books/notes/philosophy-and-methodology/dao-de-jing-shou-gou-twelve-levels.md`；拒垢与熟人共同体观众席案例解构读 `books/notes/philosophy-and-methodology/dao-de-jing-ju-gong-bu-shou-gou.md` |
 | 政治、制度、国际关系（总览入口） | `thinking/politics/session.md`；目录说明：`thinking/politics/README.md`；来源库：`thinking/politics/sources.md` |
 | 政治第一性原理（止掠场 × 剩余索取） | `thinking/politics/topics/politics-first-principles.md` |
 | 政治大统一架构（物理 × 制度几何 × 帝王术） | `thinking/politics/topics/politics-grand-architecture.md` |

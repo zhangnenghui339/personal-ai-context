@@ -12,3 +12,4 @@
 - `zhuangzi-dazongshi-nuyu-buliangyi-seven-stages.md`：《庄子·大宗师》女偊教卜梁倚（外天下、外物、外生、朝彻、见独、无古今、不死不生与撄宁）
 - `avoidance-pseudo-control-and-daoist-unselfing.md`：回避原理、可控替代、Felt Control / Reality Control、全责换全能，以及老子“四自—玄同—日损”和庄子“心斋—坐忘”的去中心化路径
 - `dao-de-jing-shou-gou-twelve-levels.md`：第七十八章「受邦之垢」展开（三道门：莫能识／莫能认／莫能行；十二级垢难度分级与防御机制—阴影映射；叙事量律／观众律／外衣律；面子＝存放在别人眼里的自我；项羽与刘邦对照实验；受垢五条件：自愿／有决定权／可持续／不可索取承认／无声誉上行；垢非能量守恒而是电荷守恒＋电势下行＋熵增；「自我肥大不产生垢，它产生拒垢」因果倒置修正）
+- `dao-de-jing-ju-gong-bu-shou-gou.md`：拒垢机制与熟人共同体观众席解构（去标识化：展品与展柜逻辑、展示与位置补偿、象征性支付、贬值回路与停止投标策略）
