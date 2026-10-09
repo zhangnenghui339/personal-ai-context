@@ -1,6 +1,6 @@
-# 道德经·拒垢机制解构：熟人共同体观众席与工具化亲子关系
+# 父亲案例分析：熟人共同体观众席、拒垢机制与工具化亲子关系
 
-- 归类：哲学、认知科学、心理防御机制、亲子、受垢力学
+- 归类：心理学与亲子案例、认知防御机制、受垢力学、去标识化机制解构
 - 关联专题：
   - `books/notes/philosophy-and-methodology/dao-de-jing-shou-gou-twelve-levels.md`（受邦之垢十二级分级、防御机制、观众律与受垢五条件）
   - `books/notes/philosophy-and-methodology/dao-de-jing.md`（为道日损、四自因果链、Fat Relentless Ego）

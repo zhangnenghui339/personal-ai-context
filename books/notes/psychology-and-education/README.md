@@ -6,3 +6,4 @@
 
 - `psychology.md`：《心理学基础与认知机制》（进化心理学、偏误修正、行为强化）| [专栏源](https://docs.qq.com/desktop/mydoc/folder/HbigXMxLVXAh)
 - `parenting-fallacies.md`：《家长教育误区与反常识模型》（正反馈构建、去说教化、心理资本）| [导图源](https://docs.qq.com/mind/DSHBMS0tjaE5JYWJM)
+- `father-case.md`：《父亲案例分析》（熟人共同体观众席、拒垢机制、展品与展柜逻辑、贬值回路与停止投标策略）
