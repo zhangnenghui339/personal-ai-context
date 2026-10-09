@@ -6,6 +6,7 @@
 - 关联专题：
   - `books/notes/philosophy-and-methodology/dao-de-jing.md`（主笔记）
   - `books/notes/philosophy-and-methodology/avoidance-pseudo-control-and-daoist-unselfing.md`（回避原理、全责换全能、四自—玄同—日损）
+  - `books/notes/psychology-and-education/father-case.md`（拒垢机制解构：熟人共同体观众席与工具化亲子关系——本篇的反向篇）
   - `books/notes/philosophy-and-methodology/decision-thinking.md`（弱点隔离、日损机制）
   - 第六十九至八十章连续解构与认知故障总表现存于分支 `note/dao-de-jing-mawangdui-69-80`，其 §78 已给出「门槛不是认知门，是羞耻门」——**本篇是该判断的展开**
 - 核心模型：

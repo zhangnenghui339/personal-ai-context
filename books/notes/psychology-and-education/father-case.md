@@ -1,11 +1,11 @@
-# 居功而不受垢：受垢的反向结构（观众席、象征性支付与验收回路）
+# 父亲案例分析：熟人共同体观众席、拒垢机制与工具化亲子关系
 
-- 归类：哲学、认知科学、心理防御机制、家庭关系、组织治理
-- 文本基准：**马王堆帛书甲乙本**第七十八章「受邦之垢，是谓社稷之主；受邦之不祥，是谓天下之王」
+- 归类：心理学与亲子案例、认知防御机制、受垢力学、去标识化机制解构
 - 关联专题：
-  - `books/notes/philosophy-and-methodology/dao-de-jing-shou-gou-twelve-levels.md`（十二级垢、三道门、受垢五条件、观众律与给台阶）——**本篇是它的反向篇**
-  - `books/notes/philosophy-and-methodology/avoidance-pseudo-control-and-daoist-unselfing.md`（回避原理、全责换全能）
-  - `books/notes/philosophy-and-methodology/dao-de-jing.md`（主笔记）
+  - `books/notes/philosophy-and-methodology/dao-de-jing-shou-gou-twelve-levels.md`（受邦之垢十二级分级、防御机制与阴影映射、观众律与给台阶、受垢五条件）——**本篇是它的反向篇**
+  - `books/notes/philosophy-and-methodology/avoidance-pseudo-control-and-daoist-unselfing.md`（回避原理、可控替代、全责换全能）
+  - `books/notes/philosophy-and-methodology/dao-de-jing.md`（为道日损、四自因果链、Fat Relentless Ego）
+- 文本基准：**马王堆帛书甲乙本**第七十八章「受邦之垢，是谓社稷之主；受邦之不祥，是谓天下之王」
 - 核心模型：
   - **方向判据**：受垢＝承担下行＋功劳不上行；其反向＝**功劳上行＋承担下行转嫁**
   - **观众席三变量**：构成／时间结构／**合法性耦合**（第三项是判定器）
@@ -13,8 +13,7 @@
   - **位置补偿律**：夸耀与贬低是同一动作的两个半程
   - **验收回路无接线**：反馈只从观众侧收，承担侧的反应不进入指标
   - **封闭回路**：在位置敏感关系里，付出越大、贬值越狠
-
-> 本篇的案例素材来自日常家庭场景，已做去标识处理，只保留机制。涉及具体个人的原始记录不进入本仓库。
+- 说明：本篇**去标识化**，仅保留机制、结构定性与决策推论。具体个人事实留存于本地私有空间，不进入本仓库。
 
 ---
 
