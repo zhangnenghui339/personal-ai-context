@@ -4,6 +4,7 @@
 - 关联专题：
   - `books/notes/philosophy-and-methodology/dao-de-jing-shou-gou-twelve-levels.md`（受邦之垢十二级分级、防御机制与阴影映射、观众律与给台阶、受垢五条件）——**本篇是它的反向篇**
   - `books/notes/philosophy-and-methodology/avoidance-pseudo-control-and-daoist-unselfing.md`（回避原理、可控替代、全责换全能）
+  - `books/notes/psychology-and-education/mother-case.md`（照护型错配：输入回路无接线、照护的自我指涉、双重销账）——**本篇的对子篇，两者互为镜像**
   - `books/notes/philosophy-and-methodology/dao-de-jing.md`（为道日损、四自因果链、Fat Relentless Ego）
 - 文本基准：**马王堆帛书甲乙本**第七十八章「受邦之垢，是谓社稷之主；受邦之不祥，是谓天下之王」
 - 核心模型：
