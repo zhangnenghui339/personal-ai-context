@@ -4,6 +4,7 @@
 - 关联专题：
   - `books/notes/psychology-and-education/father-case.md`（拒垢机制、熟人共同体观众席、验收回路无接线）——**本篇是它的对子篇，不是重复**
   - `books/notes/psychology-and-education/daughter-case.md`（禁令缺失、对象误认、反面即同轴、补偿式育儿脱靶）——**下一代篇，本链条上唯一还能改向的环节**
+  - `books/notes/psychology-and-education/self-case.md`（无回执回路、双通道关闭、燃料类型、解禁≠学习）——**承接篇：被这些结构装配出来的那台机器**
   - `books/notes/philosophy-and-methodology/dao-de-jing-shou-gou-twelve-levels.md`（受垢五条件、观众律与给台阶、十二级垢分级）
   - `books/notes/psychology-and-education/parenting-fallacies.md`（去说教化、正反馈构建）
 - 文本基准：马王堆帛书甲乙本第七十八章（受垢五条件由该章推出）；第十七章「功成事遂，百姓皆谓我自然」
@@ -121,6 +122,8 @@
 ---
 
 ## 4. 欲望的道德化：影响最长期的一条
+
+> **操作层（成年后如何解除这条禁令）见 `self-case.md` 第 8 节「解禁：「我想要」通道的重建」。本节只给诊断，不给出路。**
 
 **现象**：对接收方的一项小额需求，给予方的回应不是「没钱」，而是**把需求本身定性为不道德**（指向另一人的辛劳）。
 

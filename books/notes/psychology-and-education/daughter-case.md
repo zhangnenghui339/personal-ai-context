@@ -4,6 +4,7 @@
 - 关联专题：
   - `books/notes/psychology-and-education/father-case.md`（展品与展柜、验收回路无接线、不传授的示范）——**上一代的拒垢侧**
   - `books/notes/psychology-and-education/mother-case.md`（照护的自我指涉、输入回路无接线、欲望的道德化、出具收据）——**上一代的错配侧**
+  - `books/notes/psychology-and-education/self-case.md`（无回执回路、双通道关闭、燃料类型、解禁≠学习）——**承接篇：被这些结构装配出来的那台机器**
   - `books/notes/philosophy-and-methodology/dao-de-jing-shou-gou-twelve-levels.md`（受垢五条件、亲子长期管束的「不可索取承认」）
   - `books/notes/psychology-and-education/parenting-fallacies.md`（去说教化、正反馈构建）
 - 结构位置：前两篇写的是**这一代如何被塑造**，本篇写的是**下一代会不会复制**。它是整条链上唯一还能改向的环节。

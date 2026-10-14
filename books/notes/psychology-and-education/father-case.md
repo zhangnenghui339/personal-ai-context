@@ -6,6 +6,7 @@
   - `books/notes/philosophy-and-methodology/avoidance-pseudo-control-and-daoist-unselfing.md`（回避原理、可控替代、全责换全能）
   - `books/notes/psychology-and-education/mother-case.md`（照护型错配：输入回路无接线、照护的自我指涉、双重销账）——**本篇的对子篇，两者互为镜像**
   - `books/notes/psychology-and-education/daughter-case.md`（禁令缺失、对象误认、反面即同轴、补偿式育儿脱靶）——**下一代篇，本链条上唯一还能改向的环节**
+  - `books/notes/psychology-and-education/self-case.md`（无回执回路、双通道关闭、燃料类型、解禁≠学习）——**承接篇：被这些结构装配出来的那台机器**
   - `books/notes/philosophy-and-methodology/dao-de-jing.md`（为道日损、四自因果链、Fat Relentless Ego）
 - 文本基准：**马王堆帛书甲乙本**第七十八章「受邦之垢，是谓社稷之主；受邦之不祥，是谓天下之王」
 - 核心模型：
