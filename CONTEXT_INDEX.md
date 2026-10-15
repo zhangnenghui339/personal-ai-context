@@ -10,10 +10,10 @@ AI 应先根据问题识别领域，再加载下列最小上下文；不要默�
 | 提示词 | `prompts/<domain>/` |
 | 商业、哲学、心理思考 | `thinking/<domain>/` |
 | 回避原理、伪控制、全能自恋与老庄去中心化 | `books/notes/philosophy-and-methodology/avoidance-pseudo-control-and-daoist-unselfing.md`；延伸读 `books/notes/philosophy-and-methodology/dao-de-jing.md`、`books/notes/philosophy-and-methodology/zhuangzi-dazongshi-nuyu-buliangyi-seven-stages.md` |
-| 受垢／认错阻力、责任与污名的分配（十二级垢分级、防御机制与阴影映射、观众律与给台阶、受垢五条件、组织垢定义、亲子长期管束的「不可索取承认」） | `books/notes/philosophy-and-methodology/dao-de-jing-shou-gou-twelve-levels.md` |
-| 拒垢机制、熟人共同体观众席与工具化亲子关系（受垢的反向结构：象征性支付与「一句话的门槛」、位置补偿律、逆向感谢律、验收回路无接线、封闭回路与停止投标、观众席的代际传递、建议源偏倚判读：持仓—发言背离／部署时机／不可逆窗口） | `books/notes/psychology-and-education/father-case.md` |
-| 照护型错配、以爱为名的需求覆盖与匮乏参数的代际传递（输入回路无接线、照护的自我指涉、零成本判据、耗尽式劝说与代理接管、欲望的道德化与需求羞耻、双重销账、受垢者＋不响应的照护者、育儿的「征询动作」） | `books/notes/psychology-and-education/mother-case.md` |
-| 禁令缺失、补偿式育儿与代际传递的断链点（高回应＋低要求、承受期才是训练点、对象误认、反面即同轴、勉强 vs 约束的受益人×时间尺度判据、超量自由与边界内的自由、安全基地的第二属性＝稳定、杠杆假说已检验三项全空并撤回、回执改挂三条行为证据、让步归因判据、仪式性文本不可用作诊断、三步现场脚本、AAI 与 earned secure） | `books/notes/psychology-and-education/daughter-case.md` |
+| 受垢／认错阻力、责任与污名的分配（十二级垢分级、防御机制与阴影映射、观众律与给台阶、受垢五条件、组织垢定义、亲子长期管束的「不可索取承认」、育儿受垢的四阶阻尼级联与有体温的承重墙） | `books/notes/philosophy-and-methodology/dao-de-jing-shou-gou-twelve-levels.md` |
+| 拒垢机制、熟人共同体观众席与工具化亲子关系（受垢的反向结构：象征性支付与「一句话的门槛」、位置补偿律、逆向感谢律、验收回路无接线、封闭回路与停止投标、观众席的代际传递、出具收据与疼痛通道双侧关闭、宗族事务隔绝机制、建议源偏倚判读：持仓—发言背离／部署时机／不可逆窗口） | `books/notes/psychology-and-education/father-case.md` |
+| 照护型错配、以爱为名的需求覆盖与匮乏参数的代际传递（输入回路无接线、照护的自我指涉、零成本判据、耗尽式劝说与代理接管、欲望的道德化与需求羞耻、双重销账、受垢者＋不响应的照护者、育儿的「征询动作」、父侧出具收据的合流事实） | `books/notes/psychology-and-education/mother-case.md` |
+| 禁令缺失、补偿式育儿与代际传递的断链点（高回应＋低要求、承受期才是训练点、对象误认、反面即同轴、勉强 vs 约束的受益人×时间尺度判据、超量自由与边界内的自由、安全基地的第二属性＝稳定、虚假自辩陷阱、后其身反向扮演坏爸爸之误区、河床与溪流模型与承重墙降压法则、杠杆假说已检验三项全空并撤回、回执改挂三条行为证据、让步归因判据、仪式性文本不可用作诊断、三步现场脚本、AAI 与 earned secure 精确定位、育儿受垢四阶阻尼） | `books/notes/psychology-and-education/daughter-case.md` |
 | 自我结构、代偿型执行力与「我想要」通道的重建（三条无回执回路与习得性无助、双通道关闭＝不被看见／不被允许、强迫性自立的成本比较来源、燃料类型与情绪依赖型执行力、可展示的伤口、解禁≠学习的六条操作与三理由判据、不自在≠不合适的区分法） | `books/notes/psychology-and-education/self-case.md` |
 | 政治、制度、国际关系（总览入口） | `thinking/politics/session.md`；目录说明：`thinking/politics/README.md`；来源库：`thinking/politics/sources.md` |
 | 政治第一性原理（止掠场 × 剩余索取） | `thinking/politics/topics/politics-first-principles.md` |
