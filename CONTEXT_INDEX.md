@@ -15,6 +15,7 @@ AI 应先根据问题识别领域，再加载下列最小上下文；不要默�
 | 照护型错配、以爱为名的需求覆盖与匮乏参数的代际传递（输入回路无接线、照护的自我指涉、零成本判据、耗尽式劝说与代理接管、欲望的道德化与需求羞耻、双重销账、受垢者＋不响应的照护者、育儿的「征询动作」） | `books/notes/psychology-and-education/mother-case.md` |
 | 禁令缺失、补偿式育儿与代际传递的断链点（高回应＋低要求、承受期才是训练点、对象误认、反面即同轴、勉强 vs 约束的受益人×时间尺度判据、超量自由与边界内的自由、安全基地的第二属性＝稳定、杠杆假说已检验三项全空并撤回、回执改挂三条行为证据、让步归因判据、仪式性文本不可用作诊断、三步现场脚本、AAI 与 earned secure） | `books/notes/psychology-and-education/daughter-case.md` |
 | 自我结构、代偿型执行力与「我想要」通道的重建（三条无回执回路与习得性无助、双通道关闭＝不被看见／不被允许、强迫性自立的成本比较来源、燃料类型与情绪依赖型执行力、可展示的伤口、解禁≠学习的六条操作与三理由判据、不自在≠不合适的区分法） | `books/notes/psychology-and-education/self-case.md` |
+| 屏幕时间的测量方法（口径 `申请≠批准≠实际使用`、证据分级与「孩子自己的申请记录最硬」、有出口才可用、记录≠检查的伦理边界、「作业做不完」的怀疑顺序＝负荷→困难→挤占、`负荷 × 屏幕`交叉表与 `T+S>W` 预算不可行判据、记录表三条约束、硬证据使用规则） | `books/notes/psychology-and-education/daughter-screen-log-method.md` |
 | 政治、制度、国际关系（总览入口） | `thinking/politics/session.md`；目录说明：`thinking/politics/README.md`；来源库：`thinking/politics/sources.md` |
 | 政治第一性原理（止掠场 × 剩余索取） | `thinking/politics/topics/politics-first-principles.md` |
 | 政治大统一架构（物理 × 制度几何 × 帝王术） | `thinking/politics/topics/politics-grand-architecture.md` |
