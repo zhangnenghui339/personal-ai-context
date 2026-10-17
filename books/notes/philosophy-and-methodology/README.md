@@ -9,6 +9,7 @@
 - `philosophy-methodology.md`：《哲学方法论》（唯物辩证法、第一性原理、认识论）| [导图源](https://docs.qq.com/mind/DSFprWkV0UWhHRG9C)
 - `mental-models.md`：《思维模型库》（跨学科思维栅格系统）| [表格源](https://docs.qq.com/sheet/DSFRNU1R3cVdmek1o)
 - `decision-thinking.md`：《决策思维与投资心法》（日损机制、弱点隔离与生存价值、三圈造风模型）| [流程图源](https://docs.qq.com/flowchart/DSHZreGhYVHhpdGx5) / [导图源](https://docs.qq.com/mind/DSG5TZVREVVRPTmRS)
+- `zhuangzi-core-thought-wuji-xinzhai-zuowang.md`：《庄子》核心思想（成心、无己、心斋、坐忘、齐物、物化、无用之用；逍遥≠逃避：无待解除人质而非关系）
 - `zhuangzi-dazongshi-nuyu-buliangyi-seven-stages.md`：《庄子·大宗师》女偊教卜梁倚（外天下、外物、外生、朝彻、见独、无古今、不死不生与撄宁）
 - `avoidance-pseudo-control-and-daoist-unselfing.md`：回避原理、可控替代、Felt Control / Reality Control、全责换全能，以及老子“四自—玄同—日损”和庄子“心斋—坐忘”的去中心化路径
 - `dao-de-jing-shou-gou-twelve-levels.md`：第七十八章「受邦之垢」展开（三道门：莫能识／莫能认／莫能行；十二级垢难度分级与防御机制—阴影映射；叙事量律／观众律／外衣律；面子＝存放在别人眼里的自我；项羽与刘邦对照实验；受垢五条件：自愿／有决定权／可持续／不可索取承认／无声誉上行；垢非能量守恒而是电荷守恒＋电势下行＋熵增；「自我肥大不产生垢，它产生拒垢」因果倒置修正）
